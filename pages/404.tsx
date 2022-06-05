@@ -1,11 +1,9 @@
-import Header from '../components/header'
-import Footer from '../components/footer'
-
+import Image from 'next/image'
+import Layout from '../components/layout'
 
 export default function Custom404() {
     return (
-        <div>
-            <Header />
+        <Layout>
 
             <section className="banner">
                 <div className="container">
@@ -14,16 +12,18 @@ export default function Custom404() {
                         <div className="col-lg my-auto mx-auto text-center">
                             <h1 className="mb-3">404</h1>
                             <p className="mb-4">Sentimos muito, mas não irá encontrar nada aqui, nem mesmo o One Piece.</p>
-        
+
                         </div>
                         <div className="col-sm">
-                            <img className="w-100 rounded shadow" src="\images\roger.webp" alt="Pirate King" />
+
+                            <div className="w-100 rounded shadow" >
+                                <Image src="/images/roger.webp" alt="Pirate King" layout='responsive' height="60%" width="100%" objectFit="contain" />
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <Footer />
-        </div>
+        </Layout>
     )
 }

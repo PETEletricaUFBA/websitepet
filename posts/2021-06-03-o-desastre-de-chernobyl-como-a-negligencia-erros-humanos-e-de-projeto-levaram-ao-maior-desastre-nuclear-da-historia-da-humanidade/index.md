@@ -8,7 +8,7 @@ tags:
   - "chernobyl"
   - "energianuclear"
   - "engenharia"
-image: "images/blog/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade.jpg"
+cover: "chernobyl4.jpg"
 authors: 
  - brenoAmin
  - elderPereira

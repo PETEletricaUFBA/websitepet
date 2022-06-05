@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Social from "../data/social.json";
+import Link from 'next/link'
 
 let social = Social.social;
 const Footer = () => {
@@ -8,16 +9,14 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     {/* TODO: corrigir o alinhamento e distribuir melhor os elementos */}
-                    <a
-                        className="col mb-4 align-self-start "
-                        href="\"
-                    >
-                        <div className="img-fluid">
-                            <Image src="/images/logo.png"
-                                width="200px" // TODO: Ajustar via css local
-                                height="54px"
-                                alt="PET Elétrica UFBA" /></div>
-                    </a>
+                    <Link href="/" passHref>
+                        <a className="col mb-4 align-self-start ">
+                            <div className="img-fluid">
+                                <Image src="/images/logo.png"
+                                    width="200px" // TODO: Ajustar via css local
+                                    height="54px"
+                                    alt="PET Elétrica UFBA" /></div>
+                        </a></Link>
                     <p className="mb-4 col-sm-6 align-self-center">
                         Rua Professor Aristídes Novis, 2 <br />
                         Federação, Salvador - BA <br />

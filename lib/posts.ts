@@ -2,7 +2,13 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
-import html from 'remark-html';
+import remarkHtml from 'remark-html';
+import remarkGfm from 'remark-gfm';
+import pic from '../posts/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl4.jpg';
+import { StaticImageData } from 'next/image';
+// import pic from '../public/images/logo.png';
+
+// const pic = require('../posts/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl4.jpg');
 
 const postsDirectory = path.join(process.cwd(), 'posts');
 
@@ -15,10 +21,17 @@ export function getSortedPostsData() {
 
         const fileContents = fs.readFileSync(file, 'utf8');
         const matterResult = matter(fileContents);
+        const cover : string ='../posts/' + id + '/images/' + matterResult.data.cover;
 
+
+        const image = pic.src;
+
+        const link = `/corrente-alternativa/${id}`;
         // Combine the data with the id
         return {
             id,
+            link,
+            image,
             ...matterResult.data,
         };
     });
@@ -58,16 +71,18 @@ export async function getPostData(id) {
     const matterResult = matter(fileContents);
 
     const processedContent = await remark()
-        .use(html)
+        .use(remarkHtml, {sanitize: false})
+        .use(remarkGfm)
         .process(matterResult.content);
-        
+
     const contentHtml = processedContent.toString();
 
-
+    const link = `/corrente-alternativa/${id}`;
     // Combine the data with the id
     return {
         id,
         contentHtml,
+        link,
         ...matterResult.data,
     };
 }

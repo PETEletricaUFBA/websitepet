@@ -1,11 +1,11 @@
-import type { NextPage } from 'next'
 import Image from 'next/image'
 import { useState } from "react";
+import Link from 'next/link';
 
-import Header from '../components/header'
-import Footer from '../components/footer'
 import HomeConf from '../data/home.json'
 import { getSortedPostsData } from '../lib/posts';
+import Layout from '../components/layout';
+
 
 let triade = HomeConf.triade
 let memorial = HomeConf.memorial
@@ -21,8 +21,7 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData }) {
   return (
-    <div className="Home">
-      <Header />
+    <Layout>
 
       <Banner />
       <CorrenteAlternativa featuredPost={allPostsData[0]} />
@@ -30,8 +29,7 @@ export default function Home({ allPostsData }) {
       <Depoimentos />
       <Prosel />
 
-      <Footer />
-    </div>
+    </Layout>
   )
 }
 const Banner = () => (
@@ -79,37 +77,40 @@ function CorrenteAlternativa({ featuredPost }): JSX.Element {
       <div className="col-12 ">
         <div className="row align-items-center">
           <div className="col-md-6 mb-4 mb-md-0">
-            <img
-              src={featuredPost.image}
-              alt={featuredPost.title}
-              className="img-fluid rounded-lg w-100 "
-              style={{
-                width: "300px",
-                height: "350px",
-                objectFit: "cover",
-                objectPosition: "0% 20%",
-              }} />
+            <div className="img-fluid rounded-lg w-100 " >
+              <Image
+              
+                src={featuredPost.image}
+                alt={featuredPost.title}
+
+                width="300px"
+                height="350px"
+                objectFit="cover"
+                objectPosition="0% 20%"
+              />
+            </div>
             {/* // TODO: Ajeitar a imagem de destaque. */}
           </div>
           <div className="col-md-6">
             <h3>
-              <a
-                href={featuredPost.link} //TODO: ajustar o link
-                title={featuredPost.title}
-                className="post-title" >
-                {featuredPost.title}
-              </a>
+              <Link href={featuredPost.link} passHref>
+                <a title={featuredPost.title} className="post-title" >
+                  {featuredPost.title}
+                </a>
+              </Link>
             </h3>
             {/* TODO: Summary */}
             <p className="card-text">{featuredPost.summary}</p>
-            <a href={featuredPost.link} title={featuredPost.title} className="btn btn-primary">
-              READMORE
-            </a>
+            <Link href={featuredPost.link} passHref>
+              <a title={featuredPost.title} className="btn btn-primary">
+                READMORE
+              </a>
+            </Link>
           </div>
         </div>
 
       </div>
-    </section>
+    </section >
   );
 }
 
@@ -206,13 +207,11 @@ const Prosel = () => (
             Confira as informações de como funciona o nosso processo seletivo.
           </p>
 
-          <a
-            href="/prosel"
-            title="Processo Seletivo"
-            className="btn btn-primary"
-          >
-            Processo Seletivo
-          </a>
+          <Link href="/prosel" passHref>
+            <a title="Processo Seletivo" className="btn btn-primary">
+              Processo Seletivo
+            </a>
+          </Link>
         </div>
       </div>
     </div>

@@ -1,16 +1,15 @@
-import Header from '../components/header'
-import Footer from '../components/footer'
-
+import Image from 'next/image';
+import Layout from '../components/layout';
 
 const Team = () => {
-  return (<div className="Team">
-    <Header />
+  return (
+    <Layout>
 
-    <Actives />
-    <Egress />
+      <Actives />
+      <Egress />
 
-    <Footer />
-  </div>)
+    </Layout>
+  )
 };
 
 const Actives = () => (
@@ -20,7 +19,9 @@ const Actives = () => (
       <div className="row row-cols-1 row-cols-md-3 g-4">
         <div className="col">
           <div className="card h-100 shadow border rounded-lg">
-            <img src="/images/roger.webp" className="card-img-top rounded-top" alt="..." />
+            <div className="card-img-top rounded-top">
+              <Image src="/images/roger.webp" className="card-img-top rounded-top" alt="..." layout='responsive' height="100%" width="100%" objectFit="contain" />
+            </div>
             <div className="card-body">
               <h5 className="card-title">Gol D. Roger</h5>
               <p className="card-text">I'm Roger! This meeting must be fate, Rayleigh! What do you say to turning the world upside down with me?!!</p>
@@ -40,7 +41,11 @@ const Egress = () => (
     <div className="container">
       <h2 className="text-center">Hall dos Egressos</h2>
       <div className="row">
-          <a href="/" title="NOME"><img className="rounded-img" src="/images/roger.webp" alt="NOME" /></a>
+        {/* TODO: Implementar Modal pop up para o card dos egressos */}
+        <div className="rounded-img">
+          <Image className="rounded-img" src="/images/roger.webp" alt="NOME" layout='responsive' height="100%" width="100%" objectFit="contain" />
+        </div>
+
       </div>
     </div>
   </section>

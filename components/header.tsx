@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const menu = [
   {
@@ -28,14 +29,16 @@ function Header(): JSX.Element {
     <header className="navigation">
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent">
-          <a className="navbar-brand" href="/">
-            <div className="img-fluid">
-              <Image
-                width="200px" // TODO: Ajustar via css local
-                height="54px"
-                src="/images/logo.png"
-                alt="Logo do pet" /></div>
-          </a>
+          <Link href="/" passHref>
+            <a className="navbar-brand">
+              <div className="img-fluid">
+                <Image
+                  width="200px" // TODO: Ajustar via css local
+                  height="54px"
+                  src="/images/logo.png"
+                  alt="Logo do pet" /></div>
+            </a>
+          </Link>
 
           <button
             className="navbar-toggler border-0"
@@ -52,20 +55,19 @@ function Header(): JSX.Element {
               {/* Menu Item */}
               {menu.map((item, index) => (
                 <li className="nav-item" key={index}>
-                  <a className="nav-link" href={item.link} title={item.name}>
-                    {item.name}
-                  </a>
+                  <Link href={item.link} passHref>
+                    <a className="nav-link" title={item.name}>
+                      {item.name}
+                    </a>
+                  </Link>
                 </li>
               ))}
             </ul>
-
-            <a
-              href="prosel"
-              title="Processo Seletivo"
-              className="btn btn-sm btn-primary ml-3"
-            >
-              Processo Seletivo
-            </a>
+            <Link href="prosel" passHref>
+              <a title="Processo Seletivo" className="btn btn-sm btn-primary ml-3" >
+                Processo Seletivo
+              </a>
+            </Link>
           </div>
         </nav>
       </div>

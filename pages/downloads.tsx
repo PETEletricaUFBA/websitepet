@@ -1,20 +1,18 @@
-import Header from '../components/header'
-import Footer from '../components/footer'
-
 import AnuualPlans from '../data/annualPlans.json'
 import ReportsData from '../data/reports.json'
+import Layout from '../components/layout';
 
 const plans = AnuualPlans.plans;
 const reports = ReportsData.reports;
 
 export default function Downloads() {
-    return (<div className="Team">
-        <Header />
-        <Title />
-        <Plans />
-        <Reports />
-        <Footer />
-    </div>);
+    return (
+        <Layout>
+            <Title />
+            <Plans />
+            <Reports />
+        </Layout>
+    );
 }
 
 

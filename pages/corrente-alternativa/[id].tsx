@@ -1,23 +1,35 @@
-import Header from '../../components/header'
-import Footer from '../../components/footer'
 import { getPostData, getAllPostIds } from '../../lib/posts';
+import Layout from '../../components/layout';
+import Head from 'next/head';
+import Date from '../../components/date';
 
 
 export default function Post({ postData }) {
-    return (<div>
-        <Header />
+    return (
+        <Layout>
+            <Head>
+                <title>{postData.title}</title>
+            </Head>
 
-        {postData.title}
-        <br />
-        {postData.id}
-        <br />
-        {postData.date}
-        <br />
-        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            <Content postData={postData} />
+
+        </Layout>
+
+    );
+}
 
 
-        <Footer />
-    </div>);
+function Content({ postData }) {
+    return (
+        <div className="container">
+            <div className='col-lg-8 mx-auto'>
+                <br />
+                <p className='text-end fw-lighter'><Date dateString={postData.date} /></p>
+                <br />
+                <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+            </div>
+        </div>
+    );
 }
 
 export async function getStaticPaths() {

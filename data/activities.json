@@ -3,19 +3,19 @@
         {
             "name": "Pesquisas Individuais e/ou Pesquisas Coletivas",
             "status": "ongoing",
-            "image":   "",
+            "image":   "/images/roger.webp",
             "summary": "A atividade Pesquisas Individuais e/ou Pesquisas Coletivas (2 ou 3 bolsistas) visa proporcionar aos(as) bolsistas ou grupo de bolsistas do PET Elétrica UFBA a oportunidade de desenvolver pesquisas orientadas de maneira individual dentro do ambiente do PET. As pesquisas individuais irão acontecer preferencialmente orientadas por professores e/ou engenheiros da área escolhida pelo(a) petiano(a) para conduzir sua pesquisa."
         },
         {
             "name": "Minicursos e Vídeo-aulas",
             "status": "ongoing",
-            "image":   "",
+            "image":   "/image/roger.webp",
             "summary": "Essa atividade é promovida pelo Grupo PET Elétrica e faz a divulgação de conhecimentos/saberes adquiridos pelos discentes pertencentes ao programa para o público universitário e para a sociedade, através do canal do YouTube e minicursos presenciais/onlines. Esses saberes são conhecimentos adquiridos no curso de Engenharia Elétrica ou conhecimentos extensionistas como Python, Excel, AutoCad, entre outros tipos de conhecimento."
         },
         {
             "name": "Conexão PET",
             "status": "realized",
-            "image":   "",
+            "image":   "/image/roger.webp",
             "summary": "O \"Conexão PET\" é uma atividade que visa proporcionar a integração de conhecimentos de fora para dentro, e de dentro para fora da Universidade, através de conteúdos que não são diretamente abordados em ementas convencionais do curso de Engenharia Elétrica. A atividade surge com o intuito de fomentar o debate de temas diversos; de promover a realização de atividades de produção artístico-cultural, algo não frequente no âmbito dos cursos de Engenharia; de construir um novo espaço de aprendizagem e reflexão dentro da comunidade acadêmica; de promover a integração entre discentes de diferentes áreas e cursos e de realizar atividades que ultrapassem os muros da Universidade."
         }
     ]

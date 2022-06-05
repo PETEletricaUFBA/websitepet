@@ -1,19 +1,20 @@
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Image from 'next/image';
 
 import ActiviesData from '../data/activities.json'
+import Layout from '../components/layout';
 
 const activities = ActiviesData.activities;
 
 export default function Activities() {
-    return (<div className="Team">
-        <Header />
-        <Title />
-        <Body />
-        <Egress />
+    return (
+        <Layout>
 
-        <Footer />
-    </div>);
+            <Title />
+            <Body />
+            <Egress />
+
+        </Layout>
+        );
 }
 
 const Title = () => (
@@ -37,7 +38,9 @@ function Body() {
                             <div className="card shadow border rounded-lg p2">
                                 <div className="row g-0 h-100">
                                     <div className="col-md-4">
-                                        <img src={item.image} className="img-fluid h-100 rounded-start" alt={item.name + " logo"} />
+                                        <div className="img-fluid h-100 rounded-start">
+                                            <Image src={item.image} alt={item.name + " logo"} layout='responsive' height="100%" width="100%" objectFit="contain" />
+                                        </div>
                                     </div>
                                     <div className="col-md-8">
 
@@ -69,7 +72,9 @@ const Egress = () => (
                         <div className="card shadow border rounded-lg p2">
                             <div className="row g-0 h-100">
                                 <div className="col-md-4">
-                                    <img src={item.image} className="img-fluid h-100 rounded-start" alt={item.name + " logo"} />
+                                    <div className="img-fluid h-100 rounded-start">
+                                        <Image src={item.image} alt={item.name + " logo"} layout='responsive' height="100%" width="100%" objectFit="contain" />
+                                    </div>
                                 </div>
                                 <div className="col-md-8">
 

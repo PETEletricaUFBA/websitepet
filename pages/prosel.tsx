@@ -1,22 +1,20 @@
-import Header from '../components/header'
-import Footer from '../components/footer'
-
 import ProselData from '../data/prosel.json'
+import Layout from '../components/layout';
 
 const links = ProselData.links;
 const calendar = ProselData.calendar;
 
 const Prosel = () => {
-    return (<div>
-        <Header />
+    return (
+        <Layout>
 
-        <Title />
-        <About />
-        <Links />
-        <Calendar />
+            <Title />
+            <About />
+            <Links />
+            <Calendar />
 
-        <Footer />
-    </div>);
+        </Layout>
+    );
 };
 
 const Title = () => (
@@ -79,7 +77,7 @@ const Links = () => (
                 {links.map((item, index) => (
                     <div key={index} className="col-sm-6 mb-4">
                         <div className="feature-card text-center bg-light">
-                            <a target="_blank" href={item.link}><i className={item.icon + " mb-3"}></i>
+                            <a target="_blank" href={item.link} rel="noreferrer"><i className={item.icon + " mb-3"}></i>
                                 <h4 className="mb-2">{item.name}</h4>
                             </a>
                             <p>{item.content}</p>
@@ -114,7 +112,7 @@ const Calendar = () => (
                         </thead>
                         <tbody>
                             {calendar.map((item, index) => (
-                                <tr>
+                                <tr key={index.toString()}>
                                     <td scope="row">{item.date}</td>
                                     <td scope="row">{item.description}</td>
                                 </tr>

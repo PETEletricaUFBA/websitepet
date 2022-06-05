@@ -5,7 +5,7 @@ categories:
   - "corrente-alternativa"
   - "engenharia-eletrica"
   - "tecnologia-e-inovacao"
-image: "images/blog/2021-09-18-vantagens-do-uso-de-energia-nuclear.jpg"
+cover: "cover.jpg"
 authors: 
   - joeltonDJunior
 type: "featured"
