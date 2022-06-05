@@ -1,0 +1,38 @@
+// Color Variables
+
+$primary-color: #001d7e;
+$text-color: #777;
+$text-color-dark: #222;
+$body-color: #fff;
+$border-color: #ECECEC;
+$black: #000;
+$white: #fff;
+$light: #d1dcff;
+
+// Font Variables
+$primary-font: 'Lato',
+sans-serif;
+$icon-font: 'Font Awesome 5 Free';
+$card-height: 100%;
+
+@import "/node_modules/fontawesome-free/scss/fontawesome.scss";
+@import "/node_modules/fontawesome-free/scss/solid.scss";
+@import "/node_modules/fontawesome-free/scss/brands.scss";
+
+@import "/node_modules/bootstrap/scss/bootstrap";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@import 'mixins';
+
+@import 'typography';
+
+@import 'buttons';
+
+@import 'common';
+
+@import 'templates/navigation.scss';
+
+@import 'templates/main.scss';
+
+@import 'custom';

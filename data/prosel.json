@@ -1,0 +1,58 @@
+{
+    "links": [
+        {
+            "name": "edital",
+            "icon": "fas fa-journal-whills",
+            "content": "Todas as informações oficiais estarão neste importante documento. Assim, é de obrigatoriedade a leitura e o entendimento completo para uma participação saudável no processo seletivo.",
+            "link": "/docs/prosel/PS_20221_edital_assinado.pdf"
+        },
+        {
+            "name": "Formulario de inscrição",
+            "icon": "fas fa-address-card",
+            "content": "Em virtude das recomendações de distanciamento social, as inscrições serão feitas de forma on-line. Dessa forma, deve-se acessar o link, anexar a documentação necessária e fazer sua inscrição.",
+            "link": "https://form.jotform.com/220393622672657"
+        },
+        {
+            "name": "Instruções",
+            "icon": "fas fa-tasks",
+            "content": "Esse documento apresenta as instruções para a elaboração da Carta de Motivação e da Proposta de Atividade, descritas no Edital para Seleção do PET Elétrica UFBA.",
+            "link": "/docs/prosel/PS_20221_instrucoes_carta.pdf"
+        },
+        {
+            "name": "Termo de Autodeclaração",
+            "icon": "fas fa-file-alt",
+            "content": "Esse documento deve ser assinado pelos participantes que estão concorrendo a vagas para pessoas indígenas e/ou negras afirmando sua identidade étnico-racial.",
+            "link": "/docs/prosel/PS_20221_anexo1_termo_de_autodeclaracao.pdf"
+        }
+    ],
+    "calendar": [
+        {
+            "date": "18/02/2022",
+            "description": "Lançamento do Edital e abertura das inscrições."
+        },
+        {
+            "date": "17/03/2022",
+            "description": "Ultimo dia de inscrições."
+        },
+        {
+            "date": "Até 18/03/2022",
+            "description": "Homologação das inscrições."
+        },
+        {
+            "date": "21/03/2022",
+            "description": "Dinâmica em grupo."
+        },
+        {
+            "date": "22/03/2022",
+            "description": "Entrevista individual com o grupo PET Elétrica."
+        },
+        {
+            "date": "23/03/2022",
+            "description": "Entrevista individual com a comissão de seleção."
+        },
+        {
+            "date": "Até 28/03/2022",
+            "description": "Divulgação dos Resultados."
+        }
+    ]
+}

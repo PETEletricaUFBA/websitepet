@@ -1,0 +1,40 @@
+{
+    "reports": [
+        {
+            "year": "2011",
+            "link": "/docs/downloads/relatorio2011.pdf"
+        },
+        {
+            "year": "2012",
+            "link": "/docs/downloads/relatorio2012.pdf"
+        },
+        {
+            "year": "2013",
+            "link": "/docs/downloads/relatorio2013.pdf"
+        },
+        {
+            "year": "2014",
+            "link": "/docs/downloads/relatorio2014.pdf"
+        },
+        {
+            "year": "2015",
+            "link": "/docs/downloads/relatorio2015.pdf"
+        },
+        {
+            "year": "2016",
+            "link": "/docs/downloads/relatorio2016.pdf"
+        },
+        {
+            "year": "2017",
+            "link": "/docs/downloads/relatorio2017.pdf"
+        },
+        {
+            "year": "2018",
+            "link": "/docs/downloads/relatorio2018.pdf"
+        },
+        {
+            "year": "2019",
+            "link": "/docs/downloads/relatorio2019.pdf"
+        }
+    ]
+}
