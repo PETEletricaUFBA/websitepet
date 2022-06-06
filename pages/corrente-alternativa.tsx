@@ -14,7 +14,15 @@ export async function getStaticProps() {
     };
 }
 
-export default function CorrenteAlternativa({ allPostsData }) {
+export default function CorrenteAlternativa({ allPostsData }: {
+    allPostsData: {
+        id: string;
+        link: string;
+        image: string;
+        date: any;
+        title: string;
+    }[]
+}) {
     return (
         <Layout>
             <Title />
@@ -34,7 +42,11 @@ const Title = () => (
 
 );
 
-function Featured({ featuredPost }) {
+function Featured({ featuredPost }: {
+    featuredPost: {
+        id: string; link: string; image: string; date: any; title: string;
+    }
+}): JSX.Element {
     return (
         <section className="section">
             <div className="container">
@@ -52,7 +64,7 @@ function Featured({ featuredPost }) {
                                     <a href={featuredPost.link} title={featuredPost.title} className="post-title">{featuredPost.title}</a>
                                 </Link>
                             </h2>
-                            <p className="card-text">{featuredPost.summary}</p>
+                            {/* <p className="card-text">{featuredPost.summary}</p> */}
                             <Link href={featuredPost.link} passHref>
                                 <button title="readmore" className="btn btn-primary"> Leia Mais </button>
                             </Link>
@@ -64,12 +76,20 @@ function Featured({ featuredPost }) {
     );
 }
 
-function Pages({ allPostsData }) {
+function Pages({ allPostsData }: {
+    allPostsData: {
+        id: string;
+        link: string;
+        image: string;
+        date: any;
+        title: string;
+    }[]
+}) {
     return (
         <section className="Section">
             <div className="container">
                 <div className="row">
-                    {allPostsData.map(({ title, image, summary, link }, index) => (
+                    {allPostsData.map(({ title, image, link }, index) => (
                         <div className="col-lg-4 col-sm-6 mb-5" key={index.toString()}>
                             <div className="card border-0">
                                 <div className="card-img rounded-lg mb-4">
@@ -82,7 +102,7 @@ function Pages({ allPostsData }) {
                                         </Link>
                                     </h3>
 
-                                    <p className="card-text">{summary}</p>
+                                    {/* <p className="card-text">{summary}</p> */}
                                     <Link href={link} passHref>
                                         <a title="readmore" className="btn btn-primary btn-sm">Leia Mais </a>
                                     </Link>

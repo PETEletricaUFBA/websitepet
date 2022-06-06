@@ -4,13 +4,9 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import remarkHtml from 'remark-html';
 import remarkGfm from 'remark-gfm';
-import pic from '../posts/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl4.jpg';
-import { StaticImageData } from 'next/image';
-// import pic from '../public/images/logo.png';
 
-// const pic = require('../posts/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl4.jpg');
 
-const postsDirectory = path.join(process.cwd(), 'posts');
+const postsDirectory = path.join(process.cwd(), 'public/corrente-alternativa');
 
 export function getSortedPostsData() {
     // Get file names under /posts
@@ -21,22 +17,21 @@ export function getSortedPostsData() {
 
         const fileContents = fs.readFileSync(file, 'utf8');
         const matterResult = matter(fileContents);
-        const cover : string ='../posts/' + id + '/images/' + matterResult.data.cover;
-
-
-        const image = pic.src;
+        const cover : string ='/posts/' + id + '/images/' + matterResult.data.cover;
 
         const link = `/corrente-alternativa/${id}`;
         // Combine the data with the id
+        // TODO: Implementar Summary
         return {
             id,
             link,
-            image,
-            ...matterResult.data,
+            image: cover,
+            date: matterResult.data.date,
+            title : matterResult.data.title,
         };
     });
     // Sort posts by date
-    return allPostsData.sort(({ date: a }, { date: b }) => {
+    return allPostsData.sort(({ date: a  }, { date: b }) => {
         if (a < b) {
             return 1;
         } else if (a > b) {
@@ -63,12 +58,13 @@ export function getAllPostIds() {
 
 }
 
-export async function getPostData(id) {
+export async function getPostData(id : string) {
     const fullPath = path.join(postsDirectory, id, 'index.md');
     const fileContents = fs.readFileSync(fullPath, 'utf8');
 
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents);
+    const cover : string ='/posts/' + id + '/images/' + matterResult.data.cover;
 
     const processedContent = await remark()
         .use(remarkHtml, {sanitize: false})
@@ -82,7 +78,9 @@ export async function getPostData(id) {
     return {
         id,
         contentHtml,
+        image: cover,
         link,
-        ...matterResult.data,
+        date: matterResult.data.date,
+        title : matterResult.data.title,
     };
 }

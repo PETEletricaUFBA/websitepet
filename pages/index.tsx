@@ -19,7 +19,15 @@ export async function getStaticProps() {
   };
 }
 
-export default function Home({ allPostsData }) {
+export default function Home({ allPostsData }: {
+  allPostsData: {
+    id: string;
+    link: string;
+    image: string;
+    date: any;
+    title: string;
+  }[]
+}) {
   return (
     <Layout>
 
@@ -66,7 +74,7 @@ const Banner = () => (
   </section>
 );
 
-function CorrenteAlternativa({ featuredPost }): JSX.Element {
+function CorrenteAlternativa({ featuredPost }: { featuredPost: { id: string; link: string; image: string; date: any; title: string; } }): JSX.Element {
   return (
     <section className="section bg-light">
       <div className="col-12 text-center">
@@ -79,7 +87,7 @@ function CorrenteAlternativa({ featuredPost }): JSX.Element {
           <div className="col-md-6 mb-4 mb-md-0">
             <div className="img-fluid rounded-lg w-100 " >
               <Image
-              
+
                 src={featuredPost.image}
                 alt={featuredPost.title}
 
@@ -100,7 +108,7 @@ function CorrenteAlternativa({ featuredPost }): JSX.Element {
               </Link>
             </h3>
             {/* TODO: Summary */}
-            <p className="card-text">{featuredPost.summary}</p>
+            {/* <p className="card-text">{featuredPost.summary}</p> */}
             <Link href={featuredPost.link} passHref>
               <a title={featuredPost.title} className="btn btn-primary">
                 READMORE

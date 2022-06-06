@@ -24,7 +24,7 @@ const Actives = () => (
             </div>
             <div className="card-body">
               <h5 className="card-title">Gol D. Roger</h5>
-              <p className="card-text">I'm Roger! This meeting must be fate, Rayleigh! What do you say to turning the world upside down with me?!!</p>
+              <p className="card-text">I&apos;m Roger! This meeting must be fate, Rayleigh! What do you say to turning the world upside down with me?!!</p>
             </div>
             <div className="card-footer">
               <small className="text-muted"> Pirate King</small>
