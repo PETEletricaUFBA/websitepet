@@ -1,0 +1,23 @@
+{
+    "joeltonDJunior": {
+        "name": "Joelton D. Junior",
+        "status": "active",
+        "image": "/images/team/joeltonDJunior.png",
+        "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
+        "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
+        "social": [
+            {
+                "name": "site",
+                "link": "https://freedxm.com/"
+            },
+            {
+                "name": "github",
+                "link": "github.com/fredxmgxd"
+            },
+            {
+                "name": "email",
+                "link": "mailto:joelton@freedxm.com"
+            }
+        ]
+    }
+}

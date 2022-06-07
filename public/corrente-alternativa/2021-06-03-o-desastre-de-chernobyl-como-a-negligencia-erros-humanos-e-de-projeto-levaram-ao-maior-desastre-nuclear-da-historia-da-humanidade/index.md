@@ -21,13 +21,13 @@ O desastre de Chernobyl é considerado o maior acidente nuclear da história da 
 
 A Central Nuclear operava com quatro reatores capazes de gerar até 1000MW que alimentavam, cada um, dois geradores de energia elétrica. Os reatores que compõem a usina são do tipo RBMK (_Reaktor Bolshoy Moshchnosty Kanalnyy_**)** ou Reator Canalizado de Alta Potência devido, sobretudo, aos seus canais pressurizados. Com um plano inovador para a época, derivado de projetos antecessores os quais tinham como objetivo a criação de uma arma nuclear, os reatores eram refrigerados à água com canaletas individuais de combustível passando por dentro de blocos de grafite que, além de moderadores, atuavam como elementos estruturais do núcleo.
 
-![Geradores de energia elétrica da usina nuclear de Chernobyl](/blog/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl0.png)
+![Geradores de energia elétrica da usina nuclear de Chernobyl](images/chernobyl0.png)
 
 Geradores de energia elétrica da usina nuclear de Chernobyl
 
 ## O teste que infringiu protocolos de segurança, demonstrou erros de projeto e sucedeu a tragédia
 
-![Sala de controle do reator de Chernobyl](/blog/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl1.png)
+![Sala de controle do reator de Chernobyl](images/chernobyl1.png)
 
 Sala de controle do 4º reator da Usina Nuclear de Chernobyl
 
@@ -47,7 +47,7 @@ O anúncio oficial tardio do acidente para o público demonstra também o descui
 
 Como consequência direta do desastre, a União Soviética registrou oficialmente 31 mortes como resultado imediato e é estimado pela _World Health Organisation_ um número de 9 mil mortes indiretas causadas até o ano de 2005. Além disso, houve o surgimento da zona de exclusão de Chernobyl a qual recebe esse nome por ser a região ao redor do reator com raio de até 30 km onde o índice de radiação elevado tornou a área praticamente inabitada, exceto pela pequena população de Samosely que vem diminuindo ao longo do tempo.
 
-![Cidade de Chernobyl atualmente](/blog/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl2.png)
+![Cidade de Chernobyl atualmente](images/chernobyl2.png)
 
 Cidade de Chernobyl após o acidente
 
@@ -55,7 +55,7 @@ Com o ocorrido em Chernobyl, os outros acidentes nucleares, como os de Tokaimura
 
 Outrossim, a amostra de dados abaixo, publicados pelo _World Nuclear Association’s Reactor Database,_ demonstra que, 32 anos antes do acidente de Chernobyl, 409 reatores foram abertos, mas apenas 194 foram  mantidos nas três décadas posteriores.
 
-![Dados da pesquisa feita pela World Nuclear Association’s Reactor Database](/blog/2021-06-03-o-desastre-de-chernobyl-como-a-negligencia-erros-humanos-e-de-projeto-levaram-ao-maior-desastre-nuclear-da-historia-da-humanidade/images/chernobyl3.png)
+![Dados da pesquisa feita pela World Nuclear Association’s Reactor Database](images/chernobyl3.png)
 
 Dados da pesquisa feita pela _World Nuclear Association’s Reactor Database_
 

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import Logo from "./logo";
 
 const menu = [
   {
@@ -30,13 +31,8 @@ function Header(): JSX.Element {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent">
           <Link href="/" passHref>
-            <a className="navbar-brand">
-              <div className="img-fluid">
-                <Image
-                  width="200px" // TODO: Ajustar via css local
-                  height="54px"
-                  src="/images/logo.png"
-                  alt="Logo do pet" /></div>
+            <a className="navbar-brand col-md-2">
+              <Logo/>
             </a>
           </Link>
 
@@ -44,13 +40,13 @@ function Header(): JSX.Element {
             className="navbar-toggler border-0"
             type="button"
             data-toggle="collapse"
-            data-target="#navigation"
+            data-target="#navbar"
             aria-label="menu"
           >
             <i className="fas fa-bars"></i>
           </button>
 
-          <div className="collapse navbar-collapse text-center" id="navigation">
+          <div className="collapse navbar-collapse text-center" id="navbar">
             <ul className="navbar-nav mx-auto">
               {/* Menu Item */}
               {menu.map((item, index) => (

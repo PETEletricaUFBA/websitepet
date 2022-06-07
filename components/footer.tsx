@@ -1,21 +1,16 @@
-import Image from "next/image";
 import Social from "../data/social.json";
 import Link from 'next/link'
+import Logo from "../components/logo";
 
 let social = Social.social;
 const Footer = () => {
     return (
-        <footer className="bg-light section pb-0">
+        <footer className="bg-light section pb-0 pt-5">
             <div className="container">
                 <div className="row">
-                    {/* TODO: corrigir o alinhamento e distribuir melhor os elementos */}
                     <Link href="/" passHref>
-                        <a className="col mb-4 align-self-start ">
-                            <div className="img-fluid">
-                                <Image src="/images/logo.png"
-                                    width="200px" // TODO: Ajustar via css local
-                                    height="54px"
-                                    alt="PET Elétrica UFBA" /></div>
+                        <a className="col mb-4 align-self-start align-self-center">
+                                <Logo/>
                         </a></Link>
                     <p className="mb-4 col-sm-6 align-self-center">
                         Rua Professor Aristídes Novis, 2 <br />
@@ -25,7 +20,7 @@ const Footer = () => {
                         CEP: 40210-630 <br />
                     </p>
 
-                    <div className="col w-25 p-3 align-self-end">
+                    <div className="col w-25 p-3 align-self-end align-self-center">
                         <ul className="list-inline social-icons">
                             {social.map((item, index) => (
                                 <li key={index} className="list-inline-item">

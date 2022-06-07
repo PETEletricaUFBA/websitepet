@@ -52,11 +52,13 @@ function Featured({ featuredPost }: {
             <div className="container">
                 <div className="col-12 mb-5 pb-5">
                     <div className="row align-items-center">
-                        <div className="col-md-6 mb-4 mb-md-0">
-                            <div className="img-fluid rounded-lg w-100 " >
-                                <Image src={featuredPost.image} alt={featuredPost.title} layout='responsive' height="100%" width="100%" objectFit="contain" />
+                        <div className="col-md-5 mb-4 mb-md-0">
+                            <div className="img-fluid rounded-lg w-100 overflow-hidden" >
+                                <Image src={featuredPost.image} alt={featuredPost.title}
+                                    layout='responsive'
+                                    height="100%" width="100%" 
+                                    objectFit="cover" />
                             </div>
-                            {/* <!-- TODO: Ajeitar a imagem de destaque. --> */}
                         </div>
                         <div className="col-md-6">
                             <h2>
@@ -92,8 +94,11 @@ function Pages({ allPostsData }: {
                     {allPostsData.map(({ title, image, link }, index) => (
                         <div className="col-lg-4 col-sm-6 mb-5" key={index.toString()}>
                             <div className="card border-0">
-                                <div className="card-img rounded-lg mb-4">
-                                    <Image src={image} alt={title} layout='responsive' height="100%" width="100%" objectFit="contain" />
+                                <div className="card-img rounded-lg mb-4 overflow-hidden">
+                                    <Image src={image} alt={title} 
+                                    layout='responsive' 
+                                    height="100%" width="100%" 
+                                    objectFit="cover" />
                                 </div>
                                 <div className="card-body p-0">
                                     <h3>

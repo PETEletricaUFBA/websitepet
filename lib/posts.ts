@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import remarkHtml from 'remark-html';
 import remarkGfm from 'remark-gfm';
-
+import remarkImgLink from "@pondorasti/remark-img-links";
 
 const postsDirectory = path.join(process.cwd(), 'public/corrente-alternativa');
 
@@ -69,6 +69,7 @@ export async function getPostData(id : string) {
     const processedContent = await remark()
         .use(remarkHtml, {sanitize: false})
         .use(remarkGfm)
+        .use(remarkImgLink, { absolutePath: process.env.BASE_URL + "/corrente-alternativa/" + id + "/" })
         .process(matterResult.content);
 
     const contentHtml = processedContent.toString();
@@ -82,5 +83,6 @@ export async function getPostData(id : string) {
         link,
         date: matterResult.data.date,
         title : matterResult.data.title,
+        authors : matterResult.data.authors,
     };
 }

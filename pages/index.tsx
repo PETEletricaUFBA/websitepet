@@ -41,7 +41,7 @@ export default function Home({ allPostsData }: {
   )
 }
 const Banner = () => (
-  <section className="banner">
+  <section className="banner pt-5">
     <div className="container">
       <div className="row">
         <div className="col-lg-10 mx-auto text-center">
@@ -62,10 +62,13 @@ const Banner = () => (
             Universidade.
           </p>
 
-          {/* IMAGEM abaixo */}
+          {/* TODO: Trocar imagem */}
           <div className="img-fluid mt-5">
-            {/* TODO: Rever a responsividade da imagem. */}
-            <Image src="/images/banner-art.svg" alt="" width="750px" height="420px" />
+            <Image src="/images/banner-art.svg" alt="" 
+            layout="responsive"
+            height="40%" width="100%"
+            objectFit="scale-down"
+            />
           </div>
 
         </div>
@@ -84,20 +87,19 @@ function CorrenteAlternativa({ featuredPost }: { featuredPost: { id: string; lin
       </div>
       <div className="col-12 ">
         <div className="row align-items-center">
-          <div className="col-md-6 mb-4 mb-md-0">
-            <div className="img-fluid rounded-lg w-100 " >
+          <div className="col-md-5 mb-4 mb-md-0">
+            <div className="img-fluid rounded-lg overflow-hidden mx-5 h-50" >
               <Image
 
                 src={featuredPost.image}
                 alt={featuredPost.title}
 
-                width="300px"
-                height="350px"
+                layout="responsive"
+                width="100%"
+                height="100%"
                 objectFit="cover"
-                objectPosition="0% 20%"
               />
             </div>
-            {/* // TODO: Ajeitar a imagem de destaque. */}
           </div>
           <div className="col-md-6">
             <h3>

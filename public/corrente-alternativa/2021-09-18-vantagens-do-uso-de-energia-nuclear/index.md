@@ -11,8 +11,6 @@ authors:
 type: "featured"
 ---
 
-# Vantagens do uso de Energia Nuclear
-
 A geração de energia a partir de reações nucleares é um dos maiores marcos tecnológicos realizado por humanos e já representa cerca de 5% da energia consumida pelo mundo, com isso é interessante entender algumas de suas vantagens.
 
 ## Segurança
