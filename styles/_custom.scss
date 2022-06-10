@@ -109,7 +109,10 @@ q {
 }
 
 .post * img {
-  width: 100%;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+
 }
 
 .fat {
@@ -133,3 +136,14 @@ q {
 //   display: block;
 //   float: left;
 // }
+
+div.scrollmenu {
+  // background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  position: relative;
+}

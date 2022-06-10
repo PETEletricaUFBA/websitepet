@@ -5,7 +5,7 @@ categories:
   - "corrente-alternativa"
   - "engenharia-eletrica"
   - "tecnologia-e-inovacao"
-cover: "cover.jpg"
+cover: "images/cover.jpg"
 authors: 
   - joeltonDJunior
 type: "featured"

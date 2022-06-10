@@ -17,7 +17,7 @@ export function getSortedPostsData() {
 
         const fileContents = fs.readFileSync(file, 'utf8');
         const matterResult = matter(fileContents);
-        const cover : string ='/corrente-alternativa/' + id + '/images/' + matterResult.data.cover;
+        const cover : string ='/corrente-alternativa/' + id + "/" + matterResult.data.cover;
 
         const link = `/corrente-alternativa/${id}`;
         // Combine the data with the id
@@ -64,7 +64,7 @@ export async function getPostData(id : string) {
 
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents);
-    const cover : string ='/posts/' + id + '/images/' + matterResult.data.cover;
+    const cover : string ='/corrente-alternativa/' + id + '/' + matterResult.data.cover;
 
     const processedContent = await remark()
         .use(remarkHtml, {sanitize: false})
