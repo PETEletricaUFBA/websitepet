@@ -1,5 +1,9 @@
 import Image from 'next/image';
 import Layout from '../components/layout';
+import MembersData from '../data/members.json';
+import SocialIcon from '../components/socialIcon';
+
+const Members = Object.entries(MembersData);
 
 const Team = () => {
   return (
@@ -17,20 +21,29 @@ const Actives = () => (
     <div className="container">
       <h2 className="pb-2 text-center">Time</h2>
       <div className="row row-cols-1 row-cols-md-3 g-4">
-        <div className="col">
-          <div className="card h-100 shadow border rounded-lg">
-            <div className="card-img-top rounded-top">
-              <Image src="/images/roger.webp" className="card-img-top rounded-top" alt="..." layout='responsive' height="100%" width="100%" objectFit="contain" />
+        {Members.map((item, index) => {
+          if (item[1].status == "active") return (
+            <div className="col" key={index.toString()}>
+              <div className="card h-100 shadow border rounded-lg">
+                <div className="card-img-top rounded-top">
+                  <Image src={item[1].image} className="card-img-top rounded-top" alt={item[1].name + "Photo"} layout='responsive' height="100%" width="100%" objectFit="cover" />
+                </div>
+                <div className="card-body">
+                  <h4 className="card-title">{item[1].name}</h4>
+                  <h6 className='fw-lighter text-muted'>Ingresso na UFBA: {item[1].ingressUFBA}</h6>
+                  <h6 className='fw-lighter text-muted'>Ingresso no PET: {item[1].ingressPET}</h6>
+                  <p className="card-text text-dark">{item[1].bio}</p>
+                </div>
+                <div className="card-footer d-flex justify-content-end">
+                  {item[1].social.map((social, index) => (
+                    <SocialIcon key={index.toString()} name={social.name} link={social.link} />
+                  ))}
+
+                </div>
+              </div>
             </div>
-            <div className="card-body">
-              <h5 className="card-title">Gol D. Roger</h5>
-              <p className="card-text">I&apos;m Roger! This meeting must be fate, Rayleigh! What do you say to turning the world upside down with me?!!</p>
-            </div>
-            <div className="card-footer">
-              <small className="text-muted"> Pirate King</small>
-            </div>
-          </div>
-        </div>
+          )
+        })}
       </div>
     </div>
   </section>
@@ -42,10 +55,13 @@ const Egress = () => (
       <h2 className="text-center">Hall dos Egressos</h2>
       <div className="row">
         {/* TODO: Implementar Modal pop up para o card dos egressos */}
-        <div className="rounded-img">
-          <Image className="rounded-img" src="/images/roger.webp" alt="NOME" layout='responsive' height="100%" width="100%" objectFit="contain" />
-        </div>
-
+        {Members.map((item, index) => {
+          if (item[1].status == "egress") return (
+            <div className="rounded-img overflow-hidden p-0" key={index.toString()}>
+              <Image src={item[1].image} alt={item[1].name + "Photo"} layout='responsive' height="100%" width="100%" objectFit="cover" />
+            </div>
+          )
+        })}
       </div>
     </div>
   </section>

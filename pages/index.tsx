@@ -96,7 +96,7 @@ function CorrenteAlternativa({ featuredPost }: { featuredPost: { id: string; lin
 
                 layout="responsive"
                 width="100%"
-                height="100%"
+                height="80%"
                 objectFit="cover"
               />
             </div>
