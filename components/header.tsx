@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import Logo from "./logo";
 
@@ -32,7 +31,7 @@ function Header(): JSX.Element {
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent">
           <Link href="/" passHref>
             <a className="navbar-brand col-md-2">
-              <Logo/>
+              <Logo />
             </a>
           </Link>
 
@@ -59,7 +58,7 @@ function Header(): JSX.Element {
                 </li>
               ))}
             </ul>
-            <Link href="prosel" passHref>
+            <Link href="/prosel" passHref>
               <a title="Processo Seletivo" className="btn btn-sm btn-primary ml-3" >
                 Processo Seletivo
               </a>

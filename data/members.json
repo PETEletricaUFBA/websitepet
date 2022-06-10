@@ -2,6 +2,8 @@
     "joeltonDJunior": {
         "name": "Joelton D. Junior",
         "status": "active",
+        "ingressPET": "2020",
+        "ingressUFBA": "2019",
         "image": "/images/team/joeltonDJunior.png",
         "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
         "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
@@ -12,7 +14,7 @@
             },
             {
                 "name": "github",
-                "link": "github.com/fredxmgxd"
+                "link": "https://github.com/freedxmgxd"
             },
             {
                 "name": "email",
