@@ -8,7 +8,7 @@ tags:
   - "chernobyl"
   - "energianuclear"
   - "engenharia"
-cover: "chernobyl4.jpg"
+cover: "images/chernobyl4.jpg"
 authors: 
  - brenoAmin
  - elderPereira
