@@ -43,7 +43,7 @@ Em relação à questão de gênero, minha formação acadêmica, e atualmente m
 
 **6\. Já foi tratada de forma diferente (positiva ou negativa) no ambiente acadêmico por ser mulher?**
 
-_(Prefiro não responder. E o fato de ser algumas vezes tratada de forma diferente por ser mulher nunca me parece algo positivo.)_
+Prefiro não responder. E o fato de ser algumas vezes tratada de forma diferente por ser mulher nunca me parece algo positivo.
 
 **7\. Em algum momento da sua trajetória você pensou em desistir? Se sim, por quê?**
 
@@ -61,4 +61,4 @@ Confesso que o cenário atual é bastante desmotivador, diante dos constantes at
 
 Atualmente estou dedicada ao desenvolvimento da minha pesquisa, me atualizando com os novos trabalhos na área, organizando ideias para um projeto que possa envolver estudantes bolsistas.
 
-#FORABOLSONARO
+\#FORABOLSONARO

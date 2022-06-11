@@ -27,25 +27,25 @@ No contexto empresarial, a aplicação de _chatbots_ pode trazer benefícios, co
 
 ## SUMÁRIO
 
-1. ##### [CRIAÇÃO DE UM _BOT NO TELEGRAM_](#i1)
+1. [CRIAÇÃO DE UM _BOT NO TELEGRAM_](#i1)
 
-2. ##### [USANDO O _INTEGROMAT_](#i2)
+2. [USANDO O _INTEGROMAT_](#i2)
 
-3. ##### [CONECTANDO O BOT DO TELEGRAM AO SCENARIO](#i3)
+3. [CONECTANDO O BOT DO TELEGRAM AO SCENARIO](#i3)
 
-4. ##### [CONECTANDO E CONFIGURANDO BLOCOS](#i4)
+4. [CONECTANDO E CONFIGURANDO BLOCOS](#i4)
 
-5. ##### [FORMATANDO OS DADOS](#i5)
+5. [FORMATANDO OS DADOS](#i5)
 
-6. ##### [ADICIONANDO O _GOOGLE CALENDAR_](#i6)
+6. [ADICIONANDO O _GOOGLE CALENDAR_](#i6)
 
-7. ##### [AJUSTES FINAIS](#i7)
+7. [AJUSTES FINAIS](#i7)
 
-8. ##### [ETAPAS PARA O DESENVOLVIMENTO DA APLICAÇÃO](#i8)
+8. [ETAPAS PARA O DESENVOLVIMENTO DA APLICAÇÃO](#i8)
 
-9. ##### [CONCLUSÃO](#i9)
+9. [CONCLUSÃO](#i9)
 
-10. ##### [REFERÊNCIAS](#i10)
+10. [REFERÊNCIAS](#i10)
 
 ## CRIAÇÃO DE UM _BOT NO TELEGRAM_
 
@@ -137,7 +137,7 @@ Depois de conectar os dois blocos, faz-se necessário configurar o bloco _Tools_
 
 ![Configurações do bloco das variáveis](images/postbot14.png)
 
-![](images/postbot15.png)
+![Configurações do bloco das variáveis](images/postbot15.png)
 
 ![Configurações do bloco das variáveis](images/postbot16.png)
 

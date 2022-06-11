@@ -18,13 +18,13 @@ A segunda atividade, voltada para crianças e adolescentes, foi a apresentação
 
 A experiência no Capão foi incrivel! Ambas as atividades e o evento em geral foram muito enriquecedores pra gente! Muito obrigado @petodonto pelo convite!
 
-**Segue a gente no Instagram para ver mais novidades!** 
+**Segue a gente no Instagram para ver mais novidades!**
 
 <iframe src="https://www.instagram.com/p/B-F1OvEgNVY/embed" width="320" height="440" frameborder="0"></iframe>
 
-Veja mais imagens:
+<!-- Veja mais imagens:
 
-"Grupos PET UFBA" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-10-01.jpg
+["Grupos PET UFBA"](http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-10-01.jpg)
 
 "Apresentação do Painel de Instalações Elétricas" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-23\_18-09-56.jpg
 
@@ -40,4 +40,4 @@ Veja mais imagens:
 
 "Crianças aprendendo e brincando" http://www.peteletrica.eng.ufba.br/2017/wp-content/uploads/2020/03/photo\_2020-03-14\_13-16-38.jpg
 
-#FestivalDoBemViver #peteletricaufba #instalacoes #eletronica
+# FestivalDoBemViver #peteletricaufba #instalacoes #eletronica -->

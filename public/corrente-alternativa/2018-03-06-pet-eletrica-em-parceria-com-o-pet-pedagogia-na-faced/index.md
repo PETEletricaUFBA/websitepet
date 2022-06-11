@@ -15,6 +15,6 @@ A proposta principal é apresentar a UFBA para os estudantes de escolas pública
 
 O evento contou com uma semana de minicursos e apresentações, e no final, 30 bolsas do cursinho Grandes Mestres serão destinadas a estudantes que realmente mostraram interesse em ingressar em um curso superior e vivem em algum nível de vulnerabilidade social.
 
-![](images/foto1-300x225.png)
+![Foto do Evento](images/foto1-300x225.png)
 
-![](images/foto3-300x225.png)
+![Foto do Evento](images/foto3-300x225.png)

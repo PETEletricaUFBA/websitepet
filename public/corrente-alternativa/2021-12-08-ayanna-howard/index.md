@@ -24,7 +24,7 @@ A engenheira e roboticista Ayanna Howard é natural de Altadena, na Califórnia.
 
 Um dos programas preferidos de Ayanna quando criança era o programa de TV, dos anos 70, ‘The Bionic Woman”, no qual uma mulher gravemente ferida obtém poderes extraordinários por meio de membros artificiais. A partir desse programa, surgiu então em Ayanna o desejo de criar membros artificiais para as pessoas o que a fez pensar em fazer faculdade de medicina. Durante o ensino médio sua paixão por matemática foi aflorada, enquanto que a afinidade com biologia não era uma das melhores. Ela então percebeu que ser médica não era algo tão atrativo e que trabalhar com componentes artificiais em vez de membros e partes humanas lhe agradava mais, o que a fez optar por engenharia.
 
-![](images/wJgwZe3.jpg)
+![Cartoon of a cybernetic woman](images/wJgwZe3.jpg)
 
 ## Formação e Carreira
 
@@ -34,7 +34,7 @@ Ayanna Howard formou-se em Engenharia Elétrica pela Brown University. Seus estu
 
 De 1993 a 2005 Ayanna trabalhou no Jet Propulsion Laboratory (JPL) da NASA, que é um dos principais centros da unidade no quesito exploração espacial com robôs. Dentre os trabalhos desenvolvidos por ela no JPL, destaca-se o desenvolvimento dos Mars rover, um tipo de veículo automatizado que através da inteligência artificial é capaz de explorar o terreno de Marte por conta própria. Tais robôs poderiam percorrer longas distâncias mesmo em terrenos desafiadores como o marciano sem ter todos os seus movimentos programados por um ser humano. Devido aos trabalhos desenvolvidos por Ayanna, em 2001 ela foi premiada com a maior homenagem possível do JPL, com o Prêmio Lew Allen de Excelência como forma de reconhecer sua significativa liderança e inovação tecnológica.
 
-![](images/QBpd1hk.jpg)
+![Ayanna](images/QBpd1hk.jpg)
 
 ## O lado empreendedor de Ayanna
 

@@ -22,11 +22,11 @@ Ressalta-se que essa medida deve ser feita fora do ambiente original com o uso d
 
 ## **Formas de** **_backup_**
 
-#### **Quente (****_hot_****)**
+### **Quente (****_hot_****)**
 
 Se o _backup_ for feito na forma quente, o sistema poderá permanecer _online_, sendo acessado normalmente, enquanto as cópias de segurança são feitas.
 
-#### **Fria (****_cold_****)**
+### **Fria (****_cold_****)**
 
 Enquanto que, se a cópia de segurança for feita da forma fria, seu sistema deve ficar _off-line_ para a realização das suas cópias de segurança sem que haja a intervenção de algum usuário acessando o sistema.
 
@@ -48,13 +48,13 @@ Por conseguinte, o marcador de arquivamento ou arquivo morto será exibido:
 
 ## **Tipos de** **_backup_**
 
-#### **Simples (cópia)**
+### **Simples (cópia)**
 
 No _backup_ simples, ocorre a gravação das pastas e dos arquivos selecionados, mas não há a marcação deles como arquivos que passaram pela cópia de segurança. Ou seja, seu atributo de arquivo morto não é desmarcado (não limpa os marcadores de arquivamento).
 
 Esse tipo de _backup_ apresenta o aspecto positivo de não afetar as outras operações de cópia de segurança. Com isso, é possível executá-lo entre _backups_ normal e incremental, por exemplo.Todavia, ele não é capaz de fazer compactação nem controlar os erros. Além disso, a sua operação é muito demorada, ocupa muito espaço e não faz a alteração dos atributos dos arquivos.
 
-#### **Normal (completo, total, global ou _full_)**
+### **Normal (completo, total, global ou _full_)**
 
 O _backup_ normal copia todos os arquivos selecionados e faz a marcação deles como arquivos que passaram pela cópia de segurança. Assim, seu atributo de arquivo é desmarcado (limpa os marcadores de arquivamento).
 
@@ -64,7 +64,7 @@ Diferentemente do simples, o completo limpa os marcadores, compacta dados e cont
 
 ![Backup completo](images/backup4.jpg)
 
-#### **Diário**
+### **Diário**
 
 Ao ser executado, o _backup_ diário copia todos os arquivos selecionados que sofreram modificações durante o dia. Após passarem por uma cópia de segurança desse tipo, os arquivos não são marcados como se tivessem passado por _backup_ (não limpa os marcadores de arquivamento).
 
@@ -72,7 +72,7 @@ Ele grava arquivos e pastas, criados ou alterados na pasta referente ao _backup_
 
 O diário gasta menos tempo e espaço, mas os dados, gravados no mesmo dia, podem ser perdidos dependendo do horário em que seja feita a cópia de segurança.
 
-#### **Diferencial**
+### **Diferencial**
 
 O _backup_ diferencial copia arquivos criados ou alterados após o último normal ou incremental. Ele não faz a marcação dos arquivos como passados por _backup_ (não limpa os marcadores de arquivamento).
 
@@ -82,7 +82,7 @@ Ele compacta os dados e controla os erros. Porém, por ser acumulativo, a recupe
 
 ![Backup diferencial](images/backup3.jpg)
 
-#### **Incremental**
+### **Incremental**
 
 O _backup_ Incremental copia apenas os arquivos criados ou alterados desde o último normal ou incremental e os marca como arquivos que passaram pela cópia de segurança (limpa os marcadores de arquivamento).
 
@@ -100,8 +100,8 @@ Por fim, é perceptível como o backup é uma ferramenta de extrema importância
 
 ## Referências
 
-DICAS de Informática Básica. In: O que é Backup?. \[S. l.\], 2020. Disponível em: https://www.cursosdeinformaticabasica.com.br/o-que-e-backup/#:~:text=Arquivos%20e%20pastas%20criados%20ou%20alterados%20ap%C3%B3s%20o%20%C3%BAltimo%20backup,N%C3%A3o%3B&text=Incremental%20%E2%80%93%20um%20backup%20Incremental%20copia,atributo%20de%20arquivo%20%C3%A9%20desmarcado). Acesso em: 1 abr. 2021.
+DICAS de Informática Básica. In: O que é Backup?. \[S. l.\], 2020. Disponível em: <https://www.cursosdeinformaticabasica.com.br/o-que-e-backup/#:~:text=Arquivos%20e%20pastas%20criados%20ou%20alterados%20ap%C3%B3s%20o%20%C3%BAltimo%20backup,N%C3%A3o%3B&text=Incremental%20%E2%80%93%20um%20backup%20Incremental%20copia,atributo%20de%20arquivo%20%C3%A9%20desmarcado>). Acesso em: 1 abr. 2021.
 
-MICROSOFT. In: Suporte da Microsoft. \[S. l.\], 2020. Disponível em: https://support.microsoft.com/pt-br. Acesso em: 1 abr. 2021.
+MICROSOFT. In: Suporte da Microsoft. \[S. l.\], 2020. Disponível em: <https://support.microsoft.com/pt-br>. Acesso em: 1 abr. 2021.
 
-GRAN cursos Online. In: Gran cursos Online. \[S. l.\], 2018. Disponível em: https://www.grancursosonline.com.br/. Acesso em: 5 fev. 2021.
+GRAN cursos Online. In: Gran cursos Online. \[S. l.\], 2018. Disponível em: <https://www.grancursosonline.com.br/>. Acesso em: 5 fev. 2021.

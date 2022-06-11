@@ -9,17 +9,17 @@ authors: []
 type: "featured"
 ---
 
-[![](images/Manual-da-Marca-Capa-300x197.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1168)
+![Manual da Marca](images/Manual-da-Marca-Capa-300x197.png)
 
 Pense rapidamente na sua marca de refrigerante preferido, naquele navegador de internet que você mais usa, na série de TV que você mais assiste, nas redes de _fast food_ mais famosas que você conhece, ou mesmo no site de busca que você mais acessa (esse foi o Google, não?).
 
 Em todos os elementos comerciais que você pensou, certamente lhe veio à cabeça, dentre outras coisas, as suas respectivas logomarcas. Por exemplo, caso o seu refrigerante preferido tenha sido a Coca-Cola, a imagem do seu nome (escrito em letras brancas de fonte bem característica e fundo vermelho) lhe veio à mente. E essa logomarca é tão marcante que você a reconheceria mesmo que nela estivesse escrito outra coisa que não “Coca-Cola”. Recurso visual poderoso, não?
 
-[![](images/PET-Coca-Cola-2-300x97.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1170)
+![Logo da Coca cola com o nome do PET Elétrica](images/PET-Coca-Cola-2-300x97.png)]
 
 O exemplo acima ilustra a importância de se criar uma **identidade visual** em uma entidade que necessita zelar por sua imagem e captar público, seja ela uma empresa, um órgão governamental ou uma instituição sem fins lucrativos. A palavra **identidade**, embora abarque diferentes definições, pode ser entendida de uma forma geral como um conjunto de características próprias que definem cada coisa, como seres e objetos, de forma específica.Tome como exemplo uma identidade matemática, que é usualmente definida como uma igualdade que permanece a mesma, não importando os valores das variáveis que nela aparecem. Uma logomarca, então, para que possua uma identidade, deve buscar sempre possuir as características próprias que a define, não importa se ela aparece em tamanho grande ou pequeno, em fundo escuro ou claro e se está em um convite de festa ou em um documento formal.
 
-[![](images/Identidade-PET-300x47.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1171)
+![Identidade PET](images/Identidade-PET-300x47.png)
 
 Mas, afinal, como definir a identidade de uma marca? Quais características a define? Quais delas devem permanecer imutáveis e quais as que possuem flexibilidade? Como utilizar corretamente essa marca de forma a manter a sua identidade?
 
@@ -29,15 +29,13 @@ Agora, neste ponto de nosso texto, pode surgir outra questão: como se confeccio
 
 - **Encontre a identidade de sua organização:** Essa etapa pode parecer redundante, mas na verdade é a fundamental. Todo o estudo acerca da sua marca apenas terá sentido quando você descobrir o que quer expressar com ela, e isso irá guiar a sua utilização de cores, tipografia, dimensões máxima e mínima, usos incorretos, etc.
 
- 
-
-[![](images/Identidade-lupa-300x287.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1172)
+![Lupa](images/Identidade-lupa-300x287.png)
 
 Uma maneira possível de se descobrir essa identidade é listando uma série de perguntas que podem guiar a sua percepção sobre ela, como: o que ela deve representar? Qual a impressão que a marca deve passar a quem a observa? Quais cores transmitem essas impressões? Em quais meios ela será mostrada e como se adequar a esses meios? Caso você esteja trabalhando em grupo, práticas como rodas de discussão e _brainstomings_ também podem ser uma boa saída.
 
 - **Defina uma logomarca que esteja de acordo com as suas percepções:** após fazer todas as perguntas adequadas e obter suas percepções, chegou a hora de colocar tudo no papel (mesmo que em papel digital). A criação de uma logomarca em geral não é tarefa das mais simples, pois depende em parte de habilidades intuitivas e de sua experiência com design gráfico. Uma boa prática para confeccioná-la é observar logomarcas que você considera boas e procurar extrair delas a idéia por trás. Mas, atenção! Isso não significa que você deva copiar outras logomarcas. Procure ser criativo e colocar suas características na sua marca.
 
-[![](images/Manual-da-Marca-PET-Elétrica-logomarca-300x195.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1173)
+![Logomarcas do PET](images/Manual-da-Marca-PET-Elétrica-logomarca-300x195.png)
 
 Quando a logomarca aparecer no manual, ela deve vir com uma indicação sobre quais as situações na qual ela ser utilizada. É recomendável também que se coloque, se possível, o código de cores ([CMYK](http://pt.wikipedia.org/wiki/CMYK) e [RGB](http://pt.wikipedia.org/wiki/RGB) são os mais comuns) das principais cores utilizadas, para evitar possíveis erros de descaracterização.
 
@@ -53,15 +51,15 @@ Na análise de cores que você fizer para compor sua logomarca, existem estudos 
 
 No caso da logomarca do PET-Elétrica da UFBA, que é escura em sua versão original, a negativa é aplicada em fundos escuros para manter um razoável contraste (e, portanto, uma fácil visibilidade).
 
-[![](images/Manual-da-Marca-logo-negativa-300x233.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1175)
+![Logo Negativa](images/Manual-da-Marca-logo-negativa-300x233.png)
 
 No caso de muitas marcas, a logo contém alguma frase auxiliar em conjunto com o seu símbolo (por exemplo, “ENGENHARIA ELÉTRICA – UFBA”). Assim sendo, faz-se necessário por vezes criar uma padronização de utilização do símbolo em si, separado desta frase, para as ocasiões em que a frase aparecer de outra maneira, como ao lado do símbolo.
 
-[![](images/Manual-da-Marca-símbolo-300x233.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1176)
+![Simbolo](images/Manual-da-Marca-símbolo-300x233.png)
 
 Uma prática também bastante comum em manuais da marca é a listagem de usos incorretos do símbolo e da logo.  Os critérios utilizados para definir essas regras são justamente as vias de preservação da sua identidade visual, e portanto tais usos incorretos indicam práticas que prejudicam essa identidade. (Imagine se, por exemplo, você um dia visse a logomarca do McDonalds na cor verde. Não seria estranho?).
 
-[![](images/Manual-da-Marca-usos-incorretos-300x261.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1177)
+![Usos incorretos da marcar](images/Manual-da-Marca-usos-incorretos-300x261.png)
 
 - **Defina uma família tipográfica para sua marca:** para aqueles que não estão familiarizados com o conceito, a palavra tipografia é hoje usada com um significado quase indistinto de tipologia, sendo definida como “a arte e o processo de criação na composição de um texto, física ou digitalmente” ([http://pt.wikipedia.org/wiki/Tipografia](http://pt.wikipedia.org/wiki/Tipografia)). O termo “tipo” (do grego _typos_, forma) pode ser entendido como a arte ou o desenho de uma determinada família de caracteres, como Arial ou Verdana. Uma explicação profunda do que venha a ser tipografia, bem como o estudo de sua utilização, está muito além do objetivo deste texto. Assim, para aqueles que se interessarem pelo assunto, segue abaixo alguns links para consulta:
 
@@ -71,7 +69,7 @@ Uma prática também bastante comum em manuais da marca é a listagem de usos in
 
 \- [http://www.slideshare.net/loammisantos/tipografia-6329925](http://www.slideshare.net/loammisantos/tipografia-6329925)
 
-[![](images/tipografia-300x200.gif)](http://www.peteletrica.eng.ufba.br/?attachment_id=1178)
+![Tipografia](images/tipografia-300x200.gif)
 
 A tipografia, mais do que simplesmente definir uma padronização de caracteres em uma determinada família, define características associadas a eles que, assim como as cores, trazem uma idéia a ser transmitida visualmente. E é justamente aí que entra a importância da definição tipográfica para a sua identidade visual: transmitir uma idéia através da própria forma da escrita.
 
@@ -79,7 +77,7 @@ Na elaboração de um manual da marca, deve-se primeiramente definir (caso haja)
 
 - **Inclua os anexos apropriados:** caso algo a mais já tenha sido criado com a sua logomarca ou tendo uma ligação com ela, é recomendado que isso seja incluído no seu manual da marca. No Manual da Marca do PET-Elétrica, por exemplo, foram incluídos o modelo de papel timbrado e de _template_ de slides usados pelo grupo. No manual da Identidade Visual da UFBA, que trata principalmente do brasão da universidade, foram incluídos como anexo os brasões de suas subunidades (Escola Politécnica, Faculdade de Medicina, Instituto de Física...).
 
-[![](images/Manual-da-Marca-Anexo-11-300x265.png)](http://www.peteletrica.eng.ufba.br/?attachment_id=1180)
+![Anexos](images/Manual-da-Marca-Anexo-11-300x265.png)
 
 Agora que você já adquiriu uma noção básica sobre pontos a serem incluídos no seu manual da marca, é hora de praticar. O primeiro passo para ganhar confiança na confecção do seu manual é observar outros manuais para ter uma referência. Recomendamos alguns que foram de grande ajuda:
 

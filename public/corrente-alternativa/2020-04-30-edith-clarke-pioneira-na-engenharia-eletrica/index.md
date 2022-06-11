@@ -44,7 +44,9 @@ Durante o período que trabalhava como computador, em 1921, desenvolveu a [**Cal
 
 Já com o emprego de engenheira, Edith lecionava aos engenheiros da GE e suas notas de aula se tornaram um livro **“Circuit Analysis of A-C Power Systems”**, publicado em 1943. Essa obra foi usada por muito tempo como referência para engenheiros e alunos de Engenharia Elétrica na área de potência.
 
-![](images/“Circuit-Analysis-of-A-C-Power-Systems”-volumes-1-e-2.png) “Circuit Analysis of A-C Power Systems”, volumes 1 e 2"
+![“Circuit Analysis of A-C Power Systems”, volumes 1 e 2"](images/“Circuit-Analysis-of-A-C-Power-Systems”-volumes-1-e-2.png)
+“Circuit Analysis of A-C Power Systems”, volumes 1 e 2"
+
 ## Artigos no AIEE
 
 Edith Clarke fez parte do American Institute of Electrical Engineers (AIEE), precursora do Institute of Electrical and Electronic Engineers (IEEE), e em 1926 foi a primeira mulher a apresentar um artigo ao Instituto, [**“Steady-State Stability in Transmission Systems Calculation by Means of Equivalent Circuits or Circle Diagrams”**](https://ieeexplore.ieee.org/document/5061206).
@@ -63,7 +65,7 @@ Durante seu período como professora, ainda foi reconhecida pela Society of Wome
 
 [Ilustração de George Doutsiopoulos](https://www.artstation.com/georgedoutsiopoulos)
 
-## "Não há uma demanda por engenheiras como há por médicas; Mas sempre há demanda por qualquer um que possa fazer um bom trabalho" — Edith Clarke, 1948.
+## "Não há uma demanda por engenheiras como há por médicas; Mas sempre há demanda por qualquer um que possa fazer um bom trabalho" — Edith Clarke, 1948
 
 * * *
 

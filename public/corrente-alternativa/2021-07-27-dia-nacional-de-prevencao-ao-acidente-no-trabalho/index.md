@@ -91,12 +91,12 @@ Essas disposições, quando analisadas na própria NR-10, possuem diversos detal
 
 ## Referências
 
-SECRETARIA DE TRABALHO. **Normas Regulamentadoras - NR**. \[S. l.\], 2021. Disponível em: https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs. Acesso em: 21 jul. 2021.
+SECRETARIA DE TRABALHO. **Normas Regulamentadoras - NR**. \[S. l.\], 2021. Disponível em: <https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs>. Acesso em: 21 jul. 2021.
 
 ANUÁRIO Brasileiro de Proteção 2020. **Revista Proteção Digital**, \[_s. l._\], 2020. Disponível em: <https://bc.pressmatrix.com/pt-BR/profiles/1227998e328d/editions/eb4f7f53ec03ef6991cf/pages>. Acesso em: 21 jul. 2021.
 
 ANAMT. **27 de julho: Dia Nacional da Prevenção ao Acidente de Trabalho**. \[_S. l._\], 2020. Disponível em: <https://www.anamt.org.br/portal/2020/07/27/27-de-julho-dia-nacional-da-prevencao-ao-ac-de-2020/>. Acesso em: 21 jul. 2021.
 
-SECRETARIA DE TRABALHO. **Norma Regulamentadora No. 10 (NR-10)**. In: SECRETARIA DO TRABALHO (org.). Norma Regulamentadora No. 10 (NR-10). \[S. l.\], 2021. Disponível em: https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/norma-regulamentadora-no-10-nr-10. Acesso em: 22 jul. 2021.
+SECRETARIA DE TRABALHO. **Norma Regulamentadora No. 10 (NR-10)**. In: SECRETARIA DO TRABALHO (org.). Norma Regulamentadora No. 10 (NR-10). \[S. l.\], 2021. Disponível em: <https://www.gov.br/trabalho/pt-br/inspecao/seguranca-e-saude-no-trabalho/ctpp-nrs/norma-regulamentadora-no-10-nr-10>. Acesso em: 22 jul. 2021.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Projeção Populacional**. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Projeção Populacional do Brasil. \[S. l.\], 2021. Disponível em: https://www.ibge.gov.br/apps/populacao/projecao/box\_popclock.php. Acesso em: 25 jul. 2021.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Projeção Populacional**. In: INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Projeção Populacional do Brasil. \[S. l.\], 2021. Disponível em: <https://www.ibge.gov.br/apps/populacao/projecao/box\_popclock.php>. Acesso em: 25 jul. 2021.

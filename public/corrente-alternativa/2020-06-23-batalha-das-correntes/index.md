@@ -30,7 +30,7 @@ Com tantos aspectos positivos, Edison atraiu muitos investimentos para sua compa
 
 A crescente construção de usinas soava como um triunfo para Edison, mas elas vieram acompanhadas por uma problemática: o alcance do seu fornecimento energético. Elas só permitiam a iluminação dos ambientes a um raio de cerca de 800 metros. Isso fez com que só pudessem ser construídas nas regiões com alta densidade populacional para serem viáveis economicamente. Desse modo, muitas regiões mais isoladas não tiveram acesso a essa fonte de energia.
 
-![](images/bdc3.jpg)
+![Estação Pearl Street](images/bdc3.jpg)
 
 Estação Pearl Street - Ilustração de Hackaday
 
@@ -46,7 +46,7 @@ Como forma de atestar a qualidade de seu novo funcionário, Edison lança-lhe um
 
 A dificuldade da tarefa era grande, pois aquela foi a primeira embarcação a ter esse tipo de gerador instalado, mas Tesla obteve êxito.
 
-![](images/bdc.jpg)
+![Motor de Indução elétrica - Ilustração de i-Técnico](images/bdc.jpg)
 
 Motor de Indução elétrica - Ilustração de i-Técnico
 
@@ -74,7 +74,7 @@ Além da vantagem de sua corrente permitir a transmissão elétrica a longas dis
 
 Por outro lado, a empresa de Edison não consegue atender à demanda de fornecimento energético, mas se mantém fiel à corrente contínua. Essa fidelidade custava cada vez mais investimentos dos bancos e do próprio inventor.
 
-![](images/bdc2.jpg)
+![Nikola Tesla - Ilustração de HistoriaIcon](images/bdc2.jpg)
 
 Nikola Tesla - Ilustração de HistoriaIcon
 

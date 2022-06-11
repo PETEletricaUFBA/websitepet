@@ -9,7 +9,7 @@ authors: []
 type: "featured"
 ---
 
-![](images/CAEEL_168x150.jpg)
+![Logo do CAEEL](images/CAEEL_168x150.jpg)
 
 Está acontecendo um debate sobre os estágios curriculares do curso, a Congregação passou a bola para o Colegiado dos cursos decidirem como encarar a matéria. O Posicionamento do CAEEL em relação as novas medidas de estágio para o Colegiado, como discutido nas últimas reuniões:
 

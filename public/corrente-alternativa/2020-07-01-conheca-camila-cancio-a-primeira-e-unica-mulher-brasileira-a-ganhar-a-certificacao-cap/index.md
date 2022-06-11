@@ -24,9 +24,13 @@ Atualmente trabalha como Engenheira de Automação Industrial Sênior da planta 
 
 Confira nossa entrevista!
 
-![](images/PMP.png) Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos
+![Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos](images/PMP.png)
 
-![](images/CAP2.0.jpg) Certificação internacional para profissionais de Automação
+_Certificação internacional mais reconhecida e respeitada da área de Gerenciamento de Projetos._
+
+![Certificação internacional para profissionais de Automação](images/CAP2.0.jpg)
+
+_Certificação internacional para profissionais de Automação._
 
 **1\. Quais foram suas motivações para escolher essa área de atuação e buscar suas certificações internacionais?**
 

@@ -23,7 +23,7 @@ Shirley nasceu em Washington D.C no dia 5 de novembro de 1946. Já na sua infân
 
 Desde pequena foi empenhada na busca pelo conhecimento, se formando como oradora da turma no Ensino Médio da _Roosevelt High School_ em 1964. No mesmo ano, ingressou no Instituto de Tecnologia de Massachusetts (MIT) como uma das poucas pessoas negras do instituto (na sua turma de calouros só havia mais uma mulher negra além da própria Shirley) e a única na área da Física Teórica. Jackson relatou que quando tentava se integrar com outras mulheres de sua turma, estas a excluíam e não a aceitavam em seus grupos de estudo.
 
-![](images/Black-Students-Union.jpg)
+![Black Students Union logo](images/Black-Students-Union.jpg)
 
 Já em 1968, ano do assassinato de Martin Luther King, Jackson participou da criação do grupo _Black Students’ Union_ (BSU), um grupo de estudantes negros que tem como objetivo incentivar a entrada de mais afrodescendentes no MIT. Percebendo que o instituto não faria uma campanha por conta própria para atrair esse público, o grupo formou uma força tarefa para recrutar estudantes em escolas predominantemente negras e obtiveram grande sucesso já que no ano seguinte mais de 50 estudantes entraram para a graduação, em comparação com os 3 a 5 dos anos anteriores. Segundo Shirley, "E então envolveu um compromisso real por parte da administração e dos alunos, porque os alunos estavam realmente saindo e recrutando e gastando tempo nisso. Na verdade, foi um tanto controverso."
 
@@ -35,13 +35,13 @@ Por 15 anos, desde 1976, Shirley trabalhou na Bell Laboratories, no estado de Ne
 
 Em 1995, foi nomeada, pelo então presidente Bill Clinton, presidente da _Nuclear Regulatory Commission_ (NRC) - Comissão de Regulamentação Nuclear dos EUA. Em 1997 liderou a criação _International Nuclear Regulators Association_ (INRA) - Associação Internacional de Reguladores Nucleares - cujo principal objetivo é a influência e aprimoramento da segurança nuclear.
 
-![](images/Rensselaer2.jpg)
+![Rensselaer Polytechnic Institute](images/Rensselaer2.jpg)
 
 Desde 1999 é a 18° presidente do Instituto Politécnico Rensselear (RPI) em New York e, em menos de 5 no cargo, conseguiu aumentar o número de docentes do sexo feminino em 34%, de 50 para 67. Suas ideias iniciais para transformar Rensselaer foram reunidas em um plano estratégico conhecido como _The Rensselaer Plan_ (O Plano Rensselaer). Além disso, sua gestão foi marcada por uma triplicação de prêmios de pesquisa patrocinados e a contratação de quase 400 membros titulares do corpo docente, bem como avanços no currículo, um aumento nas bolsas de estudo, crescimento da pesquisa de graduação e inovações ousadas  na vida do(a) estudante, incluindo a premiada _First-Year Experience and Clustered Learning, Advocacy, and Support for Students_ (CLASSE) -  Experiência de Primeiro Ano e Aprendizado em Cluster, Advocacia e Suporte para Estudantes.
 
 Em 2003 foi eleita presidente da _American Association for the Advancement of Science_ (Associação Americana para o Avanço da Ciência), a maior sociedade científica geral do mundo. De 2009 a 2014, Jackson serviu no _President's Council of Advisors on Science and Technology_ (PCAST) - Conselho de Assessores em Ciência e Tecnologia do Presidente - como copresidente do _President's Innovation and Technology Advisory Committee_ (PITAC) - Comitê Consultivo de Inovação e Tecnologia do Presidente - auxiliando a Casa Branca na formulação de políticas nas áreas de ciência, tecnologia e inovação. Sendo então nomeada em 2014 pelo presidente da época Barack Obama como copresidente do _President's Intelligence Advisory Board_ (Conselho Consultivo de Inteligência), trabalhando no cargo até 2017 assessorando o presidente em questões relacionadas à atividades de inteligência. Foi também o presidente Barack Obama que, em 2016, lhe entregou a Medalha Nacional de Ciências na área de Ciências Físicas.
 
-![](images/NationalMedalofScience.jpg)
+![National Medal of Science](images/NationalMedalofScience.jpg)
 
 ## Shirley Ann Jackson
 
