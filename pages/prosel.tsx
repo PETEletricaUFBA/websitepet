@@ -55,7 +55,7 @@ const About = () => (
                             <li>Apresentar bom rendimento acadêmico (Média aritmética de todos componentes cursados maior ou igual a 5.0);</li>
                             <li>Ser brasileiro nato ou naturalizado;</li>
                             <li>Ter disponibilidade para dedicar 20 (vinte) horas semanais ao programa;</li>
-                            <li>Não ser bolsista de qualquer outro programa que impeça o acúmulo de bolsas ou estágio.</li>
+                            <li>Não ser bolsista de qualquer outro programa que impeça o acúmulo de bolsas.</li>
                         </ol>
                         <p></p>
 
