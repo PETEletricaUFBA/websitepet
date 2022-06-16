@@ -7,7 +7,7 @@
     "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export",
+    "export": "next export"
   },
   "dependencies": {
     "@pondorasti/remark-img-links": "^1.0.8",
