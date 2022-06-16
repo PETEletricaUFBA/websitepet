@@ -1,4 +1,4 @@
-import Image from "next/image"
+import Image from '../lib/Image'
 
 export default function Logo() {
     return <div className="img-fluid ">

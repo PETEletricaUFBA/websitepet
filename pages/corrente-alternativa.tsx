@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from '../lib/Image';
 
 import { getSortedPostsData } from '../lib/posts';
 import Link from 'next/link';
