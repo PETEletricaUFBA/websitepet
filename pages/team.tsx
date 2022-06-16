@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from '../lib/Image';
 import Layout from '../components/layout';
 import MembersData from '../data/members.json';
 import SocialIcon from '../components/socialIcon';
