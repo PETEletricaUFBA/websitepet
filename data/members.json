@@ -1,12 +1,12 @@
-{ 
+{
     "fredericoSouza": {
         "name": "Frederico Souza",
         "active": true,
         "image": "/images/team/fredericoSouza.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2018.1",
+        "dates": {
+            "UFBA": "2018.1",
             "joinPET": "2020",
             "egressPET": null
         },
@@ -17,16 +17,16 @@
             }
         ]
     },
-    "henriqueAzoubel":{
+    "henriqueAzoubel": {
         "name": "Henrique Azoubel",
         "active": true,
         "image": "/images/team/henriqueAzoubel.jpg",
         "bio": "“The answer, my friend, is blowin' in the wind.”",
-        "signature":null,
-        "dates":{
-            "UFBA":"2019.1",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
             "joinPET": "julho de 2021",
-            "egressPET":null
+            "egressPET": null
         },
         "social": [
             {
@@ -39,14 +39,14 @@
             }
         ]
     },
-    "isaacAraujo":{
+    "isaacAraujo": {
         "name": "Isaac Araújo",
         "active": true,
         "image": "/images/team/isaacAraujo.jpg",
         "bio": "“E a vida, e a vida o que é? Diga lá, meu irmão Ela é a batida de um coração Ela é uma doce ilusão” - Gonzaguinha.",
-        "signature":null,
-        "dates":{
-            "UFBA":"2018.2",
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.2",
             "joinPET": "2020",
             "egressPET": null
         },
@@ -64,7 +64,6 @@
                 "link": "mailto:isaac.tito3@gmail.com"
             }
         ]
-
     },
     "joeltonDJunior": {
         "name": "Joelton D. Junior",
@@ -72,8 +71,8 @@
         "image": "/images/team/joeltonDJunior.png",
         "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
         "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
-        "dates":{
-            "UFBA":"2019.1",
+        "dates": {
+            "UFBA": "2019.1",
             "joinPET": "2020",
             "egressPET": null
         },
@@ -84,7 +83,7 @@
             },
             {
                 "name": "github",
-                "link": "https://github.com/fredxmgxd"
+                "link": "https://github.com/freedxmgxd"
             },
             {
                 "name": "email",
@@ -92,14 +91,14 @@
             }
         ]
     },
-    "marianaNascimento":{
+    "marianaNascimento": {
         "name": "Mariana Nascimento",
         "active": true,
         "image": "/images/team/marianaNascimento.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2018.1",
+        "signature": "Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer \"de tudo um pouco\", pratica capoeira e estuda japonês.",
+        "dates": {
+            "UFBA": "2018.1",
             "joinPET": "2019",
             "egressPET": null
         },
@@ -109,16 +108,15 @@
                 "link": "mailto:marianacn02@gmail.com"
             }
         ]
-
     },
-    "pedroHenrique":{
+    "pedroHenrique": {
         "name": "Pedro Henrique Oliveira",
         "active": true,
         "image": "/images/team/pedroHenrique.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2019.1",
+        "dates": {
+            "UFBA": "2019.1",
             "joinPET": "julho de 2021",
             "egressPET": null
         },
@@ -128,16 +126,15 @@
                 "link": "mailto:pedrog@ufba.br"
             }
         ]
-
     },
-    "tarcisioPereira":{
+    "tarcisioPereira": {
         "name": "Tarcisio Pereira",
         "active": true,
         "image": "/images/team/tarcisioPereira.jpeg",
         "bio": "“Memento mori, memento vivere.”",
-        "signature":null,
-        "dates":{
-            "UFBA":"2019.1",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
             "joinPET": "março de 2022",
             "egressPET": null
         },
@@ -152,14 +149,14 @@
             }
         ]
     },
-    "tiscileCabral":{
+    "tiscileCabral": {
         "name": "Tíscile Cabral",
         "active": true,
         "image": "/images/team/tiscileCabral.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2019.2",
+        "signature": "Estudante do curso de Engenharia Elétrica e amante da física. Sou apaixonada por café, gosto de ouvir música e também de cozinhar para as pessoas que amo.",
+        "dates": {
+            "UFBA": "2019.2",
             "joinPET": "julho de 2021",
             "egressPET": null
         },
@@ -170,14 +167,14 @@
             }
         ]
     },
-    "viniciusViana":{
+    "viniciusViana": {
         "name": "Vinícius Viana",
         "active": true,
         "image": "/images/team/viniciusViana.png",
         "bio": null,
-        "signature":null,
-        "dates":{
-            "UFBA":"2021.2",
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
             "joinPET": "março de 2022",
             "egressPET": null
         },
@@ -198,8 +195,8 @@
         "image": "/images/team/marcioFontana.jpg",
         "bio": "Tutor do grupo PET-Elétrica, o professor Márcio Fontana possui graduação em Engenharia Elétrica pela Universidade Estadual de Santa Catarina (UDESC, 1999), mestrado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB, 2001), doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (UNICAMP, 2004) e pós-doutorado pela Georgetown University (Washington-DC, 2012) no projeto Desenvolvimento de transistores de efeito de campo baseados em nanotubos de carbono (CNT-FET) e Dissulfeto de Molibdênio (MoS2-FET). Atualmente, é Professor Associado do Departamento de Engenharia Elétrica da UFBA. Tem experiência na área de Engenharia Elétrica, com ênfase em Materiais Elétricos e processo de micro/nanoeletrônica.",
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": null,
             "egressPET": null
         },
@@ -210,13 +207,13 @@
             }
         ]
     },
-    "adranSouza":{
+    "adranSouza": {
         "name": "Adran Souza",
         "active": false,
         "image": "/images/team/adranSouza.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": null,
             "joinPET": "dezembro de 2012",
             "egressPET": "Egresso do PET: maio de 2014"
@@ -232,13 +229,13 @@
             }
         ]
     },
-    "adrianeAmorim":{
+    "adrianeAmorim": {
         "name": "Adriane Amorim",
         "active": false,
         "image": "/images/team/adrianeAmorim.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": "2013.2",
             "joinPET": "outubro de 2014",
             "egressPET": null
@@ -254,13 +251,13 @@
             }
         ]
     },
-    "adrieleRibeiro":{
+    "adrieleRibeiro": {
         "name": "Adriele Ribeiro",
         "active": false,
         "image": "/images/team/adrieleRibeiro.png",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": "2014.1",
             "joinPET": "outubro de 2014",
             "egressPET": null
@@ -276,13 +273,13 @@
             }
         ]
     },
-    "aliceValente":{
+    "aliceValente": {
         "name": "Alice Valente",
         "active": false,
         "image": "/images/team/aliceValente.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": null,
             "joinPET": "janeiro de 2010",
             "egressPET": "Egresso no PET: fevereiro de 2011"
@@ -298,13 +295,13 @@
             }
         ]
     },
-    "amauriOliveira":{
+    "amauriOliveira": {
         "name": "Amauri Oliveira",
         "active": false,
         "image": "/images/team/amauriOliveira.bmp",
         "bio": "Ex-Tutor do grupo PET-Elétrica, o professor Amauri Oliveira possui graduação em Engenharia Elétrica pela Universidade Federal da Bahia (1979), mestrado em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro (1982), doutorado em Engenharia Elétrica pela Universidade Federal da Paraíba (1997) e Pós-Doutorado pela École Nationale Supérieure Des Télécomunications (2000). Aposentado em março de 2017 como Professor Titular do Departamento de Engenharia Elétrica da Universidade Federal da Bahia, é Colaborador no Programa de Pós-Graduação em Engenharia Elétrica da UFBA atualmente. Tem experiência na área de Engenharia Elétrica com ênfase em Instrumentação Eletrônica, atuando principalmente nos seguintes temas: sistemas de medição, sensores termo-resistivos e processamento de sinais para medição. Durante o ano de 2011 e os primeiros meses de 2012, o professor Amauri foi o tutor do grupo contribuindo para o seu crescimento.",
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": null,
             "joinPET": null,
             "egressPET": null
@@ -316,14 +313,14 @@
             }
         ]
     },
-    "anaBeatriz":{
+    "anaBeatriz": {
         "name": "Ana Beatriz Alves",
         "active": false,
         "image": "/images/team/anaBeatriz.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2017.1",
+        "dates": {
+            "UFBA": " 2017.1",
             "joinPET": "fevereiro de 2018",
             "egressPET": null
         },
@@ -334,13 +331,13 @@
             }
         ]
     },
-    "antonioMiguel":{
+    "antonioMiguel": {
         "name": "Antônio Miguel",
         "active": false,
         "image": "/images/team/antonioMiguel.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": null,
             "joinPET": "junho de 2013",
             "egressPET": "Egresso no PET: junho de 2014"
@@ -356,13 +353,13 @@
             }
         ]
     },
-    "beatrizCerqueira":{
+    "beatrizCerqueira": {
         "name": "Beatriz Cerqueira",
         "active": false,
         "image": "/images/team/beatrizCerqueira.png",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": "2018.2",
             "joinPET": "2019",
             "egressPET": null
@@ -374,14 +371,14 @@
             }
         ]
     },
-    "brenoAmin":{
+    "brenoAmin": {
         "name": "Breno Amin",
         "active": false,
         "image": "/images/team/brenoAmin.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2017.2",
+        "signature": "Olá, eu sou Breno Amin Matos Gomes, graduando do curso Engenharia Elétrica da UFBA. Um amante de ciências e tecnologias, fã de esportes nas horas vagas e um curioso pelo novo do mundo...",
+        "dates": {
+            "UFBA": "2017.2",
             "joinPET": "abril de 2019",
             "egressPET": null
         },
@@ -392,14 +389,14 @@
             }
         ]
     },
-    "brunoCarvalho":{
+    "brunoCarvalho": {
         "name": "Bruno Carvalho",
         "active": false,
         "image": "/images/team/brunoCarvalho.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "janeiro de 2010",
             "egressPET": "Egresso no PET: fevereiro de 2011"
         },
@@ -410,14 +407,14 @@
             }
         ]
     },
-    "brunoOliveira":{
+    "brunoOliveira": {
         "name": "Bruno Oliveira",
         "active": false,
         "image": "/images/team/brunoOliveira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "janeiro de 2010",
             "egressPET": "Egresso no PET: janeiro de 2012"
         },
@@ -428,16 +425,16 @@
             }
         ]
     },
-    "caioBorges":{
+    "caioBorges": {
         "name": "Caio Borges",
         "active": false,
         "image": "/images/team/caioBorges.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.1",
-            "joinPET":"fevereiro de 2017",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "fevereiro de 2017",
+            "egressPET": null
         },
         "social": [
             {
@@ -446,13 +443,13 @@
             }
         ]
     },
-    "camilaRighas":{
+    "camilaRighas": {
         "name": "Camila Righas",
         "active": false,
         "image": "/images/team/camilaRighas.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
+        "dates": {
             "UFBA": "2015.1",
             "joinPET": "outubro de 2014",
             "egressPET": null
@@ -468,16 +465,16 @@
             }
         ]
     },
-    "danielOliveira":{
+    "danielOliveira": {
         "name": "Daniel Oliveira",
         "active": false,
         "image": "/images/team/danielOliveira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.1",
-            "joinPET":"fevereiro de 2018",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "fevereiro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -486,16 +483,16 @@
             }
         ]
     },
-    "daniloCosta":{
+    "daniloCosta": {
         "name": "Danilo Costa",
         "active": false,
         "image": "/images/team/daniloCosta.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"outubro de 2014",
-            "egressPET":"Egresso do PET: novembro de 2016"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "outubro de 2014",
+            "egressPET": "Egresso do PET: novembro de 2016"
         },
         "social": [
             {
@@ -504,14 +501,14 @@
             }
         ]
     },
-    "daniloLedo":{
+    "daniloLedo": {
         "name": "Danilo Ledo",
         "active": false,
         "image": "/images/team/daniloLedo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "janeiro de 2012",
             "egressPET": "Egresso do PET: janeiro de 2014"
         },
@@ -526,16 +523,16 @@
             }
         ]
     },
-    "diegoCesar":{
+    "diegoCesar": {
         "name": "Diego Cesar",
         "active": false,
         "image": "/images/team/diegoCesar.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"janeiro de 2010",
-            "egressPET":"Egresso do PET: junho de 2011"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2010",
+            "egressPET": "Egresso do PET: junho de 2011"
         },
         "social": [
             {
@@ -544,14 +541,14 @@
             }
         ]
     },
-    "diegoFernandes":{
+    "diegoFernandes": {
         "name": "Diego Fernandes",
         "active": false,
         "image": "/images/team/diegoFernandes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2013.1",
+        "dates": {
+            "UFBA": " 2013.1",
             "joinPET": "fevereiro de 2017",
             "egressPET": null
         },
@@ -566,16 +563,16 @@
             }
         ]
     },
-    "elderPereira":{
+    "elderPereira": {
         "name": "Elder Pereira",
         "active": false,
         "image": "/images/team/elderPereira.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2019.2",
-            "joinPET":"2020",
-            "egressPET":null
+        "signature": "Eu sou Elder Pereira, graduando do curso de Engenharia Elétrica. Sou um cara hidratado que gosta de viajar, assistir boas series e que ama aprender novas tecnologias.",
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "2020",
+            "egressPET": null
         },
         "social": [
             {
@@ -584,14 +581,14 @@
             }
         ]
     },
-    "felipeBomfim":{
+    "felipeBomfim": {
         "name": "Felipe Bomfim",
         "active": false,
         "image": "/images/team/felipeBomfim.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.2",
+        "dates": {
+            "UFBA": " 2014.2",
             "joinPET": "Fevereiro de 2016",
             "egressPET": null
         },
@@ -606,14 +603,14 @@
             }
         ]
     },
-    "fernandaBarata":{
+    "fernandaBarata": {
         "name": "Fernanda Barata",
         "active": false,
         "image": "/images/team/fernandaBarata.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2011.2",
+        "dates": {
+            "UFBA": "2011.2",
             "joinPET": "Junho de 2013",
             "egressPET": null
         },
@@ -628,14 +625,14 @@
             }
         ]
     },
-    "flaviaBacelar":{
+    "flaviaBacelar": {
         "name": "Flávia Bacelar",
         "active": false,
         "image": "/images/team/flaviaBacelar.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2011.2",
+        "dates": {
+            "UFBA": "2011.2",
             "joinPET": "Dezembro de 2012",
             "egressPET": null
         },
@@ -650,16 +647,16 @@
             }
         ]
     },
-    "gabrielCaldas":{
+    "gabrielCaldas": {
         "name": "Gabriel Caldas",
         "active": false,
         "image": "/images/team/gabrielCaldas.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Junho de 2011",
-            "egressPET":"Egresso do PET: Março de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2011",
+            "egressPET": "Egresso do PET: Março de 2012"
         },
         "social": [
             {
@@ -668,14 +665,14 @@
             }
         ]
     },
-    "gabrielMendes":{
+    "gabrielMendes": {
         "name": "Gabriel Mendes",
         "active": false,
         "image": "/images/team/gabrielMendes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2016.1",
+        "dates": {
+            "UFBA": " 2016.1",
             "joinPET": "Fevereiro de 2017",
             "egressPET": null
         },
@@ -690,16 +687,16 @@
             }
         ]
     },
-    "geraldoJunior":{
+    "geraldoJunior": {
         "name": "Geraldo Junior",
         "active": false,
         "image": "/images/team/geraldoJunior.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2017.2",
-            "joinPET":"Outubro de 2018",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2017.2",
+            "joinPET": "Outubro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -708,16 +705,16 @@
             }
         ]
     },
-    "heiderBerlink":{
+    "heiderBerlink": {
         "name": "Heider Berlink",
         "active": false,
         "image": "/images/team/heiderBerlink.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2009",
-            "egressPET":"Egresso do PET: Setembro de 2009"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2009"
         },
         "social": [
             {
@@ -726,16 +723,16 @@
             }
         ]
     },
-    "henriqueOliveira":{
+    "henriqueOliveira": {
         "name": "Henrique Oliveira",
         "active": false,
         "image": "/images/team/henriqueOliveira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2013.2",
-            "joinPET":"Dezembro de 2014",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2013.2",
+            "joinPET": "Dezembro de 2014",
+            "egressPET": null
         },
         "social": [
             {
@@ -744,16 +741,16 @@
             }
         ]
     },
-    "iagoFerreira":{
+    "iagoFerreira": {
         "name": "Iago Ferreira",
         "active": false,
         "image": "/images/team/iagoFerreira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2019.2",
-            "joinPET":"julho de 2021",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "julho de 2021",
+            "egressPET": null
         },
         "social": [
             {
@@ -762,16 +759,16 @@
             }
         ]
     },
-    "icaroPalma":{
+    "icaroPalma": {
         "name": "Icaro Palma",
         "active": false,
         "image": "/images/team/icaroPalma.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Março de 2011",
-            "egressPET":null
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Março de 2011",
+            "egressPET": null
         },
         "social": [
             {
@@ -780,14 +777,14 @@
             }
         ]
     },
-    "joaoVictor":{
+    "joaoVictor": {
         "name": "João Victor Mata",
         "active": false,
         "image": "/images/team/joaoVictor.png",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2015.1",
+        "dates": {
+            "UFBA": " 2015.1",
             "joinPET": "Fevereiro de 2016",
             "egressPET": null
         },
@@ -802,16 +799,16 @@
             }
         ]
     },
-    "josiasLima":{
+    "josiasLima": {
         "name": "Josias Lima",
         "active": false,
         "image": "/images/team/josiasLima.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2018.2",
-            "joinPET":"Abril de 2019",
-            "egressPET":null
+        "signature": "Técnico em eletromecânica formado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Simões Filho, apaixonado por ensino, pesquisa e extensão. Também dá uma de palestrante nas horas vagas.",
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -820,14 +817,14 @@
             }
         ]
     },
-    "jucycleideSeixas":{
+    "jucycleideSeixas": {
         "name": "Jucycleide Seixas",
         "active": false,
         "image": "/images/team/jucycleideSeixas.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.2",
+        "dates": {
+            "UFBA": " 2014.2",
             "joinPET": "Fevereiro de 2016",
             "egressPET": null
         },
@@ -842,16 +839,16 @@
             }
         ]
     },
-    "lenonMagalhaes":{
+    "lenonMagalhaes": {
         "name": "Lenon Magalhães Andrade",
         "active": false,
         "image": "/images/team/lenonMagalhaes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2017.1",
-            "joinPET":"Fevereiro de 2018",
-            "egressPET":null
+        "dates": {
+            "UFBA": " 2017.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -860,16 +857,16 @@
             }
         ]
     },
-    "leonardoDaltro":{
+    "leonardoDaltro": {
         "name": "Leonardo Daltro",
         "active": false,
         "image": "/images/team/leonardoDaltro.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2009",
-            "egressPET":"Egresso do PET: Setembro de 2009"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2009"
         },
         "social": [
             {
@@ -878,16 +875,16 @@
             }
         ]
     },
-    "leonardoMenezes":{
+    "leonardoMenezes": {
         "name": "Leonardo Menezes",
         "active": false,
         "image": "/images/team/leonardoMenezes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.1",
-            "joinPET":"Fevereiro de 2018",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -896,16 +893,16 @@
             }
         ]
     },
-    "leonardoNunes":{
+    "leonardoNunes": {
         "name": "Leonardo Nunes",
         "active": false,
         "image": "/images/team/leonardoNunes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Dezembro de 2010",
-            "egressPET":"Egresso do PET: Setembro de 2011"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Dezembro de 2010",
+            "egressPET": "Egresso do PET: Setembro de 2011"
         },
         "social": [
             {
@@ -914,14 +911,14 @@
             }
         ]
     },
-    "liliaMeira":{
+    "liliaMeira": {
         "name": "Lília Meira",
         "active": false,
         "image": "/images/team/liliaMeira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2013.2",
+        "dates": {
+            "UFBA": "2013.2",
             "joinPET": "Outubro de 2014",
             "egressPET": null
         },
@@ -936,14 +933,14 @@
             }
         ]
     },
-    "lorennaVilas":{
+    "lorennaVilas": {
         "name": "Lorenna Vilas Boas",
         "active": false,
         "image": "/images/team/lorennaVilas.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2016.1",
+        "dates": {
+            "UFBA": " 2016.1",
             "joinPET": " Ingresso no PET: Fevereiro de 2018",
             "egressPET": null
         },
@@ -958,14 +955,14 @@
             }
         ]
     },
-    "lucasAlves":{
+    "lucasAlves": {
         "name": "Lucas Alves",
         "active": false,
         "image": "/images/team/lucasAlves.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Dezembro de 2013 ",
             "egressPET": "Egresso no PET: Janeiro de 2016"
         },
@@ -980,16 +977,16 @@
             }
         ]
     },
-    "lucasCorreia":{
+    "lucasCorreia": {
         "name": "Lucas Correia",
         "active": false,
         "image": "/images/team/lucasCorreia.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2017.1",
-            "joinPET":"Fevereiro de 2018",
-            "egressPET":null
+        "dates": {
+            "UFBA": " 2017.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -998,14 +995,14 @@
             }
         ]
     },
-    "lucasMarins":{
+    "lucasMarins": {
         "name": "Lucas Marins",
         "active": false,
         "image": "/images/team/lucasMarins.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Junho de 2012",
             "egressPET": null
         },
@@ -1020,14 +1017,14 @@
             }
         ]
     },
-    "lucasSacramento":{
+    "lucasSacramento": {
         "name": "Lucas Sacramento",
         "active": false,
         "image": "/images/team/lucasSacramento.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Janeiro de 2011",
             "egressPET": null
         },
@@ -1042,14 +1039,14 @@
             }
         ]
     },
-    "lucianaMartinez":{
+    "lucianaMartinez": {
         "name": "Luciana Martinez",
         "active": false,
         "image": "/images/team/lucianaMartinez.jpg",
         "bio": "Possui graduação em Bacharelado em Matemática pela Universidade de São Paulo (1994), mestrado em Ciências pela Universidade de São Paulo (1996) e doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (2001). Atualmente, é Professora Adjunto IV da UFBA. Tem experiência em Otimização Linear e Não Linear, atuando principalmente nos seguintes temas: planejamento energético e sistemas de energia elétrica.",
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": null,
             "egressPET": null
         },
@@ -1060,29 +1057,29 @@
             }
         ]
     },
-    "ludmilaRego":{
+    "ludmilaRego": {
         "name": "Ludmila Rego",
         "active": false,
         "image": "/images/team/ludmilaRego.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2011",
-            "egressPET":"Egresso do PET: Março de 2013"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": "Egresso do PET: Março de 2013"
         },
         "social": null
     },
-    "manoelitoFilho":{
+    "manoelitoFilho": {
         "name": "Manoelito FIlho",
         "active": false,
         "image": "/images/team/manoelitoFilho.png",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2014.2",
-            "joinPET":"Fevereiro de 2016",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
         },
         "social": [
             {
@@ -1091,27 +1088,27 @@
             }
         ]
     },
-    "marianaBarreto":{
+    "marianaBarreto": {
         "name": "Mariana Barreto",
         "active": false,
         "image": "/images/team/marianaBarreto.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Junho de 2011",
-            "egressPET":"Egresso do PET: Julho de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2011",
+            "egressPET": "Egresso do PET: Julho de 2012"
         },
         "social": null
     },
-    "mateusSanches":{
+    "mateusSanches": {
         "name": "Mateus Sanches",
         "active": false,
         "image": "/images/team/mateusSanches.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Janeiro de 2012",
             "egressPET": "Egresso do PET: Junho de 2013"
         },
@@ -1126,16 +1123,16 @@
             }
         ]
     },
-    "matheusCarvalho":{
+    "matheusCarvalho": {
         "name": "Matheus Carvalho",
         "active": false,
         "image": "/images/team/matheusCarvalho.jpeg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2015.1",
-            "joinPET":"Fevereiro de 2017",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2015.1",
+            "joinPET": "Fevereiro de 2017",
+            "egressPET": null
         },
         "social": [
             {
@@ -1144,16 +1141,16 @@
             }
         ]
     },
-    "matheusHandley":{
+    "matheusHandley": {
         "name": "Matheus Carvalho Handley Santos",
         "active": false,
         "image": "/images/team/matheusHandley.jpeg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2016.1",
-            "joinPET":"Fevereiro de 2018",
-            "egressPET":null
+        "signature": 	"Matheus Carvalho Handley Santos ou MC Handley é um ser criativo e curioso que busca sempre trazer algo novo para ser discutido, incentivado e acrescido por todos ao seu redor com o propósito de alcançar inimagináveis lugares e levar melhorias para todos.",
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
         },
         "social": [
             {
@@ -1162,16 +1159,16 @@
             }
         ]
     },
-    "matheusCosta":{
+    "matheusCosta": {
         "name": "Matheus Costa",
         "active": false,
         "image": "/images/team/matheusCosta.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Fevereiro de 2011",
-            "egressPET":"Egresso do PET: Dezembro de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Fevereiro de 2011",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
         },
         "social": [
             {
@@ -1180,16 +1177,16 @@
             }
         ]
     },
-    "matheusPereira":{
+    "matheusPereira": {
         "name": "Matheus Pereira",
         "active": false,
         "image": "/images/team/matheusPereira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.2",
-            "joinPET":"Agosto de 2016",
-            "egressPET":null
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Agosto de 2016",
+            "egressPET": null
         },
         "social": [
             {
@@ -1198,16 +1195,16 @@
             }
         ]
     },
-    "matheusVeloso":{
+    "matheusVeloso": {
         "name": "Matheus Veloso",
         "active": false,
         "image": "/images/team/matheusVeloso.jpeg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2014.1",
-            "joinPET":"Janeiro de 2018",
-            "egressPET":"Egresso do PET: Fevereiro de 2020"
+        "dates": {
+            "UFBA": "2014.1",
+            "joinPET": "Janeiro de 2018",
+            "egressPET": "Egresso do PET: Fevereiro de 2020"
         },
         "social": [
             {
@@ -1216,16 +1213,16 @@
             }
         ]
     },
-    "mauricioTaffarel":{
+    "mauricioTaffarel": {
         "name": "Mauricio Taffarel",
         "active": false,
         "image": "/images/team/mauricioTaffarel.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2017.2",
-            "joinPET":"Abril de 2019",
-            "egressPET":null
+        "signature": "Adoro aprender coisas novas, todos os dias. Amo construir coisas (quebrar também!!). Gosto muito de matemática, física e eletrônica.",
+        "dates": {
+            "UFBA": "2017.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1238,16 +1235,16 @@
             }
         ]
     },
-    "mayconDouglas":{
+    "mayconDouglas": {
         "name": "Maycon Douglas",
         "active": false,
         "image": "/images/team/mayconDouglas.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2009",
-            "egressPET":"Egresso do PET: Dezembro de 2010"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Dezembro de 2010"
         },
         "social": [
             {
@@ -1256,16 +1253,16 @@
             }
         ]
     },
-    "michealAraujo":{
+    "michealAraujo": {
         "name": "Michael Araújo",
         "active": false,
         "image": "/images/team/michaelAraujo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2016.1",
-            "joinPET":"Julho de 2017",
-            "egressPET":null
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": "Julho de 2017",
+            "egressPET": null
         },
         "social": [
             {
@@ -1274,14 +1271,14 @@
             }
         ]
     },
-    "milenaCerqueira":{
+    "milenaCerqueira": {
         "name": "Milena Cerqueira",
         "active": false,
         "image": "/images/team/milenaCerqueira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Outubro de 2014",
             "egressPET": "Egresso do PET: Outubro de 2016"
         },
@@ -1296,14 +1293,14 @@
             }
         ]
     },
-    "moisesAlmeida":{
+    "moisesAlmeida": {
         "name": "Moisés Almeida",
         "active": false,
         "image": "/images/team/moisesAlmeida.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.2",
+        "dates": {
+            "UFBA": " 2014.2",
             "joinPET": "Fevereiro de 2016",
             "egressPET": null
         },
@@ -1318,16 +1315,16 @@
             }
         ]
     },
-    "nathaneLima":{
+    "nathaneLima": {
         "name": "Nathane Lima",
         "active": false,
         "image": "/images/team/nathaneLima.jpg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2018.2",
-            "joinPET":"2019",
-            "egressPET":null
+        "signature": "Nathane é estudante de Engenharia Elétrica, gosta de literatura e arte e ama animais.",
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1336,16 +1333,16 @@
             }
         ]
     },
-    "otonielMello":{
+    "otonielMello": {
         "name": "Otoniel Mello",
         "active": false,
         "image": "/images/team/otonielMello.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2011",
-            "egressPET":"Egresso do PET: Maio de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": "Egresso do PET: Maio de 2012"
         },
         "social": [
             {
@@ -1354,14 +1351,14 @@
             }
         ]
     },
-    "pabloAraujo":{
+    "pabloAraujo": {
         "name": "Pablo Araújo",
         "active": false,
         "image": "/images/team/pabloAraujo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Abril de 2012",
             "egressPET": "Egresso do PET: Fevereiro de 2014"
         },
@@ -1376,16 +1373,16 @@
             }
         ]
     },
-    "pauloFernando":{
+    "pauloFernando": {
         "name": "Paulo Fernando",
         "active": false,
         "image": "/images/team/pauloFernando.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2013.1",
-            "joinPET":"Outubro de 2014",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2013.1",
+            "joinPET": "Outubro de 2014",
+            "egressPET": null
         },
         "social": [
             {
@@ -1394,16 +1391,16 @@
             }
         ]
     },
-    "pedroAndrade":{
+    "pedroAndrade": {
         "name": "Pedro Andrade",
         "active": false,
         "image": "/images/team/pedroAndrade.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2010",
-            "egressPET":"Egresso do PET: Dezembro de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2010",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
         },
         "social": [
             {
@@ -1412,16 +1409,16 @@
             }
         ]
     },
-    "pedroArgolo":{
+    "pedroArgolo": {
         "name": "Pedro Argôlo",
         "active": false,
         "image": "/images/team/pedroArgolo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.2",
-            "joinPET":"Abril de 2019",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1430,16 +1427,16 @@
             }
         ]
     },
-    "pedroXavier":{
+    "pedroXavier": {
         "name": "Pedro Xavier",
         "active": false,
         "image": "/images/team/pedroXavier.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"2009",
-            "egressPET":"Egresso do PET: Fevereiro de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "2009",
+            "egressPET": "Egresso do PET: Fevereiro de 2012"
         },
         "social": [
             {
@@ -1448,14 +1445,14 @@
             }
         ]
     },
-    "periclesOliveira":{
+    "periclesOliveira": {
         "name": "Péricles Oliveira",
         "active": false,
         "image": "/images/team/periclesOliveira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Dezembro de 2013",
             "egressPET": "Egresso do PET: Setembro de 2016"
         },
@@ -1470,16 +1467,16 @@
             }
         ]
     },
-    "rafaelGomes":{
+    "rafaelGomes": {
         "name": "Rafael Gomes",
         "active": false,
         "image": "/images/team/rafaelGomes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"2009",
-            "egressPET":"Egresso do PET: Junho de 2011"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "2009",
+            "egressPET": "Egresso do PET: Junho de 2011"
         },
         "social": [
             {
@@ -1488,14 +1485,14 @@
             }
         ]
     },
-    "rafaelMatos":{
+    "rafaelMatos": {
         "name": "Rafael Matos",
         "active": false,
         "image": "/images/team/rafaelMatos.png",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2012.2",
+        "dates": {
+            "UFBA": "2012.2",
             "joinPET": "Junho de 2013",
             "egressPET": null
         },
@@ -1510,16 +1507,16 @@
             }
         ]
     },
-    "rafaelShort":{
+    "rafaelShort": {
         "name": "Rafael Short",
         "active": false,
         "image": "/images/team/rafaelShort.jpeg",
         "bio": null,
-        "signature": null,
-        "dates":{
-            "UFBA":"2019.1",
-            "joinPET":"2019",
-            "egressPET":null
+        "signature": 	"Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever texos, ouvir músicas e aprender novos idiomas.",
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1528,16 +1525,16 @@
             }
         ]
     },
-    "raiellyAtaide":{
+    "raiellyAtaide": {
         "name": "Raielly Ataide",
         "active": false,
         "image": "/images/team/raiellyAtaide.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2017.1 (BI em Ciência e tecnologia) // 2020.1 (Eng. Elétrica)",
-            "joinPET":"2020",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2017.1 (BI em Ciência e tecnologia) // 2020.1 (Eng. Elétrica)",
+            "joinPET": "2020",
+            "egressPET": null
         },
         "social": [
             {
@@ -1546,14 +1543,14 @@
             }
         ]
     },
-    "renataBaqueiro":{
+    "renataBaqueiro": {
         "name": "Renata Baqueiro",
         "active": false,
         "image": "/images/team/renataBaqueiro.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": null,
             "egressPET": null
         },
@@ -1568,29 +1565,29 @@
             }
         ]
     },
-    "rodrigoBarros":{
+    "rodrigoBarros": {
         "name": "Rodrigo Barros",
         "active": false,
         "image": "/images/team/rodrigoBarros.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Janeiro de 2009",
-            "egressPET":"Egresso do PET: Setembro de 2010"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2010"
         },
-        "social":null
+        "social": null
     },
-    "rodrigoSchaer":{
+    "rodrigoSchaer": {
         "name": "Rodrigo Schaer",
         "active": false,
         "image": "/images/team/rodrigoSchaer.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2016.1",
-            "joinPET":"Fevereiro de 2017",
-            "egressPET":null
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": "Fevereiro de 2017",
+            "egressPET": null
         },
         "social": [
             {
@@ -1599,14 +1596,14 @@
             }
         ]
     },
-    "ryanTeixeira":{
+    "ryanTeixeira": {
         "name": "Ryan Texeira",
         "active": false,
         "image": "/images/team/ryanTeixeira.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.1",
+        "dates": {
+            "UFBA": " 2014.1",
             "joinPET": "Outubro de 2014",
             "egressPET": null
         },
@@ -1621,16 +1618,16 @@
             }
         ]
     },
-    "suzanaVarjao":{
+    "suzanaVarjao": {
         "name": "Suzana dos Santos Varjão",
         "active": false,
         "image": "/images/team/suzanaVarjao.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.2",
-            "joinPET":"2019",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.2",
+            "joinPET": "2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1639,14 +1636,14 @@
             }
         ]
     },
-    "tailanaAzevedo":{
+    "tailanaAzevedo": {
         "name": "Tailana Azevedo",
         "active": false,
         "image": "/images/team/tailanaAzevedo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":" 2014.2",
+        "dates": {
+            "UFBA": " 2014.2",
             "joinPET": "Fevereiro de 2016",
             "egressPET": null
         },
@@ -1661,16 +1658,16 @@
             }
         ]
     },
-    "thacioKevin":{
+    "thacioKevin": {
         "name": "Thácio Kevin",
         "active": false,
         "image": "/images/team/thacioKevin.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2016.1 (BI em Ciência e Tecnologia) // 2019.1 (Eng. Elétrica)",
-            "joinPET":"Abril de 2019",
-            "egressPET":null
+        "dates": {
+            "UFBA": "2016.1 (BI em Ciência e Tecnologia) // 2019.1 (Eng. Elétrica)",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
         },
         "social": [
             {
@@ -1679,16 +1676,16 @@
             }
         ]
     },
-    "thercioBarreto":{
+    "thercioBarreto": {
         "name": "Thercio Barreto",
         "active": false,
         "image": "/images/team/thercioBarreto.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
-            "joinPET":"Agosto de 2012",
-            "egressPET":"Egresso do PET: Dezembro de 2012"
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Agosto de 2012",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
         },
         "social": [
             {
@@ -1697,14 +1694,14 @@
             }
         ]
     },
-    "thiagoMenezes":{
+    "thiagoMenezes": {
         "name": "Thiago Menezes",
         "active": false,
         "image": "/images/team/thiagoMenezes.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2019.2",
+        "dates": {
+            "UFBA": "2019.2",
             "joinPET": "julho de 2021",
             "egressPET": null
         },
@@ -1715,14 +1712,14 @@
             }
         ]
     },
-    "tiagoLobao":{
+    "tiagoLobao": {
         "name": "Tiago Lobão",
         "active": false,
         "image": "/images/team/tiagoLobao.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2013.1",
+        "dates": {
+            "UFBA": "2013.1",
             "joinPET": "Dezembro de 2013",
             "egressPET": null
         },
@@ -1737,14 +1734,14 @@
             }
         ]
     },
-    "ubiratanJunior":{
+    "ubiratanJunior": {
         "name": "Ubiratan Junior",
         "active": false,
         "image": "/images/team/ubiratanJunior.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Dezembro de 2012",
             "egressPET": "Egresso do PET: Junho de 2013"
         },
@@ -1755,14 +1752,14 @@
             }
         ]
     },
-    "victorCoutinho":{
+    "victorCoutinho": {
         "name": "Victor Coutinho",
         "active": false,
         "image": "/images/team/victorCoutinho.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2018.1",
+        "dates": {
+            "UFBA": "2018.1",
             "joinPET": "Outubro de 2018",
             "egressPET": null
         },
@@ -1773,14 +1770,14 @@
             }
         ]
     },
-    "victorHugo":{
+    "victorHugo": {
         "name": "Victor Hugo",
         "active": false,
         "image": "/images/team/victorHugo.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":"2012.1",
+        "dates": {
+            "UFBA": "2012.1",
             "joinPET": "Janeiro de 2012",
             "egressPET": null
         },
@@ -1791,14 +1788,14 @@
             }
         ]
     },
-    "viniciusAndrade":{
+    "viniciusAndrade": {
         "name": "Vinicius Andrade",
         "active": false,
         "image": "/images/team/viniciusAndrade.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Janeiro de 2011",
             "egressPET": null
         },
@@ -1809,14 +1806,14 @@
             }
         ]
     },
-    "viniciusPinto":{
+    "viniciusPinto": {
         "name": "Vinicius Pinto",
         "active": false,
         "image": "/images/team/viniciusPinto.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Junho de 2013",
             "egressPET": "Egresso do PET: Agosto de 2014"
         },
@@ -1827,14 +1824,14 @@
             }
         ]
     },
-    "vitorSales":{
+    "vitorSales": {
         "name": "Vitor Sales",
         "active": false,
         "image": "/images/team/vitorSales.jpg",
         "bio": null,
         "signature": null,
-        "dates":{
-            "UFBA":null,
+        "dates": {
+            "UFBA": null,
             "joinPET": "Março de 2012",
             "egressPET": "Egresso do PET: Dezembro de 2012"
         },
