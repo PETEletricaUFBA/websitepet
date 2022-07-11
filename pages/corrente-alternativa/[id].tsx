@@ -2,10 +2,13 @@ import { getPostData, getAllPostIds } from '../../lib/posts';
 import Layout from '../../components/layout';
 import Head from 'next/head';
 import Date from '../../components/date';
+import BlogSignature from '../../components/blogSignature';
 import Image from '../../lib/Image';
 import MembersData from '../../data/members.json';
+import NomMembersData from '../../data/nom-members.json';
 
 const Members: any = MembersData;
+const NomMembers: any = NomMembersData;
 
 export default function Post({ postData }: {
     postData: {
@@ -57,19 +60,9 @@ function Content({ postData }: {
                 <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
                 {postData.authors.map((author, index) => {
-                    if (Members.hasOwnProperty(author)) {
+                    if (Members.hasOwnProperty(author) || NomMembers.hasOwnProperty(author)) {
                         return (
-                            <div className="authorbio my-5" key={index.toString()}>
-                                <div className="authorimage">
-                                    <Image src={Members[author].image} alt={author} layout='responsive' height="100%" width="100%" objectFit="cover" />
-                                </div>
-                                <div className="authorcontent">
-                                    <div className="authorhead">
-                                        <h3>{Members[author].name}</h3>
-                                    </div>
-                                    <p className='bio'>{Members[author].signature}</p>
-                                </div>
-                            </div>
+                            <BlogSignature key={index.toString()} author={Members.hasOwnProperty(author) ? Members[author] : NomMembers[author]} index={index} />
                         )
                     }
                 })}
