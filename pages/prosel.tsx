@@ -21,7 +21,7 @@ const Title = () => (
     <>
         <section className="section pb-0">
             <div className="container text-center">
-                <h1 className="display-3">Processo Seletivo PET 2022.2</h1>
+                <h1 className="display-3">Processo Seletivo PET 2022.3</h1>
 
             </div>
         </section>
