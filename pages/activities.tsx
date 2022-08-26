@@ -11,7 +11,6 @@ export default function Activities() {
 
             <Title />
             <Body />
-            <Egress />
 
         </Layout>
         );
@@ -85,7 +84,7 @@ const Egress = () => (
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                 ) : <></>)}
             </div>
 
