@@ -1,8 +1,30 @@
 {
+    "arturRocha": {
+        "name": "Artur Rocha",
+        "active": true,
+        "image": "/images/team/arturRocha.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/artur-rocha-10728a165/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:artur.rocha@ufba.br"
+            }
+        ]
+    },
     "fredericoSouza": {
         "name": "Frederico Souza",
         "active": true,
-        "image": "/images/team/fredericoSouza.jpg",
+        "image": "/images/team/fredericoSouza.jpeg",
         "bio": null,
         "signature": null,
         "dates": {
@@ -41,14 +63,14 @@
     },
     "isaacAraujo": {
         "name": "Isaac Araújo",
-        "active": true,
+        "active":false,
         "image": "/images/team/isaacAraujo.jpg",
         "bio": "“E a vida, e a vida o que é? Diga lá, meu irmão Ela é a batida de um coração Ela é uma doce ilusão” - Gonzaguinha.",
         "signature": null,
         "dates": {
             "UFBA": "2018.2",
             "joinPET": "2020",
-            "egressPET": null
+            "egressPET": "2022.2"
         },
         "social": [
             {
@@ -65,9 +87,31 @@
             }
         ]
     },
+    "jessicaAzevedo": {
+        "name": "Jéssica Azevedo",
+        "active": true,
+        "image": "/images/team/jessicaAzevedo.jpeg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2022",
+            "joinPET": "2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/j%C3%A9ssica-azevedo-a901941aa/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:jeooliveira@outlook.com"
+            }
+        ]
+    },
     "joeltonDJunior": {
         "name": "Joelton D. Junior",
-        "active": true,
+        "active": false,
         "image": "/images/team/joeltonDJunior.png",
         "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
         "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
@@ -93,7 +137,7 @@
     },
     "marianaNascimento": {
         "name": "Mariana Nascimento",
-        "active": true,
+        "active": false,
         "image": "/images/team/marianaNascimento.jpg",
         "bio": null,
         "signature": "Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer \"de tudo um pouco\", pratica capoeira e estuda japonês.",
@@ -182,6 +226,10 @@
             {
                 "name": "linkedin",
                 "link": "https://www.linkedin.com/in/viniciusvm/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/Vinivianam"
             },
             {
                 "name": "email",

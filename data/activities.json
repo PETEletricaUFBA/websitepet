@@ -67,7 +67,7 @@
             "summary": "Uma atividade realizada semestralmente, com o objetivo de oferecer aulas simplificadas de cálculo aos calouros, de forma que auxilie o entendimento dos assuntos que serão abordados em Física 1."
         },
         {
-            "name": "PET Stauts",
+            "name": "PET Status",
             "status": "ongoing",
             "image": "/images/atividades/logo_petstatus.png",
             "summary": "Atividade que visa a automatização da sala do PET Elétrica. Atualmente, consiste apenas na abertura da porta da sala através de um circuito de Arduino e pretende-se expandir a ideia para outras utilidades."
@@ -85,9 +85,9 @@
             "summary": "Consiste em gerar conteúdo em vídeos sobre diversos temas, sejam de matérias do curso ou de conhecimentos pertinentes à área de Engenharia Elétrica. Os vídeos produzidos são postados no canal do youtube do PET."          
         },
         {
-            "name": "PET Nota 1000",
+            "name": "PET Nota Mil",
             "status": "ongoing",
-            "image": "/images/atividades/logo_nota.jpeg",
+            "image": "/images/atividades/logo_nota.png",
             "summary": "Evento que consistem em um aulão que reúne os principais assuntos cobrados no Exame Nacional do Ensino Médio"
         }
     ]
