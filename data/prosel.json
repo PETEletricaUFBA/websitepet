@@ -1,16 +1,16 @@
 {
     "links": [
         {
-            "name": "edital",
+            "name": "Edital",
             "icon": "fas fa-journal-whills",
             "content": "Todas as informações oficiais estarão neste importante documento. Assim, é de obrigatoriedade a leitura e o entendimento completo para uma participação saudável no processo seletivo.",
-            "link": "/docs/prosel/PS_20223_edital_assinado.pdf"
+            "link": "/docs/prosel/PS_20231_edital_assinado.pdf"
         },
         {
             "name": "Formulario de inscrição",
             "icon": "fas fa-address-card",
             "content": "Em virtude das recomendações de distanciamento social, as inscrições serão feitas de forma on-line. Dessa forma, deve-se acessar o link, anexar a documentação necessária e fazer sua inscrição.",
-            "link": "https://form.jotform.com/222296688069673"
+            "link": "https://form.jotform.com/peteletrica/formulrio-de-inscrio-prosel"
         },
         {
             "name": "Instruções",
@@ -27,31 +27,31 @@
     ],
     "calendar": [
         {
-            "date": "22/08/2022",
+            "date": "15/02/2023",
             "description": "Lançamento do Edital e abertura das inscrições."
         },
         {
-            "date": "21/09/2022",
+            "date": "24/03/2023",
             "description": "Último dia de inscrições."
         },
         {
-            "date": "Até 22/09/2022",
+            "date": "Até 25/03/2023",
             "description": "Homologação das inscrições e resultado da etapa 1"
         },
         {
-            "date": "23/09/2022",
+            "date": "27/03/2023",
             "description": "Dinâmica em grupo (Presencial)."
         },
         {
-            "date": "27/09/2022",
+            "date": "28/03/2023",
             "description": "Entrevista individual com o grupo PET Elétrica (Presencial)."
         },
         {
-            "date": "28/09/2022",
+            "date": "29/03/2023",
             "description": "Entrevista individual com a comissão de seleção (Online)."
         },
         {
-            "date": "Até 30/09/2022",
+            "date": "Até 31/03/2023",
             "description": "Divulgação dos Resultados."
         }
     ]
