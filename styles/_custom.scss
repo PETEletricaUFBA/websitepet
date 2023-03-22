@@ -1,0 +1,169 @@
+// This file is empty within the template
+// You can use it to override CSS from within your project
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  height: 300px;
+  align-items: center;
+}
+
+/* Slides */
+.mySlides {
+  display: block;
+  padding: 8px;
+  position: absolute;
+  top: 50%;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  color: #888;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+/* Add an italic font style to all quotes */
+q {
+  font-style: italic;
+}
+
+/* Add a blue color to the author */
+.author {
+  color: cornflowerblue;
+}
+
+.rounded-top {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.rounded-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 8px;
+}
+
+.rounded-img:hover {
+  opacity: 0.5;
+}
+
+.table {
+  --bs-table-hover-color: #000;
+  color: #888;
+}
+
+.table thead {
+  color: black;
+}
+
+.crop-text-1 {
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.authorbio {
+  position: relative;
+  height: 150px;
+  border-radius: 3px;
+  border-color: black;
+}
+
+.authorimage {
+  float: left;
+  border-radius: 100%;
+  height: 120px;
+  width: 120px;
+  margin-right: 8px;
+  overflow: hidden;
+}
+
+.post * img {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+
+}
+
+.fat {
+  font-size: 1.5rem;
+  // float: left;
+  // margin-left: inherit;
+}
+
+// .textIcon {
+//   display: none;
+//   float: left;
+//   margin:auto;
+//   text-transform: uppercase;
+// }
+
+// .textIcon:hover {
+//   display: block;
+// }
+
+// .fat:hover+.textIcon {
+//   display: block;
+//   float: left;
+// }
+
+div.scrollmenu {
+  // background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  position: relative;
+}
+
+.navbar-brand {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  text-decoration: none;
+  white-space: nowrap;
+  flex: 1 0;
+}
+
+@media (min-width: 768px) {
+  .navbar-brand {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+}
+.hidden {
+  display: none;
+}

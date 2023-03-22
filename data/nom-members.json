@@ -1,0 +1,18 @@
+{
+    "moiraPrates": {
+        "name": "Moira Prates",
+        "image": "/images/guest/moiraPrates.jpg",
+        "signature": "Engajada em uma jornada de aprendizado constante, sou estudante engenharia elétrica, amante de viagens, idiomas, música e jogadora de basquete nas horas vagas.",
+        "social": [
+            null
+        ]
+    },
+    "silviaCaldeira": {
+        "name": "Silvia Caldeira",
+        "image": "/images/guest/silviaCaldeira.jpg",
+        "signature": "Professora do IHAC e colaboradora do espaço.",
+        "social": [
+            null
+        ]
+    }
+}

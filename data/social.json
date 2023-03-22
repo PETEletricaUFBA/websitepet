@@ -1,0 +1,29 @@
+{
+    "social": [
+        {
+            "title": "github",
+            "icon": "fab fa-github",
+            "link": "https://github.com/PETEletricaUFBA"
+        },
+        {
+            "title": "youtube",
+            "icon": "fab fa-youtube",
+            "link": "https://www.youtube.com/c/PETeletricaUFBA"
+        },
+        {
+            "title": "instagram",
+            "icon": "fab fa-instagram",
+            "link": "https://www.instagram.com/peteletricaufba/"
+        },
+        {
+            "title": "facebook",
+            "icon": "fab fa-facebook",
+            "link": "https://www.facebook.com/peteletrica/"
+        },
+        {
+            "title": "twitter",
+            "icon": "fab fa-twitter",
+            "link": "https://twitter.com/peteletrica"
+        }
+    ]
+}

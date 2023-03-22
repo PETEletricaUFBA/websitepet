@@ -1,0 +1,1897 @@
+{
+    "arturRocha": {
+        "name": "Artur Rocha",
+        "active": true,
+        "image": "/images/team/arturRocha.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/artur-rocha-10728a165/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:artur.rocha@ufba.br"
+            }
+        ]
+    },
+    "fredericoSouza": {
+        "name": "Frederico Souza",
+        "active": true,
+        "image": "/images/team/fredericoSouza.jpeg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2020",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:fredericopinheiro25@gmail.com"
+            }
+        ]
+    },
+    "henriqueAzoubel": {
+        "name": "Henrique Azoubel",
+        "active": true,
+        "image": "/images/team/henriqueAzoubel.jpg",
+        "bio": "“The answer, my friend, is blowin' in the wind.”",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/henriqueazoubelengenharia/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:hazoubel@icloud.com"
+            }
+        ]
+    },
+    "isaacAraujo": {
+        "name": "Isaac Araújo",
+        "active":false,
+        "image": "/images/team/isaacAraujo.jpg",
+        "bio": "“E a vida, e a vida o que é? Diga lá, meu irmão Ela é a batida de um coração Ela é uma doce ilusão” - Gonzaguinha.",
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "2020",
+            "egressPET": "2022.2"
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/isaacpcaraujo/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/isaacpcaraujo"
+            },
+            {
+                "name": "email",
+                "link": "mailto:isaac.tito3@gmail.com"
+            }
+        ]
+    },
+    "jessicaAzevedo": {
+        "name": "Jéssica Azevedo",
+        "active": true,
+        "image": "/images/team/jessicaAzevedo.jpeg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2022",
+            "joinPET": "2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/j%C3%A9ssica-azevedo-a901941aa/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:jeooliveira@outlook.com"
+            }
+        ]
+    },
+    "joeltonDJunior": {
+        "name": "Joelton D. Junior",
+        "active": false,
+        "image": "/images/team/joeltonDJunior.png",
+        "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
+        "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "2020",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "site",
+                "link": "https://freedxm.com/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/freedxmgxd"
+            },
+            {
+                "name": "email",
+                "link": "mailto:joelton@freedxm.com"
+            }
+        ]
+    },
+    "marianaNascimento": {
+        "name": "Mariana Nascimento",
+        "active": false,
+        "image": "/images/team/marianaNascimento.jpg",
+        "bio": null,
+        "signature": "Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer \"de tudo um pouco\", pratica capoeira e estuda japonês.",
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:marianacn02@gmail.com"
+            }
+        ]
+    },
+    "pedroHenrique": {
+        "name": "Pedro Henrique Oliveira",
+        "active": true,
+        "image": "/images/team/pedroHenrique.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:pedrog@ufba.br"
+            }
+        ]
+    },
+    "tarcisioPereira": {
+        "name": "Tarcisio Pereira",
+        "active": true,
+        "image": "/images/team/tarcisioPereira.jpeg",
+        "bio": "“Memento mori, memento vivere.”",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "março de 2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/mwlite/in/tarcisio-brito"
+            },
+            {
+                "name": "email",
+                "link": "mailto:tarcio.ee@gmail.com"
+            }
+        ]
+    },
+    "tiscileCabral": {
+        "name": "Tíscile Cabral",
+        "active": true,
+        "image": "/images/team/tiscileCabral.jpg",
+        "bio": null,
+        "signature": "Estudante do curso de Engenharia Elétrica e amante da física. Sou apaixonada por café, gosto de ouvir música e também de cozinhar para as pessoas que amo.",
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:tiscile.c@gmail.com"
+            }
+        ]
+    },
+    "viniciusViana": {
+        "name": "Vinícius Viana",
+        "active": true,
+        "image": "/images/team/viniciusViana.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "março de 2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/viniciusvm/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/Vinivianam"
+            },
+            {
+                "name": "email",
+                "link": "mailto:viniciusvianamoitinho@gmail.com"
+            }
+        ]
+    },
+    "marcioFontana": {
+        "name": "Marcio Fontana",
+        "active": true,
+        "image": "/images/team/marcioFontana.jpg",
+        "bio": "Tutor do grupo PET-Elétrica, o professor Márcio Fontana possui graduação em Engenharia Elétrica pela Universidade Estadual de Santa Catarina (UDESC, 1999), mestrado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB, 2001), doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (UNICAMP, 2004) e pós-doutorado pela Georgetown University (Washington-DC, 2012) no projeto Desenvolvimento de transistores de efeito de campo baseados em nanotubos de carbono (CNT-FET) e Dissulfeto de Molibdênio (MoS2-FET). Atualmente, é Professor Associado do Departamento de Engenharia Elétrica da UFBA. Tem experiência na área de Engenharia Elétrica, com ênfase em Materiais Elétricos e processo de micro/nanoeletrônica.",
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": null,
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "CV",
+                "link": "http://lattes.cnpq.br/6557924427592953"
+            }
+        ]
+    },
+    "adranSouza": {
+        "name": "Adran Souza",
+        "active": false,
+        "image": "/images/team/adranSouza.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "dezembro de 2012",
+            "egressPET": "Egresso do PET: maio de 2014"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:adran2010@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/6287977746265866"
+            }
+        ]
+    },
+    "adrianeAmorim": {
+        "name": "Adriane Amorim",
+        "active": false,
+        "image": "/images/team/adrianeAmorim.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2013.2",
+            "joinPET": "outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:adrianeasc28@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/6117014162249581"
+            }
+        ]
+    },
+    "adrieleRibeiro": {
+        "name": "Adriele Ribeiro",
+        "active": false,
+        "image": "/images/team/adrieleRibeiro.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2014.1",
+            "joinPET": "outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:adrieleribeiro01@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2587019517808731"
+            }
+        ]
+    },
+    "aliceValente": {
+        "name": "Alice Valente",
+        "active": false,
+        "image": "/images/team/aliceValente.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2010",
+            "egressPET": "Egresso no PET: fevereiro de 2011"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:aliceeu@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0339416074568466"
+            }
+        ]
+    },
+    "amauriOliveira": {
+        "name": "Amauri Oliveira",
+        "active": false,
+        "image": "/images/team/amauriOliveira.bmp",
+        "bio": "Ex-Tutor do grupo PET-Elétrica, o professor Amauri Oliveira possui graduação em Engenharia Elétrica pela Universidade Federal da Bahia (1979), mestrado em Engenharia Elétrica pela Universidade Federal do Rio de Janeiro (1982), doutorado em Engenharia Elétrica pela Universidade Federal da Paraíba (1997) e Pós-Doutorado pela École Nationale Supérieure Des Télécomunications (2000). Aposentado em março de 2017 como Professor Titular do Departamento de Engenharia Elétrica da Universidade Federal da Bahia, é Colaborador no Programa de Pós-Graduação em Engenharia Elétrica da UFBA atualmente. Tem experiência na área de Engenharia Elétrica com ênfase em Instrumentação Eletrônica, atuando principalmente nos seguintes temas: sistemas de medição, sensores termo-resistivos e processamento de sinais para medição. Durante o ano de 2011 e os primeiros meses de 2012, o professor Amauri foi o tutor do grupo contribuindo para o seu crescimento.",
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": null,
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/3603816381832077"
+            }
+        ]
+    },
+    "anaBeatriz": {
+        "name": "Ana Beatriz Alves",
+        "active": false,
+        "image": "/images/team/anaBeatriz.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2017.1",
+            "joinPET": "fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:alvesbeatriz57@gmail.com"
+            }
+        ]
+    },
+    "antonioMiguel": {
+        "name": "Antônio Miguel",
+        "active": false,
+        "image": "/images/team/antonioMiguel.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "junho de 2013",
+            "egressPET": "Egresso no PET: junho de 2014"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:amlpeixoto@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0231510878379552"
+            }
+        ]
+    },
+    "beatrizCerqueira": {
+        "name": "Beatriz Cerqueira",
+        "active": false,
+        "image": "/images/team/beatrizCerqueira.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:beatriz_cbj@hotmail.com"
+            }
+        ]
+    },
+    "brenoAmin": {
+        "name": "Breno Amin",
+        "active": false,
+        "image": "/images/team/brenoAmin.jpg",
+        "bio": null,
+        "signature": "Olá, eu sou Breno Amin Matos Gomes, graduando do curso Engenharia Elétrica da UFBA. Um amante de ciências e tecnologias, fã de esportes nas horas vagas e um curioso pelo novo do mundo...",
+        "dates": {
+            "UFBA": "2017.2",
+            "joinPET": "abril de 2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:brenomatos125@gmail.com"
+            }
+        ]
+    },
+    "brunoCarvalho": {
+        "name": "Bruno Carvalho",
+        "active": false,
+        "image": "/images/team/brunoCarvalho.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2010",
+            "egressPET": "Egresso no PET: fevereiro de 2011"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:brunopcarv@gmail.com"
+            }
+        ]
+    },
+    "brunoOliveira": {
+        "name": "Bruno Oliveira",
+        "active": false,
+        "image": "/images/team/brunoOliveira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2010",
+            "egressPET": "Egresso no PET: janeiro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:bruno.gomesao@gmail.com"
+            }
+        ]
+    },
+    "caioBorges": {
+        "name": "Caio Borges",
+        "active": false,
+        "image": "/images/team/caioBorges.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "fevereiro de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:caio.borges.couto@gmail.com"
+            }
+        ]
+    },
+    "camilaRighas": {
+        "name": "Camila Righas",
+        "active": false,
+        "image": "/images/team/camilaRighas.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2015.1",
+            "joinPET": "outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:camillarighas@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0572998935422887"
+            }
+        ]
+    },
+    "danielOliveira": {
+        "name": "Daniel Oliveira",
+        "active": false,
+        "image": "/images/team/danielOliveira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:danielrmoliveira@gmail.com"
+            }
+        ]
+    },
+    "daniloCosta": {
+        "name": "Danilo Costa",
+        "active": false,
+        "image": "/images/team/daniloCosta.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "outubro de 2014",
+            "egressPET": "Egresso do PET: novembro de 2016"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:daniloancosta@gmail.com"
+            }
+        ]
+    },
+    "daniloLedo": {
+        "name": "Danilo Ledo",
+        "active": false,
+        "image": "/images/team/daniloLedo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2012",
+            "egressPET": "Egresso do PET: janeiro de 2014"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:daniloabledo@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/9026768184140240"
+            }
+        ]
+    },
+    "diegoCesar": {
+        "name": "Diego Cesar",
+        "active": false,
+        "image": "/images/team/diegoCesar.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "janeiro de 2010",
+            "egressPET": "Egresso do PET: junho de 2011"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:diegocesar.19@hotmail.com"
+            }
+        ]
+    },
+    "diegoFernandes": {
+        "name": "Diego Fernandes",
+        "active": false,
+        "image": "/images/team/diegoFernandes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2013.1",
+            "joinPET": "fevereiro de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:diegocastro27f@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2417049213433236"
+            }
+        ]
+    },
+    "elderPereira": {
+        "name": "Elder Pereira",
+        "active": false,
+        "image": "/images/team/elderPereira.jpg",
+        "bio": null,
+        "signature": "Eu sou Elder Pereira, graduando do curso de Engenharia Elétrica. Sou um cara hidratado que gosta de viajar, assistir boas series e que ama aprender novas tecnologias.",
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "2020",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:elder-guedes@hotmail.com"
+            }
+        ]
+    },
+    "felipeBomfim": {
+        "name": "Felipe Bomfim",
+        "active": false,
+        "image": "/images/team/felipeBomfim.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lipebsouza@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/7086873842049037"
+            }
+        ]
+    },
+    "fernandaBarata": {
+        "name": "Fernanda Barata",
+        "active": false,
+        "image": "/images/team/fernandaBarata.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2011.2",
+            "joinPET": "Junho de 2013",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:frenandabarata@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/5729992185577954"
+            }
+        ]
+    },
+    "flaviaBacelar": {
+        "name": "Flávia Bacelar",
+        "active": false,
+        "image": "/images/team/flaviaBacelar.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2011.2",
+            "joinPET": "Dezembro de 2012",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:flaviableal@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/1465869948826260"
+            }
+        ]
+    },
+    "gabrielCaldas": {
+        "name": "Gabriel Caldas",
+        "active": false,
+        "image": "/images/team/gabrielCaldas.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2011",
+            "egressPET": "Egresso do PET: Março de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:gcaldas@ieee.org"
+            }
+        ]
+    },
+    "gabrielMendes": {
+        "name": "Gabriel Mendes",
+        "active": false,
+        "image": "/images/team/gabrielMendes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": "Fevereiro de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:gabrielmendes05g@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2417049213433236"
+            }
+        ]
+    },
+    "geraldoJunior": {
+        "name": "Geraldo Junior",
+        "active": false,
+        "image": "/images/team/geraldoJunior.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2017.2",
+            "joinPET": "Outubro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:geraldo.junior_15@hotmail.com"
+            }
+        ]
+    },
+    "heiderBerlink": {
+        "name": "Heider Berlink",
+        "active": false,
+        "image": "/images/team/heiderBerlink.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2009"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:heiderberlink@gmail.com"
+            }
+        ]
+    },
+    "henriqueOliveira": {
+        "name": "Henrique Oliveira",
+        "active": false,
+        "image": "/images/team/henriqueOliveira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2013.2",
+            "joinPET": "Dezembro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:henriquennoliveira@gmail.com"
+            }
+        ]
+    },
+    "iagoFerreira": {
+        "name": "Iago Ferreira",
+        "active": false,
+        "image": "/images/team/iagoFerreira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:iagofs@ufba.br"
+            }
+        ]
+    },
+    "icaroPalma": {
+        "name": "Icaro Palma",
+        "active": false,
+        "image": "/images/team/icaroPalma.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Março de 2011",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:icaropalma@gmail.com"
+            }
+        ]
+    },
+    "joaoVictor": {
+        "name": "João Victor Mata",
+        "active": false,
+        "image": "/images/team/joaoVictor.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2015.1",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:jvictormata@hotmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0874750289878384"
+            }
+        ]
+    },
+    "josiasLima": {
+        "name": "Josias Lima",
+        "active": false,
+        "image": "/images/team/josiasLima.jpg",
+        "bio": null,
+        "signature": "Técnico em eletromecânica formado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Simões Filho, apaixonado por ensino, pesquisa e extensão. Também dá uma de palestrante nas horas vagas.",
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:josias.ifba@outlook.com"
+            }
+        ]
+    },
+    "jucycleideSeixas": {
+        "name": "Jucycleide Seixas",
+        "active": false,
+        "image": "/images/team/jucycleideSeixas.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:jucycleideseixas@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2169411864742016"
+            }
+        ]
+    },
+    "lenonMagalhaes": {
+        "name": "Lenon Magalhães Andrade",
+        "active": false,
+        "image": "/images/team/lenonMagalhaes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2017.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lenongbi@hotmail.com"
+            }
+        ]
+    },
+    "leonardoDaltro": {
+        "name": "Leonardo Daltro",
+        "active": false,
+        "image": "/images/team/leonardoDaltro.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2009"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:leo_daltro@yahoo.com.br"
+            }
+        ]
+    },
+    "leonardoMenezes": {
+        "name": "Leonardo Menezes",
+        "active": false,
+        "image": "/images/team/leonardoMenezes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:xleonardo_07@hotmail.com"
+            }
+        ]
+    },
+    "leonardoNunes": {
+        "name": "Leonardo Nunes",
+        "active": false,
+        "image": "/images/team/leonardoNunes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Dezembro de 2010",
+            "egressPET": "Egresso do PET: Setembro de 2011"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:leons21@ieee.org"
+            }
+        ]
+    },
+    "liliaMeira": {
+        "name": "Lília Meira",
+        "active": false,
+        "image": "/images/team/liliaMeira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2013.2",
+            "joinPET": "Outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:liliameira05@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/4500375978701048"
+            }
+        ]
+    },
+    "lorennaVilas": {
+        "name": "Lorenna Vilas Boas",
+        "active": false,
+        "image": "/images/team/lorennaVilas.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": " Ingresso no PET: Fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lorennavilasboas@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/4253294933051903"
+            }
+        ]
+    },
+    "lucasAlves": {
+        "name": "Lucas Alves",
+        "active": false,
+        "image": "/images/team/lucasAlves.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Dezembro de 2013 ",
+            "egressPET": "Egresso no PET: Janeiro de 2016"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lucas.arnaldo@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/5799983393981755"
+            }
+        ]
+    },
+    "lucasCorreia": {
+        "name": "Lucas Correia",
+        "active": false,
+        "image": "/images/team/lucasCorreia.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2017.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lucascorreia1@hotmail.com"
+            }
+        ]
+    },
+    "lucasMarins": {
+        "name": "Lucas Marins",
+        "active": false,
+        "image": "/images/team/lucasMarins.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2012",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lucasmarbatista@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/3433386267419409"
+            }
+        ]
+    },
+    "lucasSacramento": {
+        "name": "Lucas Sacramento",
+        "active": false,
+        "image": "/images/team/lucasSacramento.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lucasdssacramento@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2749705678069835"
+            }
+        ]
+    },
+    "lucianaMartinez": {
+        "name": "Luciana Martinez",
+        "active": false,
+        "image": "/images/team/lucianaMartinez.jpg",
+        "bio": "Possui graduação em Bacharelado em Matemática pela Universidade de São Paulo (1994), mestrado em Ciências pela Universidade de São Paulo (1996) e doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (2001). Atualmente, é Professora Adjunto IV da UFBA. Tem experiência em Otimização Linear e Não Linear, atuando principalmente nos seguintes temas: planejamento energético e sistemas de energia elétrica.",
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": null,
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "CV",
+                "link": "http://lattes.cnpq.br/8314241430754507"
+            }
+        ]
+    },
+    "ludmilaRego": {
+        "name": "Ludmila Rego",
+        "active": false,
+        "image": "/images/team/ludmilaRego.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": "Egresso do PET: Março de 2013"
+        },
+        "social": null
+    },
+    "manoelitoFilho": {
+        "name": "Manoelito FIlho",
+        "active": false,
+        "image": "/images/team/manoelitoFilho.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:manoelitofilho@gmail.com"
+            }
+        ]
+    },
+    "marianaBarreto": {
+        "name": "Mariana Barreto",
+        "active": false,
+        "image": "/images/team/marianaBarreto.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2011",
+            "egressPET": "Egresso do PET: Julho de 2012"
+        },
+        "social": null
+    },
+    "mateusSanches": {
+        "name": "Mateus Sanches",
+        "active": false,
+        "image": "/images/team/mateusSanches.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2012",
+            "egressPET": "Egresso do PET: Junho de 2013"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:mateus.sm93@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2358606713201055"
+            }
+        ]
+    },
+    "matheusCarvalho": {
+        "name": "Matheus Carvalho",
+        "active": false,
+        "image": "/images/team/matheusCarvalho.jpeg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2015.1",
+            "joinPET": "Fevereiro de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:    matheusvca@gmail.com"
+            }
+        ]
+    },
+    "matheusHandley": {
+        "name": "Matheus Carvalho Handley Santos",
+        "active": false,
+        "image": "/images/team/matheusHandley.jpeg",
+        "bio": null,
+        "signature": 	"Matheus Carvalho Handley Santos ou MC Handley é um ser criativo e curioso que busca sempre trazer algo novo para ser discutido, incentivado e acrescido por todos ao seu redor com o propósito de alcançar inimagináveis lugares e levar melhorias para todos.",
+        "dates": {
+            "UFBA": "2016.1",
+            "joinPET": "Fevereiro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:matheuscarvalho.hs@gmail.com"
+            }
+        ]
+    },
+    "matheusCosta": {
+        "name": "Matheus Costa",
+        "active": false,
+        "image": "/images/team/matheusCosta.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Fevereiro de 2011",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:matheus.silco@gmail.com"
+            }
+        ]
+    },
+    "matheusPereira": {
+        "name": "Matheus Pereira",
+        "active": false,
+        "image": "/images/team/matheusPereira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Agosto de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:elemat.eng@gmail.com"
+            }
+        ]
+    },
+    "matheusVeloso": {
+        "name": "Matheus Veloso",
+        "active": false,
+        "image": "/images/team/matheusVeloso.jpeg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2014.1",
+            "joinPET": "Janeiro de 2018",
+            "egressPET": "Egresso do PET: Fevereiro de 2020"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:mathv182@gmail.com"
+            }
+        ]
+    },
+    "mauricioTaffarel": {
+        "name": "Mauricio Taffarel",
+        "active": false,
+        "image": "/images/team/mauricioTaffarel.jpg",
+        "bio": null,
+        "signature": "Adoro aprender coisas novas, todos os dias. Amo construir coisas (quebrar também!!). Gosto muito de matemática, física e eletrônica.",
+        "dates": {
+            "UFBA": "2017.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:mauruciotaffarel@gmail.com"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/taffarel55/"
+            }
+        ]
+    },
+    "mayconDouglas": {
+        "name": "Maycon Douglas",
+        "active": false,
+        "image": "/images/team/mayconDouglas.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Dezembro de 2010"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:maycondouglasd@yahoo.com.br"
+            }
+        ]
+    },
+    "michealAraujo": {
+        "name": "Michael Araújo",
+        "active": false,
+        "image": "/images/team/michaelAraujo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": "Julho de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:michaelaraujo198@gmail.com"
+            }
+        ]
+    },
+    "milenaCerqueira": {
+        "name": "Milena Cerqueira",
+        "active": false,
+        "image": "/images/team/milenaCerqueira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Outubro de 2014",
+            "egressPET": "Egresso do PET: Outubro de 2016"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:mihcerqueira94@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0868263589034392"
+            }
+        ]
+    },
+    "moisesAlmeida": {
+        "name": "Moisés Almeida",
+        "active": false,
+        "image": "/images/team/moisesAlmeida.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:mailto:moisesfca.13@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2644861407750675"
+            }
+        ]
+    },
+    "nathaneLima": {
+        "name": "Nathane Lima",
+        "active": false,
+        "image": "/images/team/nathaneLima.jpg",
+        "bio": null,
+        "signature": "Nathane é estudante de Engenharia Elétrica, gosta de literatura e arte e ama animais.",
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:nathanelima10@gmail.com"
+            }
+        ]
+    },
+    "otonielMello": {
+        "name": "Otoniel Mello",
+        "active": false,
+        "image": "/images/team/otonielMello.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": "Egresso do PET: Maio de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:otoniel.mello@gmail.com"
+            }
+        ]
+    },
+    "pabloAraujo": {
+        "name": "Pablo Araújo",
+        "active": false,
+        "image": "/images/team/pabloAraujo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Abril de 2012",
+            "egressPET": "Egresso do PET: Fevereiro de 2014"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:pabloruanaraujo@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/7123446435700983"
+            }
+        ]
+    },
+    "pauloFernando": {
+        "name": "Paulo Fernando",
+        "active": false,
+        "image": "/images/team/pauloFernando.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2013.1",
+            "joinPET": "Outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:paulopaim.ba.94@gmail.com"
+            }
+        ]
+    },
+    "pedroAndrade": {
+        "name": "Pedro Andrade",
+        "active": false,
+        "image": "/images/team/pedroAndrade.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2010",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:pedrovandrade@gmail.com"
+            }
+        ]
+    },
+    "pedroArgolo": {
+        "name": "Pedro Argôlo",
+        "active": false,
+        "image": "/images/team/pedroArgolo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.2",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:phargolops@gmail.com"
+            }
+        ]
+    },
+    "pedroXavier": {
+        "name": "Pedro Xavier",
+        "active": false,
+        "image": "/images/team/pedroXavier.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "2009",
+            "egressPET": "Egresso do PET: Fevereiro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:pxalcantara@gmail.com"
+            }
+        ]
+    },
+    "periclesOliveira": {
+        "name": "Péricles Oliveira",
+        "active": false,
+        "image": "/images/team/periclesOliveira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Dezembro de 2013",
+            "egressPET": "Egresso do PET: Setembro de 2016"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:s.olipericles@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/3527550333257778"
+            }
+        ]
+    },
+    "rafaelGomes": {
+        "name": "Rafael Gomes",
+        "active": false,
+        "image": "/images/team/rafaelGomes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "2009",
+            "egressPET": "Egresso do PET: Junho de 2011"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:rafaelgomesilva@gmail.com"
+            }
+        ]
+    },
+    "rafaelMatos": {
+        "name": "Rafael Matos",
+        "active": false,
+        "image": "/images/team/rafaelMatos.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2012.2",
+            "joinPET": "Junho de 2013",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:matosrafaeloliveira@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/0505909391474011"
+            }
+        ]
+    },
+    "rafaelShort": {
+        "name": "Rafael Short",
+        "active": false,
+        "image": "/images/team/rafaelShort.jpeg",
+        "bio": null,
+        "signature": 	"Em uma busca contínua por conhecimentos, como: Linguagens de programação, Desenvolvimento WEB, Automação, Eletrônica, Física, entre outros. Além disso, costumo ler livros, ver filmes, escrever texos, ouvir músicas e aprender novos idiomas.",
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:rafaelshort@hotmail.com"
+            }
+        ]
+    },
+    "raiellyAtaide": {
+        "name": "Raielly Ataide",
+        "active": false,
+        "image": "/images/team/raiellyAtaide.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2017.1 (BI em Ciência e tecnologia) // 2020.1 (Eng. Elétrica)",
+            "joinPET": "2020",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:raiellyataide@hotmail.com"
+            }
+        ]
+    },
+    "renataBaqueiro": {
+        "name": "Renata Baqueiro",
+        "active": false,
+        "image": "/images/team/renataBaqueiro.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": null,
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:renatabaqueiro@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/1575413945813363"
+            }
+        ]
+    },
+    "rodrigoBarros": {
+        "name": "Rodrigo Barros",
+        "active": false,
+        "image": "/images/team/rodrigoBarros.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2009",
+            "egressPET": "Egresso do PET: Setembro de 2010"
+        },
+        "social": null
+    },
+    "rodrigoSchaer": {
+        "name": "Rodrigo Schaer",
+        "active": false,
+        "image": "/images/team/rodrigoSchaer.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2016.1",
+            "joinPET": "Fevereiro de 2017",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:rodrigo.fscs@gmail.com"
+            }
+        ]
+    },
+    "ryanTeixeira": {
+        "name": "Ryan Texeira",
+        "active": false,
+        "image": "/images/team/ryanTeixeira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.1",
+            "joinPET": "Outubro de 2014",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:ryanccteixeira@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2587019517808731"
+            }
+        ]
+    },
+    "suzanaVarjao": {
+        "name": "Suzana dos Santos Varjão",
+        "active": false,
+        "image": "/images/team/suzanaVarjao.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.2",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:suzana.svarjao@gmail.com"
+            }
+        ]
+    },
+    "tailanaAzevedo": {
+        "name": "Tailana Azevedo",
+        "active": false,
+        "image": "/images/team/tailanaAzevedo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": " 2014.2",
+            "joinPET": "Fevereiro de 2016",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:tai.mai@hotmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2051930843581276"
+            }
+        ]
+    },
+    "thacioKevin": {
+        "name": "Thácio Kevin",
+        "active": false,
+        "image": "/images/team/thacioKevin.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2016.1 (BI em Ciência e Tecnologia) // 2019.1 (Eng. Elétrica)",
+            "joinPET": "Abril de 2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:kevin.thacio@gmail.com"
+            }
+        ]
+    },
+    "thercioBarreto": {
+        "name": "Thercio Barreto",
+        "active": false,
+        "image": "/images/team/thercioBarreto.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Agosto de 2012",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:therciobarreto@gmail.com"
+            }
+        ]
+    },
+    "thiagoMenezes": {
+        "name": "Thiago Menezes",
+        "active": false,
+        "image": "/images/team/thiagoMenezes.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.2",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:tmcpeixoto@gmail.com"
+            }
+        ]
+    },
+    "tiagoLobao": {
+        "name": "Tiago Lobão",
+        "active": false,
+        "image": "/images/team/tiagoLobao.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2013.1",
+            "joinPET": "Dezembro de 2013",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:tiago.blobao@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/6275194570168582"
+            }
+        ]
+    },
+    "ubiratanJunior": {
+        "name": "Ubiratan Junior",
+        "active": false,
+        "image": "/images/team/ubiratanJunior.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Dezembro de 2012",
+            "egressPET": "Egresso do PET: Junho de 2013"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:eng.ele.ubiratan@gmail.com"
+            }
+        ]
+    },
+    "victorCoutinho": {
+        "name": "Victor Coutinho",
+        "active": false,
+        "image": "/images/team/victorCoutinho.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "Outubro de 2018",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:vcvs29@hotmail.com"
+            }
+        ]
+    },
+    "victorHugo": {
+        "name": "Victor Hugo",
+        "active": false,
+        "image": "/images/team/victorHugo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2012.1",
+            "joinPET": "Janeiro de 2012",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:victorhfmag@gmail.com"
+            }
+        ]
+    },
+    "viniciusAndrade": {
+        "name": "Vinicius Andrade",
+        "active": false,
+        "image": "/images/team/viniciusAndrade.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Janeiro de 2011",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:viniciusandsantos@gmail.com"
+            }
+        ]
+    },
+    "viniciusPinto": {
+        "name": "Vinicius Pinto",
+        "active": false,
+        "image": "/images/team/viniciusPinto.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Junho de 2013",
+            "egressPET": "Egresso do PET: Agosto de 2014"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:viniciuspdgoncalves@gmail.com"
+            }
+        ]
+    },
+    "vitorSales": {
+        "name": "Vitor Sales",
+        "active": false,
+        "image": "/images/team/vitorSales.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": "Março de 2012",
+            "egressPET": "Egresso do PET: Dezembro de 2012"
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:vsaleslima@gmail.com"
+            },
+            {
+                "name": "Currículo Lattes",
+                "link": "http://lattes.cnpq.br/2890101883204246"
+            }
+        ]
+    }
+}

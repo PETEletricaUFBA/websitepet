@@ -1,0 +1,94 @@
+{
+    "activities": [
+        {
+            "name": "Pesquisas Individuais e/ou Pesquisas Coletivas",
+            "status": "ongoing",
+            "image":  "/images/atividades/logo_pesquisa.png",
+            "summary": "Pesquisas voltadas a diversas áreas da Engenharia Elétrica, da área de programação e inteligência artificial à área de potência e automação industrial, com controle de motores elétricos e uso de inversores, dentre outros."
+        },
+        {
+            "name": "GPEF",
+            "status": "ongoing",
+            "image": "images/atividades/logo_gpef.png",
+            "summary": "O Grupo de Pesquisa em Empoderamento Feminino é uma atividade que trata sobre questões de gênero e avalia a baixa participação de mulheres nos cursos de graduação da área de exatas."
+        },
+        {
+            "name": "Imersão",
+            "status": "ongoing",
+            "image": "images/atividades/logo_imersao.png",
+            "summary": "Iniciativa do PET que possibilita aos calouros de Engenharia Elétrica acompanhar um petiano nas atividades que este desempenha, de maneira que vivenciem o PET desde o primeiro semestre."
+        },
+        {
+            "name": "Equaliza PET",
+            "status": "ongoing",
+            "image": "images/atividades/logo_equaliza.png",
+            "summary": "Consiste em um podcast do grupo, em que aborda diversos assuntos pertinentes no âmbito da engenharia com participações de convidados."
+        },
+        {
+            "name": "Conexão PET",
+            "status": "ongoing",
+            "image": "images/atividades/logo_Conexão_2021.png",
+            "summary": "Evento anual composto por palestras, mesas redondas e workshops direcionados a um determinado tema, com o objetivo de expor conteúdos para o público de dentro e fora da universidade, integrando pessoas e saberes. "
+        },
+        {
+            "name": "ABC da Engenharia",
+            "status": "ongoing",
+            "image": "images/atividades/logo_abc.png",
+            "summary": "Atividade semestral que possibilita aos calouros o contato com a parte prática do curso de Engenharia Elétrica logo no primeiro semestre, com 4 projetos práticos voltados para as ênfases oferecidas no curso."
+        },
+        {
+            "name": "Comunicação e Visibilidade",
+            "status": "ongoing",
+            "image": "images/atividades/logo_C&V.png",
+            "summary": "Atividade que promove a divulgação do PET e de suas atividades através da produção de postagens em redes sociais, cartazes, mural do PET, dentre outros."
+        },
+        {
+            "name": "Desenvolvimento WEB",
+            "status": "ongoing",
+            "image": "images/atividades/logo_web.jpg",
+            "summary": "Consiste na elaboração e manutenção de um website com o objetivo de expor informações gerais do PET, além de abranger algumas atividades que o grupo desenvolve de forma interativa com os usuários."
+        },
+        {
+            "name": "Estágios de curta duração",
+            "status": "ongoing",
+            "image": "images/atividades/logo_estagio.png",
+            "summary": "O Estágio PET tem como objetivo expandir os horizontes e experiências dos petianos através da participação em instituições ou empresas externas ao grupo."
+        },
+        {
+            "name": "15 anos PET Elétrica",
+            "status": "ongoing",
+            "image": "/images/atividades/logo_15anos.png",
+            "summary": "A atividade tem como objetivo a escrita de um livro e a produção de um documentário como ações comemorativas do aniversário de 15 anos do PET Elétrica UFBA."
+        },
+        {
+            "name": "Pré Física",
+            "status": "ongoing",
+            "image": "/images/atividades/logo_prefisica.png",
+            "summary": "Uma atividade realizada semestralmente, com o objetivo de oferecer aulas simplificadas de cálculo aos calouros, de forma que auxilie o entendimento dos assuntos que serão abordados em Física 1."
+        },
+        {
+            "name": "PET Status",
+            "status": "ongoing",
+            "image": "/images/atividades/logo_petstatus.png",
+            "summary": "Atividade que visa a automatização da sala do PET Elétrica. Atualmente, consiste apenas na abertura da porta da sala através de um circuito de Arduino e pretende-se expandir a ideia para outras utilidades."
+        },
+        {
+            "name": "Minicursos",
+            "status": "ongoing",
+            "image": "images/atividades/logo_minicursos.png",
+            "summary": "Consiste na elaboração e aplicação de diversos minicursos com o tema escolhido pelo(a) petiano(a). Alguns minicursos já realizados foram os de Autocad, Excel, C++, Python e Desenvolvimento WEB"
+        },
+        {
+            "name": "Videoaulas",
+            "status": "ongoing",
+            "image": "images/atividades/logo_videoaulas.png",
+            "summary": "Consiste em gerar conteúdo em vídeos sobre diversos temas, sejam de matérias do curso ou de conhecimentos pertinentes à área de Engenharia Elétrica. Os vídeos produzidos são postados no canal do youtube do PET."          
+        },
+        {
+            "name": "PET Nota Mil",
+            "status": "ongoing",
+            "image": "/images/atividades/logo_nota.png",
+            "summary": "Evento que consistem em um aulão que reúne os principais assuntos cobrados no Exame Nacional do Ensino Médio"
+        }
+    ]
+}
