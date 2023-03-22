@@ -89,8 +89,9 @@ const Links = () => (
         </div>
         <div className="row py-auto">
             <div className="col-lg-8 mx-auto">
-                <h2 className="h4">Informações e Links Adicionais</h2>
-                <a href="/docs/prosel/PS_20221_oficio.pdf" target="_blank" rel="noreferrer"><li>OFÍCIO Nº 014/2022– PROGRAD - PROCESSO SELETIVO DE BOLSISTA PET DURANTE O SEMESTRE 2022.1</li></a>
+            <h3 className="section-title">Informações e Links Adicionais</h3>
+                <h3  className="h4">ATENÇÃO: As datas das etapas do processo seletivo 2023.1 foram alteradas.</h3>
+                <a href="/docs/prosel/PS_20231_edital_prorrogado.pdf" target="_blank" rel="noreferrer"><li>PRORROGAÇÃO EDITAL PARA SELEÇÃO DO PET ELÉTRICA UFBA 2023.1</li></a>
             </div>
         </div>
     </section>
