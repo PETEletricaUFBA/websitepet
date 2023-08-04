@@ -21,7 +21,7 @@ const Title = () => (
     <>
         <section className="section pb-0">
             <div className="container text-center">
-                <h1 className="display-3">Processo Seletivo PET 2023.1</h1>
+                <h1 className="display-3">Processo Seletivo PET 2023.2</h1>
 
             </div>
         </section>
@@ -90,8 +90,6 @@ const Links = () => (
         <div className="row py-auto">
             <div className="col-lg-8 mx-auto">
             <h3 className="section-title">Informações e Links Adicionais</h3>
-                <h3  className="h4">ATENÇÃO: As datas das etapas do processo seletivo 2023.1 foram alteradas.</h3>
-                <a href="/docs/prosel/PS_20231_edital_prorrogado.pdf" target="_blank" rel="noreferrer"><li>PRORROGAÇÃO EDITAL PARA SELEÇÃO DO PET ELÉTRICA UFBA 2023.1</li></a>
             </div>
         </div>
     </section>
