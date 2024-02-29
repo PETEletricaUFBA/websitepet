@@ -4,13 +4,13 @@
             "name": "Edital",
             "icon": "fas fa-journal-whills",
             "content": "Todas as informações oficiais estarão neste importante documento. Assim, é de obrigatoriedade a leitura e o entendimento completo para uma participação saudável no processo seletivo.",
-            "link": "/docs/prosel/PS_20232_edital_assinado.pdf"
+            "link": "/docs/prosel/PS_20241_edital_assinado.pdf"
         },
         {
             "name": "Formulario de inscrição",
             "icon": "fas fa-address-card",
             "content": "Em virtude das recomendações de distanciamento social, as inscrições serão feitas de forma on-line. Dessa forma, deve-se acessar o link, anexar a documentação necessária e fazer sua inscrição.",
-            "link": "https://form.jotform.com/peteletrica/formulario-de-inscricao-prosel"
+            "link": "https://form.jotform.com/240533509009653"
         },
         {
             "name": "Instruções",
@@ -27,31 +27,31 @@
     ],
     "calendar": [
         {
-            "date": "31/07/2023",
+            "date": "01/03/2024",
             "description": "Lançamento do Edital e abertura das inscrições."
         },
         {
-            "date": "31/08/2023",
+            "date": "04/04/2024",
             "description": "Último dia de inscrições."
         },
         {
-            "date": "Até 01/09/2023",
+            "date": "Até 05/04/2024",
             "description": "Homologação das inscrições e resultado da etapa 1"
         },
         {
-            "date": "04/09/2023",
+            "date": "08/04/2024",
             "description": "Dinâmica em grupo (Presencial)."
         },
         {
-            "date": "05/09/2023",
+            "date": "09/04/2024",
             "description": "Entrevista individual com o grupo PET Elétrica (Presencial)."
         },
         {
-            "date": "06/09/2023",
+            "date": "10/04/2024",
             "description": "Entrevista individual com a comissão de seleção (Presencial)."
         },
         {
-            "date": "Até 10/09/2023",
+            "date": "Até 15/04/2024",
             "description": "Divulgação dos Resultados."
         }
     ]
