@@ -1,30 +1,80 @@
 {
-    "arturRocha": {
-        "name": "Artur Rocha",
+    "anaClara": {
+        "name": "Ana Clara Coutinho",
         "active": true,
-        "image": "/images/team/arturRocha.png",
+        "image": "/images/team/anaClara.jpg",
         "bio": null,
         "signature": null,
         "dates": {
-            "UFBA": "2018.1",
-            "joinPET": "2022",
+            "UFBA": "2022.2",       
+            "joinPET": "2023",
             "egressPET": null
         },
         "social": [
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/in/artur-rocha-10728a165/"
-            },
+                "name": "email",
+                "link": "mailto:anaclara.acoutinho@hotmail.com"
+            }
+        ]
+    },
+    "athilaSantos": {
+        "name": "Áthila Santos",
+        "active": true,
+        "image": "/images/team/athilaSantos.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
             {
                 "name": "email",
-                "link": "mailto:artur.rocha@ufba.br"
+                "link": "mailto:athila.silva@ufba.br    "
+            }
+        ]
+    },
+    "daniloFigueiredo": {
+        "name": "Danilo Figueiredo",
+        "active": true,
+        "image": "/images/team/daniloFigueiredo.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:danilo.francisco@ufba.br"
+            }
+        ]
+    },
+    "erickSampaio": {
+        "name": "Erick Sampaio",
+        "active": true,
+        "image": "/images/team/erickSampaio.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2022.1",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:ericksampaio@ufba.br"
             }
         ]
     },
     "fredericoSouza": {
         "name": "Frederico Souza",
         "active": true,
-        "image": "/images/team/fredericoSouza.jpeg",
+        "image": "/images/team/fredericoSouza.png",
         "bio": null,
         "signature": null,
         "dates": {
@@ -39,62 +89,50 @@
             }
         ]
     },
-    "henriqueAzoubel": {
-        "name": "Henrique Azoubel",
+    "gianlucaSouza": {
+        "name": "Gianluca Pêpe França",
         "active": true,
-        "image": "/images/team/henriqueAzoubel.jpg",
-        "bio": "“The answer, my friend, is blowin' in the wind.”",
+        "image": "/images/team/gianlucaSouza.jpg",
+        "bio": "Aos braços do passado dedico as minhas vitórias, fiz o melhor que pude. Fracassos do passado mudaram minha trajetória, busquei a plenitude.",
         "signature": null,
         "dates": {
-            "UFBA": "2019.1",
-            "joinPET": "julho de 2021",
+            "UFBA": "2022.2",
+            "joinPET": "2023",
             "egressPET": null
         },
         "social": [
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/in/henriqueazoubelengenharia/"
-            },
-            {
                 "name": "email",
-                "link": "mailto:hazoubel@icloud.com"
+                "link": "mailto:gianlucasouza@outlook.com"
             }
         ]
     },
-    "isaacAraujo": {
-        "name": "Isaac Araújo",
-        "active":false,
-        "image": "/images/team/isaacAraujo.jpg",
-        "bio": "“E a vida, e a vida o que é? Diga lá, meu irmão Ela é a batida de um coração Ela é uma doce ilusão” - Gonzaguinha.",
+    "ilanaBarboza": {
+        "name": "Ilana Barboza",
+        "active": true,
+        "image": "/images/team/ilanaBarboza.jpg",
+        "bio": "“Sobre o nada tenho profundidades” - Manoel de Barros",
         "signature": null,
         "dates": {
-            "UFBA": "2018.2",
-            "joinPET": "2020",
-            "egressPET": "2022.2"
+            "UFBA": "2023.2",
+            "joinPET": "2024",
+            "egressPET": null
         },
         "social": [
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/in/isaacpcaraujo/"
-            },
-            {
-                "name": "github",
-                "link": "https://github.com/isaacpcaraujo"
-            },
-            {
                 "name": "email",
-                "link": "mailto:isaac.tito3@gmail.com"
+                "link": "mailto:ilanabarboza@ufba.br"
             }
         ]
     },
     "jessicaAzevedo": {
         "name": "Jéssica Azevedo",
         "active": true,
-        "image": "/images/team/jessicaAzevedo.jpeg",
+        "image": "/images/team/jessicaAzevedo.jpg",
         "bio": null,
         "signature": null,
         "dates": {
-            "UFBA": "2022",
+            "UFBA": "2022.1",
             "joinPET": "2022",
             "egressPET": null
         },
@@ -109,87 +147,147 @@
             }
         ]
     },
-    "joeltonDJunior": {
-        "name": "Joelton D. Junior",
-        "active": false,
-        "image": "/images/team/joeltonDJunior.png",
-        "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
-        "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
-        "dates": {
-            "UFBA": "2019.1",
-            "joinPET": "2020",
-            "egressPET": null
-        },
-        "social": [
-            {
-                "name": "site",
-                "link": "https://freedxm.com/"
-            },
-            {
-                "name": "github",
-                "link": "https://github.com/freedxmgxd"
-            },
-            {
-                "name": "email",
-                "link": "mailto:joelton@freedxm.com"
-            }
-        ]
-    },
-    "marianaNascimento": {
-        "name": "Mariana Nascimento",
-        "active": false,
-        "image": "/images/team/marianaNascimento.jpg",
-        "bio": null,
-        "signature": "Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer \"de tudo um pouco\", pratica capoeira e estuda japonês.",
-        "dates": {
-            "UFBA": "2018.1",
-            "joinPET": "2019",
-            "egressPET": null
-        },
-        "social": [
-            {
-                "name": "email",
-                "link": "mailto:marianacn02@gmail.com"
-            }
-        ]
-    },
-    "pedroHenrique": {
-        "name": "Pedro Henrique Oliveira",
+    "lucianaNascimento": {
+        "name": "Luciana Pereira Nascimento",
         "active": true,
-        "image": "/images/team/pedroHenrique.jpg",
+        "image": "/images/team/lucianaNascimento.jpg",
+        "bio": "“Põe quanto és no mínimo que fazes” Fernando Pessoa",
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "2023",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:lucianapereira@ufba.br"
+            }
+        ]
+    },
+    "karineSilva": {
+        "name": "Karine Silva",
+        "active": true,
+        "image": "/images/team/karineSilva.jpg",
+        "bio": "Viva intensamente",
+        "signature": null,
+        "dates": {
+            "UFBA": "2022.2",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:karinesilvasm@gmail.com"
+            }
+        ]
+    },
+    "manuellaSoares": {
+        "name": "Manuella Lima Soares",
+        "active": true,
+        "image": "/images/team/manuellaSoares.jpg",
         "bio": null,
         "signature": null,
         "dates": {
-            "UFBA": "2019.1",
-            "joinPET": "julho de 2021",
+            "UFBA": "2022.2",
+            "joinPET": "2023",
             "egressPET": null
         },
         "social": [
             {
                 "name": "email",
-                "link": "mailto:pedrog@ufba.br"
+                "link": "mailto:manuellals2004@gmail.com"
             }
         ]
     },
-    "tarcisioPereira": {
-        "name": "Tarcisio Pereira",
+    "marcoAntonio": {
+        "name": "Marco Antônio Carvalho",
         "active": true,
-        "image": "/images/team/tarcisioPereira.jpeg",
-        "bio": "“Memento mori, memento vivere.”",
+        "image": "/images/team/marcoAntonio.jpg",
+        "bio": null,
         "signature": null,
         "dates": {
-            "UFBA": "2019.1",
-            "joinPET": "março de 2022",
+            "UFBA": "2023.1",
+            "joinPET": "2024",
             "egressPET": null
         },
         "social": [
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/mwlite/in/tarcisio-brito"
-            },
+                "name": "email",
+                "link": "mailto:marcocarvalho1906@gmail.com"
+            }
+        ]
+    },
+    "mariaClara": {
+        "name": "Maria Clara Aguiar",
+        "active": true,
+        "image": "/images/team/mariaCLara.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
             {
                 "name": "email",
-                "link": "mailto:tarcio.ee@gmail.com"
+                "link": "mailto:m.aguiar@ufba.br"
+            }
+        ]
+    },
+    "pedroNogueira": {
+        "name": "Pedro Nogueira",
+        "active": true,
+        "image": "/images/team/pedroNogueira.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2022.1",
+            "joinPET": "2022",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:peu.andrade@hotmail.com"
+            }
+        ]
+    },
+    "rebecaCardoso": {
+        "name": "Rebeca Cardoso",
+        "active": true,
+        "image": "/images/team/rebecaCardoso.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2023.1",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:rebecacard10@gmail.com"
+            }
+        ]
+    },
+    "sarahGonçalves": {
+        "name": "Sarah Gonçalves ",
+        "active": true,
+        "image": "/images/team/sarahGonçalves.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2023.2",
+            "joinPET": "2024",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:sarahlssss15@gmail.com"
             }
         ]
     },
@@ -197,7 +295,7 @@
         "name": "Tíscile Cabral",
         "active": true,
         "image": "/images/team/tiscileCabral.jpg",
-        "bio": null,
+        "bio": "“Comovo-me em excesso por natureza e por ofício. Acho medonho alguém viver sem paixões.” Graciliano Ramos",
         "signature": "Estudante do curso de Engenharia Elétrica e amante da física. Sou apaixonada por café, gosto de ouvir música e também de cozinhar para as pessoas que amo.",
         "dates": {
             "UFBA": "2019.2",
@@ -211,47 +309,43 @@
             }
         ]
     },
-    "viniciusViana": {
-        "name": "Vinícius Viana",
+    "yureCarneiro": {
+        "name": "Yure Carneiro",
         "active": true,
-        "image": "/images/team/viniciusViana.png",
+        "image": "/images/team/yureCarneiro.jpg",
         "bio": null,
         "signature": null,
         "dates": {
-            "UFBA": "2021.2",
-            "joinPET": "março de 2022",
+            "UFBA": "2022.2",
+            "joinPET": "2023",
             "egressPET": null
         },
         "social": [
             {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/in/viniciusvm/"
-            },
-            {
-                "name": "github",
-                "link": "https://github.com/Vinivianam"
-            },
-            {
                 "name": "email",
-                "link": "mailto:viniciusvianamoitinho@gmail.com"
+                "link": "mailto:yure.carneiro.oliveira@gmail.com"
             }
         ]
     },
-    "marcioFontana": {
-        "name": "Marcio Fontana",
+    "maiconDeivid": {
+        "name": "Maicon Deivid Pereira",
         "active": true,
-        "image": "/images/team/marcioFontana.jpg",
-        "bio": "Tutor do grupo PET-Elétrica, o professor Márcio Fontana possui graduação em Engenharia Elétrica pela Universidade Estadual de Santa Catarina (UDESC, 1999), mestrado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB, 2001), doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (UNICAMP, 2004) e pós-doutorado pela Georgetown University (Washington-DC, 2012) no projeto Desenvolvimento de transistores de efeito de campo baseados em nanotubos de carbono (CNT-FET) e Dissulfeto de Molibdênio (MoS2-FET). Atualmente, é Professor Associado do Departamento de Engenharia Elétrica da UFBA. Tem experiência na área de Engenharia Elétrica, com ênfase em Materiais Elétricos e processo de micro/nanoeletrônica.",
+        "image": "/images/team/maiconDeivid.jpg",
+        "bio": "Tutor do grupo PET-Elétrica, possui graduação (2006), mestrado (2009) e doutorado (2017) em Engenharia Elétrica pela Universidade Federal de Santa Catarina - UFSC. Trabalhou no Centro de Tecnologia da Informação Renato Archer como projetista de circuitos integrados analógicos e de radiofrequência entre 2009 e 2012. Desde 2018 é Professor Adjunto no Departamento de Engenharia Elétrica e de Computação da Universidade Federal da Bahia, contribuindo com pesquisas no Laboratório de Concepção de Circuitos Integrados. Tem experiência com circuitos eletrônicos integrados analógicos, mistos e de radiofrequência, além de caracterização e modelagem de canal para sistemas de comunicação sem fio. Tem interesse em projeto e teste de arquiteturas para circuitos e sistemas de comunicação de baixo consumo, em métodos alternativos de comunicação para redes sem fio e em técnicas de caracterização e modelagem de canal.",
         "signature": null,
         "dates": {
-            "UFBA": null,
-            "joinPET": null,
+            
+            "joinPET": "2024",
             "egressPET": null
         },
         "social": [
             {
+                "name": "email",
+                "link": "mailto:maicon.deivid@ufba.br"
+            },
+            {
                 "name": "CV",
-                "link": "http://lattes.cnpq.br/6557924427592953"
+                "link": "http://lattes.cnpq.br/2479925820855121"
             }
         ]
     },
@@ -398,6 +492,28 @@
             {
                 "name": "Currículo Lattes",
                 "link": "http://lattes.cnpq.br/0231510878379552"
+            }
+        ]
+    },
+    "arturRocha": {
+        "name": "Artur Rocha",
+        "active": false,
+        "image": "/images/team/arturRocha.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2022",
+            "egressPET": "Egresso do PET: Março de 2024"
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/artur-rocha-10728a165/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:artur.rocha@ufba.br"
             }
         ]
     },
@@ -771,6 +887,28 @@
             }
         ]
     },
+    "henriqueAzoubel": {
+        "name": "Henrique Azoubel",
+        "active": false,
+        "image": "/images/team/henriqueAzoubel.jpg",
+        "bio": "“The answer, my friend, is blowin' in the wind.”",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/henriqueazoubelengenharia/"
+            },
+            {
+                "name": "email",
+                "link": "mailto:hazoubel@icloud.com"
+            }
+        ]
+    },
     "henriqueOliveira": {
         "name": "Henrique Oliveira",
         "active": false,
@@ -825,6 +963,32 @@
             }
         ]
     },
+    "isaacAraujo": {
+        "name": "Isaac Araújo",
+        "active":false,
+        "image": "/images/team/isaacAraujo.jpg",
+        "bio": "“E a vida, e a vida o que é? Diga lá, meu irmão Ela é a batida de um coração Ela é uma doce ilusão” - Gonzaguinha.",
+        "signature": null,
+        "dates": {
+            "UFBA": "2018.2",
+            "joinPET": "2020",
+            "egressPET": "2022.2"
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/isaacpcaraujo/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/isaacpcaraujo"
+            },
+            {
+                "name": "email",
+                "link": "mailto:isaac.tito3@gmail.com"
+            }
+        ]
+    },
     "joaoVictor": {
         "name": "João Victor Mata",
         "active": false,
@@ -844,6 +1008,32 @@
             {
                 "name": "Currículo Lattes",
                 "link": "http://lattes.cnpq.br/0874750289878384"
+            }
+        ]
+    },
+    "joeltonDJunior": {
+        "name": "Joelton D. Junior",
+        "active": false,
+        "image": "/images/team/joeltonDJunior.png",
+        "bio": "“It’s a law of survival, ins’t it?– to seek for the best.” - Howard Roark",
+        "signature": "Porque fazer perguntas inuteis? Quão profundo é o oceano? Quão alto é o céu? Quem é Joelton D. Junior?",
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "2020",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "site",
+                "link": "https://freedxm.com/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/freedxmgxd"
+            },
+            {
+                "name": "email",
+                "link": "mailto:joelton@freedxm.com"
             }
         ]
     },
@@ -1136,6 +1326,42 @@
             }
         ]
     },
+    "marcioFontana": {
+        "name": "Marcio Fontana",
+        "active": false,
+        "image": "/images/team/marcioFontana.jpg",
+        "bio": "Ex-tutor do grupo PET-Elétrica, o professor Márcio Fontana possui graduação em Engenharia Elétrica pela Universidade Estadual de Santa Catarina (UDESC, 1999), mestrado em Engenharia Elétrica pela Universidade Federal da Paraíba (UFPB, 2001), doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (UNICAMP, 2004) e pós-doutorado pela Georgetown University (Washington-DC, 2012) no projeto Desenvolvimento de transistores de efeito de campo baseados em nanotubos de carbono (CNT-FET) e Dissulfeto de Molibdênio (MoS2-FET). Atualmente, é Professor Associado do Departamento de Engenharia Elétrica da UFBA. Tem experiência na área de Engenharia Elétrica, com ênfase em Materiais Elétricos e processo de micro/nanoeletrônica.",
+        "signature": null,
+        "dates": {
+            "UFBA": null,
+            "joinPET": null,
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "CV",
+                "link": "http://lattes.cnpq.br/6557924427592953"
+            }
+        ]
+    },
+    "marialuizaAzoubel": {
+        "name": "Marira Luiza Azoubel",
+        "active": false,
+        "image": "/images/team/marialuizaAzoubel.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2022.1",
+            "joinPET": "2023.1",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:manoelitofilho@gmail.com"
+            }
+        ]
+    },
     "marianaBarreto": {
         "name": "Mariana Barreto",
         "active": false,
@@ -1148,6 +1374,24 @@
             "egressPET": "Egresso do PET: Julho de 2012"
         },
         "social": null
+    },
+    "marianaNascimento": {
+        "name": "Mariana Nascimento",
+        "active": false,
+        "image": "/images/team/marianaNascimento.jpg",
+        "bio": null,
+        "signature": "Mari é estudante de Engenharia Elétrica, gosta de games e de ler livros. Está sempre buscando coisas novas e diferentes que a desafiem e, por isso, escreve neste blog. Nesta busca e tentando fazer \"de tudo um pouco\", pratica capoeira e estuda japonês.",
+        "dates": {
+            "UFBA": "2018.1",
+            "joinPET": "2019",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:marianacn02@gmail.com"
+            }
+        ]
     },
     "mateusSanches": {
         "name": "Mateus Sanches",
@@ -1475,6 +1719,24 @@
             }
         ]
     },
+    "pedroHenrique": {
+        "name": "Pedro Henrique Oliveira",
+        "active": false,
+        "image": "/images/team/pedroHenrique.jpg",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "julho de 2021",
+            "egressPET": null
+        },
+        "social": [
+            {
+                "name": "email",
+                "link": "mailto:pedrog@ufba.br"
+            }
+        ]
+    },
     "pedroXavier": {
         "name": "Pedro Xavier",
         "active": false,
@@ -1706,6 +1968,28 @@
             }
         ]
     },
+    "tarcisioPereira": {
+        "name": "Tarcisio Pereira",
+        "active": false,
+        "image": "/images/team/tarcisioPereira.jpeg",
+        "bio": "“Memento mori, memento vivere.”",
+        "signature": null,
+        "dates": {
+            "UFBA": "2019.1",
+            "joinPET": "março de 2022",
+            "egressPET": "Egresso do PET: Dezembro de 2022"
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/mwlite/in/tarcisio-brito"
+            },
+            {
+                "name": "email",
+                "link": "mailto:tarcio.ee@gmail.com"
+            }
+        ]
+    },
     "thacioKevin": {
         "name": "Thácio Kevin",
         "active": false,
@@ -1869,6 +2153,32 @@
             {
                 "name": "email",
                 "link": "mailto:viniciuspdgoncalves@gmail.com"
+            }
+        ]
+    },
+    "viniciusViana": {
+        "name": "Vinícius Viana",
+        "active": false,
+        "image": "/images/team/viniciusViana.png",
+        "bio": null,
+        "signature": null,
+        "dates": {
+            "UFBA": "2021.2",
+            "joinPET": "março de 2022",
+            "egressPET": "Egresso do PET: Março de 2024"
+        },
+        "social": [
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/viniciusvm/"
+            },
+            {
+                "name": "github",
+                "link": "https://github.com/Vinivianam"
+            },
+            {
+                "name": "email",
+                "link": "mailto:viniciusvianamoitinho@gmail.com"
             }
         ]
     },
