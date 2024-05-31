@@ -8,6 +8,7 @@ cover: "images/godfrey_hounsfield.jpg"
 type: "featured"
 authors:
   - leonardoPedreira
+  - patrickMax
 ---
 
 Sendo idealizada em 1967 pelo engenheiro eletricista Godfrey Hounsfield, com contribuições anteriores do físico sul-africano Allan Cormack e baseando-se nos estudos do matemático austríaco Johann Radon, a tomografia computadorizada (TC) trouxe diversos avanços para a área da saúde, uma vez que permite o diagnóstico de patologias onde anteriormente eram necessários procedimentos cirúrgicos invasivos.
