@@ -1,8 +1,24 @@
 {
+    "leonardoPedreira": {
+        "name": "Leonardo Pedreira",
+        "image": "/images/guest/leonardoPedreira.png",
+        "signature": "Estudante de engenharia elétrica e gosta de ler livros. Está sempre tentando se desafiar e buscando dar seu melhor.",
+        "social": [
+            null
+        ]
+    },
     "moiraPrates": {
         "name": "Moira Prates",
         "image": "/images/guest/moiraPrates.jpg",
         "signature": "Engajada em uma jornada de aprendizado constante, sou estudante engenharia elétrica, amante de viagens, idiomas, música e jogadora de basquete nas horas vagas.",
+        "social": [
+            null
+        ]
+    },
+    "patrickMax": {
+        "name": "Patrick Max",
+        "image": "/images/guest/patrickMax.jpg",
+        "signature": "Estudante de elétrica, entusiasta de RPG de mesa e romances policiais. Acredito que cada pessoa e que uma conversa é uma oportunidade única de troca de conhecimento, vivências e experiências e devem ser aproveitadas ao máximo.",
         "social": [
             null
         ]
