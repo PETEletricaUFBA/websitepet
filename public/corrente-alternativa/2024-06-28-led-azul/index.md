@@ -10,7 +10,7 @@ authors:
   - leonardoPedreira
 ---
 
-Na atualidade, é indiscutível como a presença do LED azul e suas outras cores estão em todo lugar: seja nas telas dos celulares, nas televisões ou nas lâmpadas das residências. Porém, engana-se quem pensa que sua criação foi um processo simples e rápido, pois a existência do LED azul já foi considerada uma vez impossível pelos pesquisadores. Apesar de pouco conhecida, a história por trás do primeiro LED azul constrói-se pela mistura de resistência, sofrimento e, sobretudo, coragem de um engenheiro eletricista que batalhou contra todos aqueles que o humilharam e desacreditaram de sua capacidade. Ficou curioso? Continue lendo!**
+Na atualidade, é indiscutível como a presença do LED azul e suas outras cores estão em todo lugar: seja nas telas dos celulares, nas televisões ou nas lâmpadas das residências. Porém, engana-se quem pensa que sua criação foi um processo simples e rápido, pois a existência do LED azul já foi considerada uma vez impossível pelos pesquisadores. Apesar de pouco conhecida, a história por trás do primeiro LED azul constrói-se pela mistura de resistência, sofrimento e, sobretudo, coragem de um engenheiro eletricista que batalhou contra todos aqueles que o humilharam e desacreditaram de sua capacidade. Ficou curioso? Continue lendo!
 
 ## A disputada corrida para a sua criação
 
@@ -54,7 +54,7 @@ Mesmo após 32 anos desde sua formação, o LED azul ainda se constitui como uma
 _Representação de Isamu Akasaki, Hiroshi Amano e Shuji Nakamura, ganhadores do Nobel de 2014_
 
 ## Referências
-<https://www.nobelprize.org/prizes/physics/2014/nakamura/biographical/>
-<https://pt.m.wikipedia.org/wiki/Shuji_Nakamura>
-<https://www.youtube.com/watch?v=AF8d72mA41M&t=242s>
-<https://www.nobelprize.org/prizes/physics/2014/press-release/>
+<https://www.nobelprize.org/prizes/physics/2014/nakamura/biographical/>  
+<https://pt.m.wikipedia.org/wiki/Shuji_Nakamura>  
+<https://www.youtube.com/watch?v=AF8d72mA41M&t=242s>  
+<https://www.nobelprize.org/prizes/physics/2014/press-release/>  
