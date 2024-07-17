@@ -73,12 +73,19 @@ a:hover {
 }
 
 .section {
-  padding-top: 70px;
+  padding-top: 20px;
   padding-bottom: 70px;
 
   &-title {
     margin-bottom: 30px;
   }
+}
+.alinha-centro{
+  display: flex;
+  justify-content: center; /* Alinha horizontalmente ao centro */
+  align-items: center;    /* Alinha verticalmente ao centro */
+  padding-top: 20px; /* Ajuste conforme necessário */
+  //height: 100vh;          /* Ajusta a altura para centralização vertical completa */
 }
 
 .bg-cover {
