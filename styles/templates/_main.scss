@@ -51,11 +51,21 @@
 
 // blog post
 a.post-title {
-  color: $text-color-dark;
+  color: $text-color-dark; //$text-color-dark
   display: block;
 
   &:hover {
     color: $primary-color;
+  }
+}
+// descrição css
+a.post-description {
+  color: gray;
+  //display: block;
+  font-style: italic;
+
+  &:hover {
+    color: gray; //$primary-color
   }
 }
 
