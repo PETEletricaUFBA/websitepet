@@ -55,7 +55,7 @@ type: "featured"
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px; text-align: center;">
     <h3>Videoaulas</h3>
-    <iframe width="100%" src="https://www.youtube.com/watch?v=S9uPNppGsGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="100%" src="https://www.youtube.com/embed/3J1xBL7zJXg?si=qZ4lPsAvSpOe60Vy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p  style="color: #333;">Com os objetivos de aumentar a versatilidade e de atingir maiores públicos, nós promovemos também o minicurso na modalidade online, por meio da playlist no YouTube acima.</p>
     <a href="https://youtu.be/2ivBjmk-Tx0" class="btn btn-primary espaco-abaixo btn-sm" target="_blank">Abrir no YouTube</a>
   </div>
