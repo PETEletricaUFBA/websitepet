@@ -36,7 +36,7 @@ const Title = () => (
 
     <section className="section pb-0">
         <div className="container text-center">
-            <h1 className="display-3">Corrente Alternativa</h1>
+            <h1 className="display-3">Corrente Alternativaa</h1>
         </div>
     </section>
 
