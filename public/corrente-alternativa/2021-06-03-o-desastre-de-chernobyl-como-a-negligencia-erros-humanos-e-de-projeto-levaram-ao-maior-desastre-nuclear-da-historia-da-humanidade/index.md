@@ -17,6 +17,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 O desastre de Chernobyl é considerado o maior acidente nuclear da história da humanidade e as suas consequências se estendem mesmo 35 anos após o ocorrido. Os resultados do desastre vão desde consequências diretas como lugares inabitados por conta da radiação, a impactos indiretos como o fortalecimento de movimentos anti-nucleares.
 
 A Central Nuclear operava com quatro reatores capazes de gerar até 1000MW que alimentavam, cada um, dois geradores de energia elétrica. Os reatores que compõem a usina são do tipo RBMK (_Reaktor Bolshoy Moshchnosty Kanalnyy_**)** ou Reator Canalizado de Alta Potência devido, sobretudo, aos seus canais pressurizados. Com um plano inovador para a época, derivado de projetos antecessores os quais tinham como objetivo a criação de uma arma nuclear, os reatores eram refrigerados à água com canaletas individuais de combustível passando por dentro de blocos de grafite que, além de moderadores, atuavam como elementos estruturais do núcleo.

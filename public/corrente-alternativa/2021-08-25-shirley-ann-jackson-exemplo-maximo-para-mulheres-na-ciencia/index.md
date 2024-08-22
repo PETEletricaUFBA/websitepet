@@ -15,6 +15,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 Shirley Ann Jackson é um exemplo de persistência e luta. Durante sua vida, desafiou inúmeras barreiras raciais e de gênero, passando por todas de cabeça erguida e conquistando assim seu espaço na área ainda predominantemente masculina que é a Física. Se quer conhecer mais sobre a vida dessa incrível cientista que foi reconhecida pela Revista TIME como exemplo máximo para mulheres na ciência, continue lendo!
 
 ## Ensino Médio e Graduação

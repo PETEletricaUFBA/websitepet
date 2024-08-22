@@ -9,6 +9,11 @@ authors: []
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 ![Logo do CAEEL](images/CAEEL_168x150.jpg)
 
 Está acontecendo um debate sobre os estágios curriculares do curso, a Congregação passou a bola para o Colegiado dos cursos decidirem como encarar a matéria. O Posicionamento do CAEEL em relação as novas medidas de estágio para o Colegiado, como discutido nas últimas reuniões:
