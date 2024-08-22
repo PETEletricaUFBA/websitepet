@@ -14,6 +14,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), foi constatado que o Brasil, em 2020, possuía 30,6 milhões de trabalhadores com carteira assinada. Nas suas rotinas de trabalho, esses empregados formais estão frequentemente sujeitos a acidentes, assim como aqueles que não apresentam carteira assinada.
 
 Olhando o [**Anuário Brasileiro de Proteção de 2020**](https://bc.pressmatrix.com/pt-BR/profiles/1227998e328d/editions/eb4f7f53ec03ef6991cf), que analisa dados a respeito de saúde e segurança do trabalho no mundo, é notado que o Brasil ocupa a 3° posição mundial no ranking de número absoluto de mortes por acidente de trabalho. Além disso, encontra-se na 5° posição no que tange a acidentes não fatais no mundo, com o número absoluto de 549.405 de acidentes. Apesar desses dados serem alarmantes, deve ser ressaltado que o Brasil possui uma das maiores populações do mundo, acima de 213 milhões de habitantes (fonte: IBGE), aumentando o número de indivíduos expostos a esses acontecimentos. Por isso, quando se analisa a quantidade de acidentes por 100.000 trabalhadores, a posição brasileira cai para 43° no ranking mundial. Contudo, ainda se tem um número enorme de pessoas acidentadas e mortas no país.

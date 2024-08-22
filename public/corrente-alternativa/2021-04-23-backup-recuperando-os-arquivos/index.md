@@ -14,6 +14,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 O _backup_ ou cópia de segurança é uma medida de segurança a qual consiste na ação de copiar arquivos, permitindo sua recuperação em caso de perda. Trata-se de um recurso de grande importância para a segurança da informação porque garante o princípio da disponibilidade. Apesar de ser mais associado ao acesso lógico dos arquivos e informações, sua implementação pode ocorrer de forma física, através da redundância de equipamentos, por exemplo.
 
 Ressalta-se que essa medida deve ser feita fora do ambiente original com o uso de cds, pen-drives, hds externos, nuvem.
