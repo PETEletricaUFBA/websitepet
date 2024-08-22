@@ -10,6 +10,10 @@ authors:
   - leonardoPedreira
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
 
 Na atualidade, é indiscutível como a presença do LED azul e suas outras cores estão em todo lugar: seja nas telas dos celulares, nas televisões ou nas lâmpadas das residências. Porém, engana-se quem pensa que sua criação foi um processo simples e rápido, pois a existência do LED azul já foi considerada uma vez impossível pelos pesquisadores. Apesar de pouco conhecida, a história por trás do primeiro LED azul constrói-se pela mistura de resistência, sofrimento e, sobretudo, coragem de um engenheiro eletricista que batalhou contra todos aqueles que o humilharam e desacreditaram de sua capacidade. Ficou curioso? Continue lendo!
 

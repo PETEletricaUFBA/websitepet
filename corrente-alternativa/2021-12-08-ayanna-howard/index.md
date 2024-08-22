@@ -16,6 +16,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 Inspirada pelo programa de televisão The Bionic Woman, Ayanna Howard formou-se em engenharia Elétrica pela Brown University. Obteve seu Ph.D na mesma área pela University of Southern California, e em 2021 tornou-se a primeira mulher a liderar The Ohio State University College of Engineering.
 
 A engenheira e roboticista Ayanna Howard é natural de Altadena, na Califórnia. Filha de Johnetta MacCalla e Eric Conway MacCalla, Howard nasceu em 24 de janeiro de 1972 e foi a primeira dos dois filhos do casal. Ayanna viveu em Altadena durante sua infância com sua família que apesar de não possuir eletrodomésticos modernos, possuía suprimentos e conhecimento necessários para construí-los e consertá-los, dado que seus pais trabalhavam na área de Engenharia Elétrica e programação de computadores.

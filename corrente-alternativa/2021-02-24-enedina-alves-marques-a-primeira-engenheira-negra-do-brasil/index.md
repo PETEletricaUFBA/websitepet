@@ -14,6 +14,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 ## **OS PRIMEIROS ANOS**
 
 Nascida em 13 de janeiro de 1913, Enedina Alves foi a primeira mulher negra a se graduar em Engenharia no Brasil, sendo a quinta mulher a finalizar o curso de engenharia no país e também a primeira a se graduar em Engenharia Civil no Sul do País. Os pais de Enedina, Virgília Alves Marques e Paulo Marques, se separaram quando a menina era ainda muito jovem. Após a separação, Dona Virgília, que trabalhava como empregada doméstica, foi trabalhar e viver na casa do Major Domingos Nascimento. A jovem menina tinha a mesma idade da filha do Major Domingos e, por isso, ele as matriculou na mesma escola, para que pudessem fazer companhia uma para a outra. Apesar da oportunidade oferecida para ela, Enedina teve uma infância baseada no aprendizado de tarefas domésticas, atividade com a qual ela trabalhou até a sua diplomação como Professora Normalista em 4 de dezembro de 1931.
