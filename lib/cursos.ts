@@ -16,7 +16,7 @@ export function getSortedCursosData() {
         const file = path.join(postsDirectory, folderName, 'index.md');
         /*const teste = file.split('\\').slice(-2,-1);
         console.log(teste)*/
-        const id = file.split('/').slice(-2, -1)[0];
+        const id = file.split('/').slice(-2)[0];
         const fileContents = fs.readFileSync(file, 'utf8');
         const matterResult = matter(fileContents);
         const cover : string ='/cursos/'+id+"/"+matterResult.data.cover;
@@ -54,7 +54,7 @@ export function getAllCursosIds() {
 
         return {
             params: {
-                id: file.split('/').slice(-2, -1)[0]
+                id : file.split('/').slice(-2)[0]
             }
         };
     });
