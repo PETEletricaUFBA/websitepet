@@ -9,6 +9,11 @@ authors: []
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 No dia 28 de fevereiro o PET Elétrica esteve presente no evento do PET Pedagogia, na FACED (Faculdade de Educação da UFBA).
 
 A proposta principal é apresentar a UFBA para os estudantes de escolas públicas da região. O petiano Manoelito Filho (@manfilho) falou sobre a realidade da engenharia, da Politécnica, sobre a importância da Matemática e da Física e motivou bastante o público em ingressar na UFBA.

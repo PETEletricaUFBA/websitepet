@@ -17,9 +17,7 @@ type: "featured"
 ---
 
 <!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
-<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
-  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
-</div>
+<a href="javascript:history.back()" style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">&lt;</a>
 
 Inspirada pelo programa de televisão The Bionic Woman, Ayanna Howard formou-se em engenharia Elétrica pela Brown University. Obteve seu Ph.D na mesma área pela University of Southern California, e em 2021 tornou-se a primeira mulher a liderar The Ohio State University College of Engineering.
 
