@@ -15,9 +15,7 @@ type: "featured"
 ---
 
 <!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
-<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
-  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
-</div>
+<a href="javascript:history.back()" style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">&lt;</a>
 
 A Engenharia Social consiste na capacidade de obtenção dos dados e informações confidenciais através de falhas associadas ao sistema ou ao desconhecimento de práticas que possam favorecer à navegação segura do usuário. Essa prática ilegal já existia nos tempos em que as tecnologias ainda não estavam tão presentes no cotidiano da maioria das pessoas. Assim, muitos golpes podiam ocorrer através de ligações de falsos atendentes, exigindo o fornecimento de informações pessoais, como senhas bancárias.  Com o crescimento das redes sociais e de sistemas envolvendo transações financeiras, os ataques dos cibercriminosos também se tornaram mais recorrentes. A segurança da informação busca evitar esse roubo de dados além dos danos aos equipamentos e _softwares_ associados.
 

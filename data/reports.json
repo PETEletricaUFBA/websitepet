@@ -35,6 +35,22 @@
         {
             "year": "2019",
             "link": "/docs/downloads/relatorio2019.pdf"
+        },
+        {
+            "year": "2020",
+            "link": "/docs/downloads/relatorio2020.pdf"
+        },
+        {
+            "year": "2021",
+            "link": "/docs/downloads/relatorio2021.pdf"
+        },
+        {
+            "year": "2022",
+            "link": "/docs/downloads/relatorio2022.pdf"
+        },
+        {
+            "year": "2023",
+            "link": "/docs/downloads/relatorio2023.pdf"
         }
     ]
 }

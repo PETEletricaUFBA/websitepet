@@ -18,9 +18,7 @@ type: "featured"
 ---
 
 <!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
-<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
-  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
-</div>
+<a href="javascript:history.back()" style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">&lt;</a>
 
 Os _bots_ ou robôs virtuais são aplicações computacionais programadas para realizar, de forma autônoma, uma tarefa previamente determinada. Esses programas podem ser usados em diversos contextos e para finalidades distintas. Com isso, essa publicação apresenta o desenvolvimento de um robô virtual capaz de facilitar inúmeras atividades cotidianas.
 

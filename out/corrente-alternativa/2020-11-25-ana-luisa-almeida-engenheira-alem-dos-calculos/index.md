@@ -11,6 +11,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 Graduada em Engenharia química na UFBA, Ana Luisa Almeida é líder de Área de Produção e no Pilar de Manutenção Autônoma na Kordsa Brasil (Eleita Melhor Empresa para se Trabalhar no Brasil pela Você SA, em 2019).
 
 Apesar de ter passado por momentos de incertezas no início da graduação, Ana Luisa não desistiu e, inclusive, isso a motivou a fazer intercâmbio e a participar do projeto Alavanca, experiências que proporcionaram a descoberta de um novo mundo e a percepção de que a engenharia pode ir além dos cálculos.

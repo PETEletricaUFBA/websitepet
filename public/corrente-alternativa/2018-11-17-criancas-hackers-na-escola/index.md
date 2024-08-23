@@ -10,9 +10,7 @@ type: "featured"
 ---
 
 <!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
-<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
-  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
-</div>
+<a href="javascript:history.back()" style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">&lt;</a>
 
 Em parceria com o [Raul Hacker Club](http://www.raulhc.cc), estudantes de pedagogia da [FACED (Faculdade de Educação/UFBA)](https://faced.ufba.br/) e com a [Escola Municipal Osvaldo Cruz](https://goo.gl/maps/TSsE4i69A362), nós, do PET Elétrica, estamos trabalhando semanalmente em uma escola pública para estimular o aprendizado de programação em crianças da rede pública.
 

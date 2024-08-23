@@ -16,6 +16,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 Quando falamos em engenheiros nosso espaço amostral é gigante. Temos vários exemplos de todas as áreas possíveis, mas o que acontece quando fazemos o recorte feminino e perguntamos acerca das engenheiras? As opções que lhe vêm na cabeça se reduzem muito? E agora, se te perguntassem sobre engenheiras negras? Saberia apontar alguma? A ideia desse artigo é, primeiramente, fazer você se questionar. Por que temos menos engenheiras mulheres e por que quando falamos de mulheres negras o número reduz ainda mais?
 
 Internalize estes questionamentos para refletir um pouco mais tarde, porque o que queremos, neste momento, é que você conheça a Aprille Ericsson.

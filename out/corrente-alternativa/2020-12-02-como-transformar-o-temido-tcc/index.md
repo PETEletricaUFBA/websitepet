@@ -10,6 +10,11 @@ authors:
 type: "featured"
 ---
 
+<!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
+<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
+  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
+</div>
+
 _“Ele pode ser um atrativo para empresas que estão procurando jovens para contratar”,_ afirma a supervisora de relacionamento com instituições de ensino do CIEE (Centro de Integração Empresa-Escola), Laura Alves.
 
 Nada melhor que terminar o tão sonhado e desejado curso, não é mesmo?! Muitos estudantes se mantêm plenos nessa árdua tarefa até à reta final onde se defrontam com o temido Trabalho de Conclusão de Curso, o famoso TCC. Depois de quase cinco anos, ou mais, de muitas noites perdidas e estresses corriqueiros, o estudante, às vezes, termina dando diferentes níveis de importância ao seu trabalho final de curso. Contudo, esse comportamento é prejudicial, pois essa produção pode significar a abertura de uma porta para o mercado de trabalho, através de um novo emprego ou uma efetivação de estágio, além de futuras pós-graduações.
