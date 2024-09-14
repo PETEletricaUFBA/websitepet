@@ -13,7 +13,7 @@ const menu = [
   },
   {
     name: "Atividades",
-    link: "/activities",
+    link: "/atividades",
   },
   {
     name: "Cursos",

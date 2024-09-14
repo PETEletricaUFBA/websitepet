@@ -44,6 +44,28 @@
     font-size: 15px;
   }
 }
+.btn-atividades{
+  background-color: #001D7E;
+  border-color: #001D7E;
+  
+  &:hover,
+  &:active,
+  &:focus {
+    outline: 0;
+    @extend .shadow;
+
+    &::before {
+      height: 110%;
+      width: 110%;
+      background-color: #0073E3;
+    }
+  }
+
+  &-sm {
+    padding: 12px 30px;
+    font-size: 15px;
+  }
+}
 
 .btn-primary {
   background-color: $primary-color;
