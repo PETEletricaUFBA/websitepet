@@ -34,6 +34,7 @@ export default function Home({ allPostsData }: {
       <Banner />
       <CorrenteAlternativa featuredPost={allPostsData[0]} />
       <Triade />
+      <LivroPET15Anos />
       <Depoimentos />
       <Prosel />
 
@@ -124,12 +125,39 @@ function CorrenteAlternativa({ featuredPost }: { featuredPost: { id: string; lin
   );
 }
 
+const LivroPET15Anos = () => (
+  <section className="section bg-light"> 
+    <div className="container" style={{ marginTop: '10px' }}> 
+      <div className="row justify-content-center"> 
+        <div className="col-12 text-center"> 
+          <h2 className="section-title">LIVRO PET ELÉTRICA 15 ANOS</h2> 
+        </div> 
+        <div className="col-12 d-flex flex-column flex-md-row align-items-center" style={{ marginTop: '20px' }}> 
+          <div className="flex-fill" style={{ paddingRight: '10px' }}> 
+            <p className="mb-4" style={{ color: 'black' }}> 
+              O livro 15 Anos do grupo PET Elétrica UFBA é uma representação da realização coletiva fruto da ação de todos aqueles que se dedicaram e compuseram o grupo de aprendizagem nos últimos anos de história do PET UFBA. Sendo assim, como forma de valorizar e preservar cada história, foi criado o livro em comemoração aos seus históricos 15 anos. O livro é dividido entre os 3 pilares da educação (Ensino, Pesquisa e Extensão) e aborda em seu contexto as motivações e realizações de cada atividade PET já executada. Para saber mais sobre nosso livro basta acessar o link abaixo: 
+            </p> 
+            <div className="text-center" style={{ marginBottom: '10vh' }}>  
+              <Link href={"https://www.youtube.com"} passHref> 
+                <a title="Download" className="btn btn-primary">DOWNLOAD</a> 
+              </Link> 
+            </div> 
+          </div> 
+          <div style={{ flex: '0 0 auto', display: 'flex', justifyContent: 'flex-end' }}> 
+            <img src={"images/capalivro.jpg"} style={{ maxHeight: '70vh', display: 'block', objectFit: 'contain' }} /> 
+          </div> 
+        </div> 
+      </div> 
+    </div> 
+  </section>
+);
+
 const Triade = () => (
   <section className="section">
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-12 text-center">
-          <h2 className="section-title">Tríade para formação acadêmica.</h2>
+          <h2 className="section-title">Tríade para formação acadêmica</h2>
         </div>
         {triade.map((item, index) => (
           <div key={index} className="col-md-4 col-sm-6 mb-4">
@@ -170,7 +198,7 @@ const Depoimentos = () => {
     }
   };
   return (
-    <section className="section bg-light">
+    <section className="section ">
       <div className="">
         <div className="col-12 text-center">
           <h2 className="section-title">Depoimentos</h2>

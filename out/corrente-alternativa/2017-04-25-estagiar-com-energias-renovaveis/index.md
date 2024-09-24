@@ -10,9 +10,7 @@ type: "featured"
 ---
 
 <!--Botão para voltar para a página anterior (posts do corrente alternativa)-->
-<div style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">
-  <a href="javascript:history.back()" style="color: white; text-decoration: none;">&lt;</a>
-</div>
+<a href="javascript:history.back()" style="position: fixed; top: 50%; left: 20px; background-color: #001D7E; color: white; padding: 10px 15px; border-radius: 50%; text-decoration: none; font-size: 24px; z-index: 1000;">&lt;</a>
 
 _Confira o depoimento de quem está amando estagiar na área. Quais os tipos de atividade do estágio? O quão edificante é a experiência pra a carreira profissional?_
 
