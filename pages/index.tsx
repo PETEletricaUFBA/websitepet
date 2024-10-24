@@ -132,8 +132,9 @@ const LivroPET15Anos = () => (
         <div className="col-12 text-center"> 
           <h2 className="section-title">LIVRO PET ELÉTRICA 15 ANOS</h2> 
         </div> 
-        <div className="col-12 d-flex flex-column flex-md-row align-items-center" style={{ marginTop: '20px' }}> 
-          <div className="flex-fill" style={{ paddingRight: '10px' }}> 
+        <div className="col-12 d-flex flex-column flex-md-row" style={{ marginTop: '20px' }}> 
+          {/* Coluna para o texto */}
+          <div className="col-12 col-md-6" style={{ paddingRight: '10px' }}> 
             <p className="mb-4" style={{ color: 'black' }}> 
               O livro 15 Anos do grupo PET Elétrica UFBA é uma representação da realização coletiva fruto da ação de todos aqueles que se dedicaram e compuseram o grupo de aprendizagem nos últimos anos de história do PET UFBA. Sendo assim, como forma de valorizar e preservar cada história, foi criado o livro em comemoração aos seus históricos 15 anos. O livro é dividido entre os 3 pilares da educação (Ensino, Pesquisa e Extensão) e aborda em seu contexto as motivações e realizações de cada atividade PET já executada. Para saber mais sobre nosso livro basta acessar o link abaixo: 
             </p> 
@@ -143,15 +144,17 @@ const LivroPET15Anos = () => (
               </Link> 
             </div> 
           </div> 
-          <div style={{ flex: '0 0 auto', display: 'flex', justifyContent: 'flex-end' }}> 
-            {/*<img src={"images/capalivro.jpg"} style={{ maxHeight: '70vh', display: 'block', objectFit: 'contain' }} />*/}
-            <iframe src="https://github.com/PETEletricaUFBA/peteletricaufba.github.io/tree/Sarah/public/docs/LivroPET15Anos.pdf" width="100%" height="600px"></iframe>
+
+          {/* Coluna para o PDF */}
+          <div className="col-12 col-md-6 d-flex justify-content-center" style={{ flex: '0 0 auto', marginTop: '20px' }}>
+            <iframe src="https://drive.google.com/file/d/1CTc-eMnbgjVZlPshn-AdzDhhHEChiJQc/view" width="100%" height="600px" style={{ maxWidth: '100%' }}></iframe>
           </div> 
         </div> 
       </div> 
     </div> 
   </section>
 );
+
 
 const Triade = () => (
   <section className="section">
