@@ -144,7 +144,8 @@ const LivroPET15Anos = () => (
             </div> 
           </div> 
           <div style={{ flex: '0 0 auto', display: 'flex', justifyContent: 'flex-end' }}> 
-            <img src={"images/capalivro.jpg"} style={{ maxHeight: '70vh', display: 'block', objectFit: 'contain' }} /> 
+            {/*<img src={"images/capalivro.jpg"} style={{ maxHeight: '70vh', display: 'block', objectFit: 'contain' }} />*/}
+            <iframe src="https://github.com/PETEletricaUFBA/peteletricaufba.github.io/tree/Sarah/public/docs/LivroPET15Anos.pdf" width="100%" height="600px"></iframe>
           </div> 
         </div> 
       </div> 
