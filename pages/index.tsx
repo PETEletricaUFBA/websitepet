@@ -132,29 +132,29 @@ const LivroPET15Anos = () => (
         <div className="col-12 text-center"> 
           <h2 className="section-title">LIVRO PET ELÉTRICA 15 ANOS</h2> 
         </div> 
-        <div className="col-12 d-flex flex-column flex-md-row" style={{ marginTop: '20px' }}> 
+        <div className="col-12 d-flex flex-column flex-md-row" style={{ paddingRight: '10px' }}>
           {/* Coluna para o texto */}
-          <div className="col-12 col-md-6" style={{ paddingRight: '10px' }}> 
-            <p className="mb-4" style={{ color: 'black' }}> 
-              O livro 15 Anos do grupo PET Elétrica UFBA é uma representação da realização coletiva fruto da ação de todos aqueles que se dedicaram e compuseram o grupo de aprendizagem nos últimos anos de história do PET UFBA. Sendo assim, como forma de valorizar e preservar cada história, foi criado o livro em comemoração aos seus históricos 15 anos. O livro é dividido entre os 3 pilares da educação (Ensino, Pesquisa e Extensão) e aborda em seu contexto as motivações e realizações de cada atividade PET já executada. Para saber mais sobre nosso livro basta acessar o link abaixo: 
-            </p> 
-            <div className="text-center" style={{ marginBottom: '10vh' }}>  
-              <Link href={"https://www.youtube.com"} passHref> 
-                <a title="Download" className="btn btn-primary">DOWNLOAD</a> 
-              </Link> 
-            </div> 
-          </div> 
-
+          <div className="col-12 col-md-6 d-flex flex-column justify-content-center" style={{ paddingRight: '10px' }}>
+            <p className="mb-4" style={{ color: 'black' }}>
+              O livro 15 Anos do grupo PET Elétrica UFBA é uma representação da realização coletiva fruto da ação de todos aqueles que se dedicaram e compuseram o grupo de aprendizagem nos últimos anos de história do PET UFBA. Sendo assim, como forma de valorizar e preservar cada história, foi criado o livro em comemoração aos seus históricos 15 anos. O livro é dividido entre os 3 pilares da educação (Ensino, Pesquisa e Extensão) e aborda em seu contexto as motivações e realizações de cada atividade PET já executada. Para saber mais sobre nosso livro basta acessar o link abaixo:
+            </p>
+            <div className="text-center">
+              <Link href={"https://drive.google.com/file/d/1CTc-eMnbgjVZlPshn-AdzDhhHEChiJQc/view"} passHref>
+                <a title="Download" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
+                  DOWNLOAD
+                </a>
+              </Link>
+            </div>
+          </div>
           {/* Coluna para o PDF */}
-          <div className="col-12 col-md-6 d-flex justify-content-center" style={{ flex: '0 0 auto', marginTop: '20px' }}>
-            <iframe src="https://drive.google.com/file/d/1CTc-eMnbgjVZlPshn-AdzDhhHEChiJQc/view" width="100%" height="600px" style={{ maxWidth: '100%' }}></iframe>
-          </div> 
-        </div> 
+          <div className="col-12 col-md-6 d-flex justify-content-center align-items-center mt-3 mt-md-0">
+            <iframe src="https://drive.google.com/file/d/1CTc-eMnbgjVZlPshn-AdzDhhHEChiJQc/preview" style={{ width: '100%', height: '80vh', borderRadius: '15px', overflow: 'hidden' }} ></iframe>
+          </div>
+        </div>
       </div> 
     </div> 
   </section>
 );
-
 
 const Triade = () => (
   <section className="section">
@@ -202,7 +202,7 @@ const Depoimentos = () => {
     }
   };
   return (
-    <section className="section ">
+    <section className="section">
       <div className="">
         <div className="col-12 text-center">
           <h2 className="section-title">Depoimentos</h2>
@@ -236,7 +236,7 @@ const Depoimentos = () => {
 
 const Prosel = () => (
   <section className="section">
-    <div className="container section shadow rounded-lg px-4">
+    <div className="bg-gray container section shadow rounded-lg px-4">
       <div className="row align-items-center justify-content-center text-center text-md-left">
         <div className="col-lg-4 col-md-5 mb-4 mb-md-0">
           <div className="img-fluid">
