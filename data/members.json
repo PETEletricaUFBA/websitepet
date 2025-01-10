@@ -37,7 +37,7 @@
     },
     "daniloFigueiredo": {
         "name": "Danilo Figueiredo",
-        "active": true,
+        "active": false,
         "image": "/images/team/daniloFigueiredo.jpg",
         "bio": null,
         "signature": null,
@@ -73,7 +73,7 @@
     },
     "fredericoSouza": {
         "name": "Frederico Souza",
-        "active": true,
+        "active": false,
         "image": "/images/team/fredericoSouza.png",
         "bio": null,
         "signature": null,
@@ -91,7 +91,7 @@
     },
     "gianlucaSouza": {
         "name": "Gianluca Pêpe França",
-        "active": true,
+        "active": false,
         "image": "/images/team/gianlucaSouza.jpg",
         "bio": "Aos braços do passado dedico as minhas vitórias, fiz o melhor que pude. Fracassos do passado mudaram minha trajetória, busquei a plenitude.",
         "signature": null,
@@ -293,7 +293,7 @@
     },
     "tiscileCabral": {
         "name": "Tíscile Cabral",
-        "active": true,
+        "active": false,
         "image": "/images/team/tiscileCabral.jpg",
         "bio": "“Comovo-me em excesso por natureza e por ofício. Acho medonho alguém viver sem paixões.” Graciliano Ramos",
         "signature": "Estudante do curso de Engenharia Elétrica e amante da física. Sou apaixonada por café, gosto de ouvir música e também de cozinhar para as pessoas que amo.",
@@ -311,7 +311,7 @@
     },
     "yureCarneiro": {
         "name": "Yure Carneiro",
-        "active": true,
+        "active": false,
         "image": "/images/team/yureCarneiro.jpg",
         "bio": null,
         "signature": null,
